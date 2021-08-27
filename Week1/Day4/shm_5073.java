@@ -17,6 +17,7 @@ public class shm_5073 {
 				sum += input;
 			}
 			
+			//// 까리하네
 			if (sum == 0)
 				break;
 			
@@ -31,4 +32,4 @@ public class shm_5073 {
 		}
 	}
 }
-//// 굿굿
+//// 굿굿 :22 깔끔하다

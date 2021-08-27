@@ -12,13 +12,15 @@ public class kcm_5073 {
 				num[i] = in.nextInt();
 			}
 			for(int i =0; i < num.length; i++) {
+				//// 요렇게 여러 줄 감싸는건 가독성을 위해 { } 중괄호 꼭 넣어줘
 				for(int j = i+1; j < num.length; j++)
-					if(num[j] >= num[i]) {				//배워갑니다~
+					if(num[j] >= num[i]) {				////배워갑니다~
 						int max = num[j];
 						num[j] = num[i];
 						num[i] = max;			
 					}
 			}
+			//// 이런 것도 웬만하면 { } 중괄호 넣는게 좋음. 한줄이라서 안 쓰는거 이해되긴 함
 			if(num[0] == num[1] && num[2] ==num [1] && num[0] == 0)
 				break;
 			else if(num[0]== num[1] && num[1] == num[2])
