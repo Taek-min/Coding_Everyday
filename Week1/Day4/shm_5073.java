@@ -18,7 +18,7 @@ public class shm_5073 {
 			}
 			
 			//// 한줄이라도 중괄호 { } 넣어주는게 좋음
-			if (sum == 0) //// sum == 0 까리하네
+			if (sum == 0) //// sum == 0 까리하네 :22
 				break;
 			
 			if (side[0] >= side[1] + side[2] || side[1] >= side[0] + side[2] || side[2] >= side[0] + side[1])

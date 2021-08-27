@@ -15,7 +15,7 @@ public class kcm_5073 {
 			for(int i =0; i < num.length; i++) {
 				//// 요렇게 여러 줄 감싸는건 가독성을 위해 { } 중괄호 꼭 넣어줘
 				for(int j = i+1; j < num.length; j++)
-					if(num[j] >= num[i]) {				////배워갑니다~
+					if(num[j] >= num[i]) {				////배워갑니다~ : 22
 						int max = num[j];
 						num[j] = num[i];
 						num[i] = max;			

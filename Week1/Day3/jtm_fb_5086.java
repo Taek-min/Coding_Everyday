@@ -5,7 +5,7 @@ public class Main
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in);
 	    while(true){
-				//// 탭 정리 좀 
+				//// 탭 정리 좀 : 웹 컴파일러에서 옮겨오면 이렇게 되더라구 신경쓰겠습니다..
 	        int first = sc.nextInt();
 			int second = sc.nextInt();
 			
