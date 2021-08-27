@@ -17,6 +17,7 @@
 [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) |
 [<sub>![Bronze3]</sub> 삼각형과 세 변](https://www.acmicpc.net/problem/5073) |
 [<sub>![Bronze3]</sub> 부재중 전화](https://www.acmicpc.net/problem/1333) |
+[<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) |
 
 
 ## 👨‍💻 스터디원
