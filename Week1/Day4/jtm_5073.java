@@ -13,7 +13,7 @@ public class Main {
 				max = (a > c) ? a : c;
 		}
 		
-		//// 위 조건에서 return이 됐으면 자연스럽게 else문도 필요없게 됨
+		//// 위 조건에서 return이 됐으면 자연스럽게 else문도 필요없게 됨 :: 22
 		else 
 			max = (b > c) ? b : c;
 		return max;
@@ -33,7 +33,7 @@ public class Main {
 			int max = maxNum(a, b, c);
 			
 			//// AND 문 어디다 팔아먹었어
-			//// 그리고 Invalid 판별은 그냥 max >= (a+b+c-max)를 체크하면 됐음 :22
+			//// 그리고 Invalid 판별은 그냥 max >= (a+b+c-max)를 체크하면 됐음 :33
 			if(a == max) {
 				if(a >= b+c)
 					result = "Invalid";
