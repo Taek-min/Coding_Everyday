@@ -59,11 +59,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://solved.ac/">
+      <a href="https://solved.ac/ckdals6932">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ckdals6932">
       </a>
     <td align="center">
-      <a href="https://solved.ac/">
+      <a href="https://solved.ac/tjgusals42">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tjgusals42">
       </a>
     </td>
@@ -73,7 +73,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://solved.ac/jtm1124">
+      <a href="https://solved.ac/jjklunicc">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jjklunicc">
       </a>
     </td>
