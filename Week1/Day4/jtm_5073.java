@@ -2,9 +2,9 @@ package algorithm;
 import java.util.Scanner;
 
 public class Main {
-    
+
 	static int maxNum(int a, int b, int c) {
-		//// max 변수를 담을 이유가 없어보임. 그냥 바로 return 하는게 깔끔했을 듯
+		//// max 변수를 담을 이유가 없어보임. 그냥 바로 return 하는게 깔끔했을 듯 :22
 		int max = 0;
 		if(a > b) {
 			if(b > c)
@@ -33,7 +33,7 @@ public class Main {
 			int max = maxNum(a, b, c);
 			
 			//// AND 문 어디다 팔아먹었어
-			//// 그리고 Invalid 판별은 그냥 max >= (a+b+c-max)를 체크하면 됐음
+			//// 그리고 Invalid 판별은 그냥 max >= (a+b+c-max)를 체크하면 됐음 :22
 			if(a == max) {
 				if(a >= b+c)
 					result = "Invalid";
@@ -46,7 +46,8 @@ public class Main {
 				if(c >= a + b)
 					result = "Invalid";
 			}
-			
+
+			////Invalid 로 판정된 애들은 여기까지 안내려오게 해주면 더 좋을 거 같아요!
 			if(result == "" && a == b && b == c )
 				result = "Equilateral";
 			else if(result == "" && (a == b && b != c) || (a == c && b != c) || (b == c && a != b))
