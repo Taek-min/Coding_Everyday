@@ -21,7 +21,7 @@ public class kcm_1333 {
 				
 			}
 			count++; // 곡 수.
-			if(count > n) {
+			if(count > n) {					////이 if문이 앨범 내 모든 곡이 재생 된 후 조건문인건가? 현민
 				for(int j =1; ; j++) {
 					if(d * j >= time) {
 						System.out.println(d*j);

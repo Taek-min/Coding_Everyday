@@ -24,7 +24,7 @@ public class Test
 			}
 			nowTime += 5;
 		}
-		Console.Write(nextRing);
+		Console.Write(nextRing);        ////¾¾¼¥ ´«¿¡ ÀÍÇô°©´Ï´Ù,,,
 	}
 	static int[] ReadInt()
 	{
