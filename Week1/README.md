@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | 창민 [현민](Day6/shm_2997.java) 택민 예은 | 창민 현민 택민 예은             |
 
 ## [7일차](Day7)
 
