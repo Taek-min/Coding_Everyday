@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | 창민 현민 택민             |
+| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | 창민 현민 [택민](Day3/jtm_fb_5086.java)           |
 
 ## [4일차](Day4)
 
@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) 택민 [예은](Day5/lye_1333.cs) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | 창민 현민 택민 예은             |
 
 ## [6일차](Day6)
 
