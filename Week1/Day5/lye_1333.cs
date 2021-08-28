@@ -5,12 +5,14 @@ public class Test
 	public static void Main()
 	{
 		int[] inputs = ReadInt();
+		//// 변수 작명 굳
 		int songCnt = inputs[0];
 		int songLen = inputs[1];
 		int ringTerm = inputs[2];
 		int nowTime = 0;
 		int nextRing = ringTerm;
 		
+		//// 로직 이해하기 쉬웠어요
 		for(int i=0; i<songCnt; i++)
 		{
 			nowTime += songLen;
@@ -26,6 +28,8 @@ public class Test
 		}
 		Console.Write(nextRing);        ////씨샾 눈에 익혀갑니다...
 	}
+	
+	//// ReadInts가 맞는 것 같슴다
 	static int[] ReadInt()
 	{
 		string[] inputs = Console.ReadLine().Split(' ');
