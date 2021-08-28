@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Main {
 
-	static int maxNum(int a, int b, int c) {
-		//// max 변수를 담을 이유가 없어보임. 그냥 바로 return 하는게 깔끔했을 듯 :22
+	static int maxNum(int a, int b, int c) {	//// 함수 활용 까먹었는데 그래도 잘 활용하시네요 참고하겠습니당.
+		//// max 변수를 담을 이유가 없어보임. 그냥 바로 return 하는게 깔끔했을 듯 :: 22
 		int max = 0;
 		if(a > b) {
 			if(b > c)
