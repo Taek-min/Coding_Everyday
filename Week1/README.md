@@ -28,13 +28,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | 창민 현민 [택민](Day3/jtm_fb_5086.java)           |
+| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | 창민 [현민](Day3/shm_5086.py) [택민](Day3/jtm_fb_5086.java)           |
 
 ## [4일차](Day4)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [창민](Day4/kcm_5073.java) [현민](Day4/shm_5073.java) [택민](Day4/jtm_5073.java) [예은](Day4/lye_5073.cs) | 창민 현민 택민 [예은](Day4/lye_5073.cs)             |
+| [<sub>![Bronze3]</sub> 삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [창민](Day4/kcm_5073.java) [현민](Day4/shm_5073.java) [택민](Day4/jtm_5073.java) [예은](Day4/lye_5073.cs) | 창민 [현민](Day4/shm_5073_fb.java) 택민 [예은](Day4/lye_5073.cs)             |
 
 ## [5일차](Day5)
 

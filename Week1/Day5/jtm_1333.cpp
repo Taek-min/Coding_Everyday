@@ -29,7 +29,10 @@ int main()
 
         cnt += L + 5;
     }
+			
+    int sec = D;				//// 여기과정부터 이해가 잘 안돼서 물어볼게,,!
 
+    while (check_time[sec])		
     int sec = D;
 
     //// 이 밑에 while문 두번 돌리는게 무슨 과정이야,,,??
