@@ -28,28 +28,28 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | 창민 [현민](Day3/shm_5086.py) [택민](Day3/jtm_fb_5086.java)           |
+| [<sub>![Bronze3]</sub> 배수와 약수](https://www.acmicpc.net/problem/5086) | [창민](Day3/kcm_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_5086.java) | [창민](Day3/kcm_fb_5086.java) [현민](Day3/shm_5086.py) [택민](Day3/jtm_fb_5086.java)           |
 
 ## [4일차](Day4)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [창민](Day4/kcm_5073.java) [현민](Day4/shm_5073.java) [택민](Day4/jtm_5073.java) [예은](Day4/lye_5073.cs) | 창민 [현민](Day4/shm_5073_fb.java) 택민 [예은](Day4/lye_5073.cs)             |
+| [<sub>![Bronze3]</sub> 삼각형과 세 변](https://www.acmicpc.net/problem/5073) | [창민](Day4/kcm_5073.java) [현민](Day4/shm_5073.java) [택민](Day4/jtm_5073.java) [예은](Day4/lye_5073.cs) | [창민](Day4/kcm_fb_5073.java) [현민](Day4/shm_5073_fb.java) 택민 [예은](Day4/lye_5073.cs)             |
 
 ## [5일차](Day5)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](kcm_fb_1333.java) 현민 택민 예은             |
 
 ## [6일차](Day6)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | 창민 [현민](Day6/shm_2997.java) 택민 [예은](Day6/lye_2997.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | [창민](Day6/kcm_2997.java) [현민](Day6/shm_2997.java) 택민 [예은](Day6/lye_2997.py) | 창민 현민 택민 예은             |
 
 ## [7일차](Day7)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
