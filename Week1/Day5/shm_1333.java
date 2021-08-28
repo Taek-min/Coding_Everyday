@@ -11,7 +11,7 @@ public class shm_1333 {
 		int N = sc.nextInt();
 		int L = sc.nextInt();
 		int D = sc.nextInt();
-		//// cmp라는 이름으론 변수의 의도를 알기 어려움
+		//// cmp라는 이름으론 변수의 의도를 알기 어려움 : 2
 		int cmp = 0;
 		//// 공식 활용을 잘 한거 같아요
 		for (int i = 0; i < N; i++) { 

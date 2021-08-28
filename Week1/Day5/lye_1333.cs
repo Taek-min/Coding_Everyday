@@ -26,7 +26,7 @@ public class Test
 			}
 			nowTime += 5;
 		}
-		Console.Write(nextRing);        ////씨샾 눈에 익혀갑니다... //// 우리도 이해하기 쉽게 해주신거같아요 감사합니다.
+		Console.Write(nextRing);        ////씨샾 눈에 익혀갑니다... //// 우리도 이해하기 쉽게 해주신거같아요 감사합니다. :2
 	}
 	
 	//// ReadInts가 맞는 것 같슴다
