@@ -36,7 +36,7 @@ int main()
     while (check_time[sec])
         sec += D;
 
-    //// 29~30줄 때문에 이 while문은 실행될 일이 없음. 33~34줄을 빼도 '맞았습니다' 잘 나옴
+    //// 36~37줄 때문에 이 while문은 실행될 일이 없음. 40~41줄을 빼도 '맞았습니다' 잘 나옴
     while (check_time[sec])
         sec--;
 
