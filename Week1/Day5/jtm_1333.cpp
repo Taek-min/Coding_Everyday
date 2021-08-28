@@ -39,7 +39,7 @@ int main()
     while (check_time[sec])
         sec += D;
 
-    //// 위 while문 이 while문은 실행될 일이 없음. 이 while문을 빼도 '맞았습니다' 잘 나옴
+    //// 위 while문 때문에 이 while문은 실행될 일이 없음. 이 while문을 빼도 '맞았습니다' 잘 나옴
     while (check_time[sec])
         sec--;
 
