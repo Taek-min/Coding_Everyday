@@ -10,7 +10,7 @@ public class shm_1333 {
 		int L = sc.nextInt();
 		int D = sc.nextInt();
 		int cmp = 0;
-		
+		//// 공식 활용을 잘 한거 같아요
 		for (int i = 0; i < N; i++) { 
 			for (int t = (i*(L+5)+L); t < (i+1)*(L+5); t++) {
 				if(t % D == 0) {	// 간주와 알람 일치 시 

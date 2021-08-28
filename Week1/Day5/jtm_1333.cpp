@@ -12,6 +12,7 @@ int main()
     scanf("%d", &D);
     int cnt = 0;
 
+    ////생각 치 못한 방법이라 신선ㄴ해요!
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < L; j++)
@@ -24,6 +25,7 @@ int main()
 
     int sec = D;
 
+    //// 이 밑에 while문 두번 돌리는게 무슨 과정이야,,,??
     while (check_time[sec])
         sec += D;
 
