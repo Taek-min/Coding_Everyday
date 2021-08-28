@@ -21,10 +21,10 @@ int main()
 
         cnt += L + 5;
     }
+			
+    int sec = D;				//// 신기하고 간단하게 잘풀었네요,,!
 
-    int sec = D;
-
-    while (check_time[sec])
+    while (check_time[sec])		
         sec += D;
 
     while (check_time[sec])
