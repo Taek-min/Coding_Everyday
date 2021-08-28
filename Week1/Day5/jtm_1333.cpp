@@ -31,12 +31,12 @@ int main()
     }
 			
     int sec = D;				//// 여기과정부터 이해가 잘 안돼서 물어볼게,,! : 2 나도 여기 while문 부터는 뭔말인지 모르겟어 물어볼게.
-    
+
     //// 이 밑에 while문 두번 돌리는게 무슨 과정이야,,,??
-    //// 위 while문 때문에 이 while문은 실행될 일이 없음. 이 while문을 빼도 '맞았습니다' 잘 나옴
     while (check_time[sec])
         sec += D;
 
+    //// 위 while문 때문에 이 while문은 실행될 일이 없음. 이 while문을 빼도 '맞았습니다' 잘 나옴
     while (check_time[sec])
         sec--;
 
