@@ -10,6 +10,6 @@ elif secondDiff < firstDiff :
     print(numbers[0] + secondDiff)
 else :
     print(numbers[1] + firstDiff)
-#### 굳굳
-#### 개깔끔
+#### 굳굳 :2
+#### 개깔끔: 2
 
