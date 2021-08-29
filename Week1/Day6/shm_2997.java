@@ -22,7 +22,7 @@ public class shm_2997 {
 		if (cmp1 == cmp2) {
 			System.out.println(num[2] + cmp1);
 		}
-		else
+		else //// else도 자기 중괄호 달래요
 			if (cmp1 > cmp2) {
 				System.out.println(num[0] + cmp2);
 			}
@@ -30,4 +30,4 @@ public class shm_2997 {
 				System.out.println(num[2] - cmp1);
 	}
 }
-////깔끔합니다~
+////깔끔합니다~ : 22

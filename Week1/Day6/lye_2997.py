@@ -11,4 +11,5 @@ elif secondDiff < firstDiff :
 else :
     print(numbers[1] + firstDiff)
 #### 굳굳
+#### 개깔끔
 
