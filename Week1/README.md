@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](Day5/kcm_fb_1333.java) [현민](Day5/shm_1333_fb.java) 택민 [예은](Day5/lye_fb_1333.cs)             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](Day5/kcm_fb_1333.java) [현민](Day5/shm_1333_fb.java) [택민](Day5/jtm_fb_1333.cpp) [예은](Day5/lye_fb_1333.cs)             |
 
 ## [6일차](Day6)
 
