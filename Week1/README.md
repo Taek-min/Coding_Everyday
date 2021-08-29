@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | 창민 현민 택민 [예은](Day7/lye_2875.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | [창민](Day7/kcm_2875.java) 현민 택민 [예은](Day7/lye_2875.py) | 창민 현민 택민 예은             |
