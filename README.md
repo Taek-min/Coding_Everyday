@@ -19,6 +19,7 @@
 [<sub>![Bronze3]</sub> 부재중 전화](https://www.acmicpc.net/problem/1333) |
 [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) |
 [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) |
+[<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) |
 
 ## 👨‍💻 스터디원
 <table>
