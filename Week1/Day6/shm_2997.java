@@ -30,3 +30,4 @@ public class shm_2997 {
 				System.out.println(num[2] - cmp1);
 	}
 }
+////깔끔합니다~

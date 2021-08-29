@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](kcm_fb_1333.java) 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](kcm_fb_1333.java) 현민 택민 [예은](lye_fb_1333.cs)             |
 
 ## [6일차](Day6)
 
@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | 창민 현민 택민 [예은](Day7/lye_2875.py) | 창민 현민 택민 예은             |

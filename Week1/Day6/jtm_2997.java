@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
+	//// 경우를 조금 더 단순히 나누면 코드가 더 간단해질 수 있을 거 같아요!
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
         int []arr = new int[3];
