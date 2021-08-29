@@ -40,16 +40,16 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](Day5/kcm_fb_1333.java) 현민 택민 [예은](Day5/lye_fb_1333.cs)             |
+| [<sub>![Bronze3]</sub> 부재중전화](https://www.acmicpc.net/problem/1333) | [창민](Day5/kcm_1333.java) [현민](Day5/shm_1333.java) [택민](Day5/jtm_1333.cpp) [예은](Day5/lye_1333.cs) | [창민](Day5/kcm_fb_1333.java) [현민](Day5/shm_1333_fb.java) 택민 [예은](Day5/lye_fb_1333.cs)             |
 
 ## [6일차](Day6)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | [창민](Day6/kcm_2997.java) [현민](Day6/shm_2997.java) [택민](Day6/jtm_2997.java) [예은](Day6/lye_2997.py) | [창민](Day/kcm_fb_2997.java) 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | [창민](Day6/kcm_2997.java) [현민](Day6/shm_2997.java) [택민](Day6/jtm_2997.java) [예은](Day6/lye_2997.py) | [창민](Day/kcm_fb_2997.java) [현민](Day6/shm_2997_fb.java) 택민 예은             |
 
 ## [7일차](Day7)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | [창민](Day7/kcm_2875.java) 현민 택민 [예은](Day7/lye_2875.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) | [창민](Day7/kcm_2875.java) [현민](Day7/kcm_2875.java) 택민 [예은](Day7/lye_2875.py) | 창민 현민 택민 예은             |
