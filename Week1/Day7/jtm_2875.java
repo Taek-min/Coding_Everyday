@@ -21,5 +21,5 @@ class Main{
 		}
 		System.out.println(team);
 	}
-}
+}////뭔가 신기하게 잘푼단말이야
 
