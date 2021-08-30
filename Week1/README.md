@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | [창민](Day6/kcm_2997.java) [현민](Day6/shm_2997.java) [택민](Day6/jtm_2997.java) [예은](Day6/lye_2997.py) | [창민](Day6/kcm_fb_2997.java) [현민](Day6/shm_2997_fb.java) 택민 [예은](Day6/lye_2875.py)             |
+| [<sub>![Bronze3]</sub> 네 번째 수](https://www.acmicpc.net/problem/2997) | [창민](Day6/kcm_2997.java) [현민](Day6/shm_2997.java) [택민](Day6/jtm_2997.java) [예은](Day6/lye_2997.py) | [창민](Day6/kcm_fb_2997.java) [현민](Day6/shm_2997_fb.java) 택민 [예은](Day6/lye_2997.py)             |
 
 ## [7일차](Day7)
 
