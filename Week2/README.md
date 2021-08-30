@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) 택민 [예은](Day8/lye_3058.py) | 창민 현민 택민 예은             |
 
 ## [9일차](Day9)
 
