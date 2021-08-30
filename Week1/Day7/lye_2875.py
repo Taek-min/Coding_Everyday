@@ -10,4 +10,4 @@ while girlCnt >= 2 and boyCnt >= 1 :
 		break
 	
 print(teamCnt)
-####깔꼼 b : 2
+####깔꼼 b : 2 : 3

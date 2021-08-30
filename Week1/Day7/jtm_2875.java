@@ -1,13 +1,15 @@
 import java.util.Scanner;
 class Main{
+	//// 무난쓰
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
+		//// 항상 백준에 제출해서 맞은 코드로 업로드 부탁
 		int female, male, intern;  //// , 빠져서 넣어드렷습니다.
 		female = sc.nextInt();
 		male = sc.nextInt();
 		intern = sc.nextInt();
 		
-		int  team= 0;
+		int  team= 0; //// 띄어쓰기 불-편
 		//// 반복문 하나로 풀 수 있지 않을까나??
 		while(female >= 2 && male >=1) {
 			female -= 2;

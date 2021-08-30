@@ -9,6 +9,7 @@ public class kcm_2875 {
 		int internship = in.nextInt();
 		
 		//// 오 이거 좀 깐지나네?
+		//// 무한반복은 헷갈리지 않게 while(true)로 하는 게 좋은 것 같슴다
 		for(int i = 1; ; i++) {
 			woman -= 2;
 			man -= 1;
