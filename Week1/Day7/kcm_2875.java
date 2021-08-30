@@ -8,6 +8,7 @@ public class kcm_2875 {
 		int man = in.nextInt();
 		int internship = in.nextInt();
 		
+		//// 오 이거 좀 깐지나네?
 		for(int i = 1; ; i++) {
 			woman -= 2;
 			man -= 1;

@@ -8,6 +8,7 @@ class Main{
 		intern = sc.nextInt();
 		
 		int  team= 0;
+		//// 반복문 하나로 풀 수 있지 않을까나??
 		while(female >= 2 && male >=1) {
 			female -= 2;
 			male--;

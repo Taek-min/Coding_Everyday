@@ -10,6 +10,7 @@ public class shm_2875 {
 		int man = sc.nextInt();
 		int internShip = sc.nextInt();
 		
+		////이거는 무슨 방법으로 푼거야??
 		for (int i = 0; i < internShip; i++) {
 			if (woman / 2 >= man) {
 				woman -= 1;
