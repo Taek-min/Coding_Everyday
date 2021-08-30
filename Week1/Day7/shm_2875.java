@@ -18,7 +18,7 @@ public class shm_2875 {
 				man -= 1;
 			}
 		}
-		System.out.println(Math.min(woman/2, man));
+		System.out.println(Math.min(woman/2, man)); //// 배워갑니다.
 	}
 
 }
