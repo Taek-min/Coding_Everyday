@@ -19,7 +19,7 @@ public class kcm_3058 {
 					if(min == 0) {
 						min = num[i];
 					}
-					//// 이건 그냥 팁인데 23~25줄을 min = (min > num[i]) ? num[i] : min; 이렇게 삼항식 사용하면 한 줄로 줄일 수 있음 
+					//// 이건 그냥 팁인데 min = (min > num[i]) ? num[i] : min; 이렇게 삼항식 사용하면 밑 세줄을 한 줄로 줄일 수 있음 
 					if(min > num[i]) {
 						min = num[i];
 					}		
