@@ -1,10 +1,10 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-//// 함수활용 멋져요!
+//// 함수활용 멋져요! : 2
 //// 나는 이거 피드백 안해 옆에서 다 햊둿는데 무시함
 class Main{
-   //// 함수 이름 첫 단어는 동사로 하는게 관례 (finding X find O)
+   //// 함수 이름 첫 단어는 동사로 하는게 관례 (finding X find O) , 배워갑니다.
    //// findEven'짝수를 찾는다' 해놓고 '짝수인 것 중 최소값'을 찾고 있는데 이름 좀 더 정확하게 지어주면 좋을듯
     public int findingEven(int []testData){
       int min = 0;

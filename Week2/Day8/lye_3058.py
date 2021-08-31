@@ -11,4 +11,4 @@ for i in range(0, caseCnt):
 			if i < evenMin:
 				evenMin = i
 	print(evenSum, evenMin)
-## 깔끔 : 2
+## 깔끔 : 2 : 3
