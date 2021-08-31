@@ -11,3 +11,4 @@ while girlCnt >= 2 and boyCnt >= 1 :
 	
 print(teamCnt)
 ####깔꼼 b : 2 : 3
+####멋있어~
