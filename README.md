@@ -21,6 +21,7 @@
 [<sub>![Bronze3]</sub> 대회 or 인턴](https://www.acmicpc.net/problem/2875) |
 [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) |
 [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) |
+[<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) |
 
 ## 👨‍💻 스터디원
 <table>
