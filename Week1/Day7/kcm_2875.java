@@ -13,7 +13,7 @@ public class kcm_2875 {
 		for(int i = 1; ; i++) {
 			woman -= 2;
 			man -= 1;
-			if(man+ woman < internship) {
+			if(man+ woman < internship) { //// 띄어쓰기 불편하네요.
 				System.out.println(i -1);
 				break;
 			}
