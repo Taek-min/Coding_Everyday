@@ -1,4 +1,4 @@
-caseCnt = int(input())
+caseCnt = int(input()) //// 변수 작명들 직관적이어서 좋네요
 
 for i in range(0, caseCnt):
 	evenSum = 0
@@ -11,3 +11,4 @@ for i in range(0, caseCnt):
 			if i < evenMin:
 				evenMin = i
 	print(evenSum, evenMin)
+//// 깔끔
