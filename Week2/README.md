@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) | 창민 현민 택민 [예은](Day9/lye_22864.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) | [창민](Day9/kcm_22864.java) 현민 택민 [예은](Day9/lye_22864.py) | 창민 현민 택민 예은             |
 
 ## [10일차](Day10)
 

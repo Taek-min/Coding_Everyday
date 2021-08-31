@@ -12,7 +12,7 @@ public class shm_3058 {
 		
 		for (int i = 0; i < loop; i++) {
 			int sum = 0;
-			int min = 100; //// 최대값이 100인 점 응용 멋져요
+			int min = 100; //// 최대값이 100인 점 응용 멋져요 : 보고 배워갑니다. 
 			for (int j = 0; j < array.length; j++) {
 				array[j] = sc.nextInt();
 				if (array[j] % 2 == 0) {
