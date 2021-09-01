@@ -6,6 +6,7 @@ public class kcm_22864 {
 	
 	public static void main(String[] args) {
     	Scanner in = new Scanner(System.in);
+		//// 변수명은 소문자로 시작!
     	int Fatigue = in.nextInt(); 
     	int work= in.nextInt();  
     	int rest = in.nextInt(); 
