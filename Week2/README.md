@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) [택민](Day8/jtm_3058.java) [예은](Day8/lye_3058.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) [택민](Day8/jtm_3058.java) [예은](Day8/lye_3058.py) | 창민 현민 택민[예은](Day8/lye_3058.py)             |
 
 ## [9일차](Day9)
 
@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) | [창민](Day10/kcm_16283.java) 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) | [창민](Day10/kcm_16283.java) 현민 택민 [예은](Day10/lye_16283.py) | 창민 현민 택민 예은             |
 
 ## [11일차](Day11)
 
