@@ -17,7 +17,7 @@ public class kcm_22864 {
     	while(nowTime < 24){
         	if(nowFatigue + Fatigue > maxFatigue){
             	nowTime++;
-				////왜 여기서 이 값을 빼주는지 잘 모르겠어
+		////왜 여기서 이 값을 빼주는지 잘 모르겠어
             	nowFatigue-= rest;
             	if(nowFatigue < 0){
                 	nowFatigue = 0;
