@@ -17,3 +17,4 @@ if findNum:
 	print(sheepCnt, goatCnt)
 else:
 	print(-1)
+## 배우고 갑니당 깔꼼해요 
