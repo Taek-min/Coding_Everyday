@@ -1,12 +1,12 @@
 package Day11;
 
 import java.util.Scanner;
-
+//// 깔끔
 public class shm_2747 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int sequence = sc.nextInt();
-		int array[] = new int[sequence + 1];
+		int array[] = new int[sequence + 1]; //// 출력할 숫자만큼 만 배열 생성하는 방법 굿.
 		
 		array[0] = 0;
 		array[1] = 1;
