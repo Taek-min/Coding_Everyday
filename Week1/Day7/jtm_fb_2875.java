@@ -10,7 +10,7 @@ class Main{
 		male = sc.nextInt();
 		intern = sc.nextInt();
 		
-		int  team= 0; //// 띄어쓰기 불-편
+		int  team = 0; //// 띄어쓰기 불-편
 		//// 반복문 하나로 풀 수 있지 않을까나??
 		//// while안에 if문으로 나누면 되긴하지만 뭔가 대칭이라 이쁘니까 ㅎㅎ 담엔 그렇게 하겠습니다.
 		while(female >= 2 && male >=1) {
