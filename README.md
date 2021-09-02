@@ -22,6 +22,7 @@
 [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) |
 [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) |
 [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) |
+[<sub>![Bronze3]</sub> 피보나치 수](https://www.acmicpc.net/problem/2747) |
 
 ## 👨‍💻 스터디원
 <table>
