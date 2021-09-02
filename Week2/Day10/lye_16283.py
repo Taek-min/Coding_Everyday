@@ -15,7 +15,6 @@ for i in range(1, totalCnt):
 			goatCnt = totalCnt-i
 			findNum = True
 
-## sheepCnt, goatCnt = -1, -1로 해두고 둘 다 -1이면 못 찾은걸로 처리하게 하고 findNum 플래그변수는 없애면 코드가 더 깔끔해질 것 같습니다
 if findNum:
 	print(sheepCnt, goatCnt)
 else:
