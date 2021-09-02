@@ -14,7 +14,7 @@ public class Main
 		int imgGoat = 0, imgSheep = 0;
 		
 		for(int i = 1; i < animal; i++){
-			imgSheep = animal - i;
+		    imgSheep = animal - i;
 		    imgGoat = animal - imgSheep;
 		    
 		    if((goatPrey * imgGoat) + (sheepPrey * imgSheep) == totalPrey){
