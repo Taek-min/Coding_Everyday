@@ -17,7 +17,7 @@ public class Main
 		    imgSheep = animal - i;
 		    imgGoat = animal - imgSheep;
 		    
-		    if((goatPrey * imgGoat) + (sheepPrey * imgSheep) == totalPrey){
+		    if((goatPrey * imgGoat) + (sheepPrey * imgSheep) == totalPrey){ ////진홍이 형이 boolean으로 하면 더 좋대요.
 		        cnt++;
 		        goat = imgGoat;
 		        sheep = imgSheep;
