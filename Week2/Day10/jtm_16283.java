@@ -17,12 +17,12 @@ public class Main
 		    imgSheep = animal - i;
 		    imgGoat = animal - imgSheep;
 		    
-		    if((goatPrey * imgGoat) + (sheepPrey * imgSheep) == totalPrey){ ////진홍이 형이 boolean으로 하면 더 좋대요.
+		    if((goatPrey * imgGoat) + (sheepPrey * imgSheep) == totalPrey){ ////진홍이 형이 boolean으로 하면 더 좋대요.:2
 		        cnt++;
 		        goat = imgGoat;
 		        sheep = imgSheep;
 		    }
-		    else{
+		    else{ //// else 부분은 삭제해도 됩니다. 의미없는 부분.
 		        continue;
 		    }
 		}

@@ -1,9 +1,10 @@
 //// 백준에 제출해서 맞은 코드를 올려주십쇼
-package Day10
+//// ㄴ 백준에 맞는 코드 올려서 한건데?
+package Day10;
 
 import java.util.Scanner;
 
-public class Main
+public class kcm_16283
 {
 	public static void main(String[] args) {
 	    Scanner in = new Scanner(System.in);
@@ -19,7 +20,7 @@ public class Main
 	    for(int sheep = 1; sheep < animalAmount; sheep++){
 	        int nowFeed = 0;
 	        nowFeed += (sheepFeed * sheep);
-	        for(int goat = animalAmount - sheep; goat + sheep <= animalAmount; goat++){
+	        for(int goat = animalAmount - sheep; goat + sheep <= animalAmount; goat++){ //// 이 for문이 필요없었을수도?
 	            nowFeed += goatFeed * goat;
 	            if(nowFeed == allFeed){
 	                count++;
@@ -33,6 +34,7 @@ public class Main
 		//// 예를들어 sheepAmount, goatAmount를 -1로 초기화하고 마지막에 저 두 값이 -1인지를 확인하면 값을 찾았는지 못 찾았는지 알 수 있슴다
 	    ////  ㄴ 여기서 -1이 나오는 조건은 '양과 염수 마리 수가 구해졌는냐?'보다는 양과 마리 수가 정해지지 않았거나 
 	    ////  ㄴ 두 가지 이상일 경우에 -1이 나오므로 count로 횟수를 세주는 과정이 필요한 것 같습니다. 
+		////  ㄴ 해가 두가지 이상일 경우를 생각해서 count를 집어넣었습니다. 
 		if(count == 1){
             System.out.println(sheepAmount + " " + goatAmount);
         }
