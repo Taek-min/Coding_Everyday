@@ -2,7 +2,7 @@ package Day9;
 
 import java.util.Scanner;
 
-//// 깔끔 : 2222222222222:3333
+//// 깔끔 : 2222222222222:4
 public class shm_22864 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

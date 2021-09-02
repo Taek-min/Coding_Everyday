@@ -18,4 +18,4 @@ for i in range(0, 24):
 		totalFatigue = 0
 
 print(totalWork)
-## 깔끔 : 22 : 33
+## 깔끔 : 22 : 44

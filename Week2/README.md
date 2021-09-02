@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) [택민](Day8/jtm_3058.java) [예은](Day8/lye_3058.py) | 창민 [현민](Day8/shm_3058.java) [택민](Day8/jtm_fb_3058.java) [예은](Day8/lye_3058.py)             |
+| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day8/kcm_3058.java) [현민](Day8/shm_3058.java) [택민](Day8/jtm_3058.java) [예은](Day8/lye_3058.py) | [창민](Day8/kcm_fb_3058.java) [현민](Day8/shm_3058.java) [택민](Day8/jtm_fb_3058.java) [예은](Day8/lye_3058.py)             |
 
 ## [9일차](Day9)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) | [창민](Day9/kcm_22864.java) [현민](Day9/shm_22864.java) *[택민](Day9/jtm_22864.java)* [예은](Day9/lye_22864.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 피로도](https://www.acmicpc.net/problem/22864) | [창민](Day9/kcm_22864.java) [현민](Day9/shm_22864.java) *[택민](Day9/jtm_22864.java)* [예은](Day9/lye_22864.py) | [창민](Day9/kcm_fb_22864.java) 현민 택민 예은             |
 
 ## [10일차](Day10)
 
