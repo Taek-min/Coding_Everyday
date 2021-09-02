@@ -14,7 +14,7 @@ public class kcm_22864 {
     	int nowTime = 0;
     	int nowFatigue = 0;
     	int nowWork = 0;
-    	while(nowTime < 24){
+    	while(nowTime < 24){ ////택민이랑 피드백 내용 비슷할 듯 , 그래도 굿굿
         	if(nowFatigue + Fatigue > maxFatigue){
             	nowTime++;
 		////왜 여기서 이 값을 빼주는지 잘 모르겠어
