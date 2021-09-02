@@ -3,7 +3,7 @@ package Day9;
 import java.util.Scanner;
 
 public class kcm_22864 {
-	
+	//// 내가 참고한 코드라 쓸말이없넹 ㅎㅎ
 	public static void main(String[] args) {
     	Scanner in = new Scanner(System.in);
 		//// 변수명은 소문자로 시작!
