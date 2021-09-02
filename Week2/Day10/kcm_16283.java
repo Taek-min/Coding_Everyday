@@ -20,7 +20,7 @@ public class kcm_16283
 	    for(int sheep = 1; sheep < animalAmount; sheep++){
 	        int nowFeed = 0;
 	        nowFeed += (sheepFeed * sheep);
-	        for(int goat = animalAmount - sheep; goat + sheep <= animalAmount; goat++){ //// 이 for문이 필요없었을수도?
+	        for(int goat = animalAmount - sheep; goat + sheep <= animalAmount; goat++){ //// 이 for문이 필요없었을수도? //// 어떤 작업을 해주는 for문이에요?
 	            nowFeed += goatFeed * goat;
 	            if(nowFeed == allFeed){
 	                count++;

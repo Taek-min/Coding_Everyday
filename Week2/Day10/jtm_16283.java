@@ -22,7 +22,7 @@ public class Main
 		        goat = imgGoat;
 		        sheep = imgSheep;
 		    }
-		    else{ //// else 부분은 삭제해도 됩니다. 의미없는 부분. :22
+		    else{ //// else 부분은 삭제해도 됩니다. 의미없는 부분. :22 : 33
 		        continue;
 		    }
 		}
