@@ -1,7 +1,7 @@
 package Day11;
 
 import java.util.Scanner;
-//// 깔끔 :22
+//// 깔끔 :33
 public class shm_2747 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
