@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class kcm_2747 {
 	public static void main(String[] args) {	////GOOD!
 	    Scanner in = new Scanner(System.in);
-		//// 배열 없이도 구현할 수 있지 않나요?
+		//// 배열 없이도 구현할 수 있지 않나요? :22
 	    int [] fibonachi = new int[46];
 	    fibonachi[0] = 0;
 	    fibonachi[1] = 1;
