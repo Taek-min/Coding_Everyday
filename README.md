@@ -24,6 +24,8 @@
 [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) |
 [<sub>![Bronze3]</sub> 피보나치 수](https://www.acmicpc.net/problem/2747) |
 [<sub>![Bronze2]</sub> 최댓값](https://www.acmicpc.net/problem/2562) |
+[<sub>![Bronze3]</sub> 공](https://www.acmicpc.net/problem/1547) |
+
 
 ## 👨‍💻 스터디원
 <table>
