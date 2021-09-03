@@ -9,4 +9,4 @@ for i in range(1, findNum):
 	secondNum = nowNum
 	
 print(secondNum)
-## CLEAN
+## CLEAN :22
