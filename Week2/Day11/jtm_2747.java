@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 	
-	static int findFibonacci(int num) {
+	static int findFibonacci(int num) {	////함수 잘쓰시네요 
 	    int frontNum = 0;
 	    int afterNum= 1;
 	    int result = 0;

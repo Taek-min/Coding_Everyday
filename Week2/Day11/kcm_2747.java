@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class kcm_2747 {
-	public static void main(String[] args) {
+	public static void main(String[] args) {	////GOOD!
 	    Scanner in = new Scanner(System.in);
 	    int [] fibonachi = new int[46];
 	    fibonachi[0] = 0;
