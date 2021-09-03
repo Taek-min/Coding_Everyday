@@ -4,7 +4,7 @@ public class Main {
 	
 	//// 불필요한 줄바꿈 ㄴㄴ
 	//// 그리고 자바는 함수가 맨 밑에 있어도 위에서 호출 잘 돼
-	static int findFibonacci(int num) {	////함수 잘쓰시네요 
+	static int findFibonacci(int num) {	////함수 잘쓰시네요 :22
 	    int frontNum = 0; //// front/back before/after 중 딱 골라!
 	    int afterNum= 1;
 	    int result = 0;
@@ -14,6 +14,7 @@ public class Main {
 	        frontNum = afterNum;
 	        afterNum = result;
 	    }
+		//// afterNum을 출력해주면 1번째 숫자 구할때를 따로 빼주지 않아도 될껄??
 	    return result;
 	}
 

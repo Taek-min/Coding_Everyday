@@ -5,10 +5,11 @@ import java.util.Scanner;
 public class kcm_2747 {
 	public static void main(String[] args) {	////GOOD!
 	    Scanner in = new Scanner(System.in);
+		//// 배열 없이도 구현할 수 있지 않나요?
 	    int [] fibonachi = new int[46];
 	    fibonachi[0] = 0;
 	    fibonachi[1] = 1;
-		//// 무조건 45번 돌리게 한 부분이 아쉽네요
+		//// 무조건 45번 돌리게 한 부분이 아쉽네요 :22
 	    for(int i = 2; i <= 45; i++){
 	        fibonachi[i] = fibonachi[i - 1] + fibonachi[i - 2];
 	    }
