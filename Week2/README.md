@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) | [창민](Day10/kcm_16283.java) *[현민](Day10/shm_16283.java)* [택민](Day10/jtm_16283.java) [예은](Day10/lye_16283.py) | 창민 [현민](Day10/shm_16283_fb.java) 택민 [예은](Day10/lye_16283_fb.py)             |
+| [<sub>![Bronze3]</sub> Farm](https://www.acmicpc.net/problem/16283) | [창민](Day10/kcm_16283.java) *[현민](Day10/shm_16283.java)* [택민](Day10/jtm_16283.java) [예은](Day10/lye_16283.py) | 창민 [현민](Day10/shm_16283_fb.java) [택민](Day10/jtm_fb_16283.java)[예은](Day10/lye_16283_fb.py)             |
 
 ## [11일차](Day11)
 
@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 최댓값](https://www.acmicpc.net/problem/2562) | 창민 [현민](Day12/shm_2562.java) 택민 [예은](Day12/lye_2562.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 최댓값](https://www.acmicpc.net/problem/2562) | 창민 [현민](Day12/shm_2562.java) [택민](Day12/jtm_2562.java) [예은](Day12/lye_2562.py) | 창민 현민 택민 예은             |
 
 ## [13일차](Day13)
 
