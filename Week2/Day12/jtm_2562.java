@@ -13,6 +13,7 @@ public class Main {
 	}
 
 	//// 함수 첫 단어는 동사로. printMaxCount 식으로
+	//// 함수 활용 좋아용ㅇ~~
 	static void maxCounting(int[] arr) {
 		int max = 0;
 		int cnt = 0;
