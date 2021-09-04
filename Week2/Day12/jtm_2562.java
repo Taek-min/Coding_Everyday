@@ -2,7 +2,7 @@ package algorithm;
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) { ////깔꼼
+	public static void main(String[] args) { ////깔꼼:2
 		Scanner sc = new Scanner(System.in);
 		//// 들여쓰기는 안 깔끔
 		 int[] arr = new int[9];
