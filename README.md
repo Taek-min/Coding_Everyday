@@ -25,6 +25,7 @@
 [<sub>![Bronze3]</sub> 피보나치 수](https://www.acmicpc.net/problem/2747) |
 [<sub>![Bronze2]</sub> 최댓값](https://www.acmicpc.net/problem/2562) |
 [<sub>![Bronze3]</sub> 공](https://www.acmicpc.net/problem/1547) |
+[<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) |
 
 
 ## 👨‍💻 스터디원
