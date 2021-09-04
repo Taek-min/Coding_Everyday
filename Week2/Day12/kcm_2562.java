@@ -3,7 +3,7 @@ package Day12;
 import java.util.Scanner;
 
 public class kcm_2562 {
-	public static void main(String[] args) { ////깔꼼
+	public static void main(String[] args) { ////깔꼼 :22
 		Scanner sc = new Scanner(System.in);
 		int max = 0;
 		int location = 0;
