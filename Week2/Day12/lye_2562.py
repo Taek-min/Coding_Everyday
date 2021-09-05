@@ -10,4 +10,4 @@ for i in range(0, numCnt):
 		
 print(maxValue)
 print(maxIndex)
-#### 깔꼼 :22 :22
+#### 깔꼼 :22 :22: 33
