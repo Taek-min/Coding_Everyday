@@ -1,7 +1,7 @@
 package algorithm;
 import java.util.Scanner;
 
-public class Main //// 굳굳
+public class Main //// 굳굳 : 22 함수활용 너무 좋아요~
 {
 	static boolean[] cupNum = {true, false, false};
 	

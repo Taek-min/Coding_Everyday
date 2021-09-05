@@ -2,7 +2,7 @@ package Day13;
 
 import java.util.Scanner;
 
-public class shm_1547 { //// 굳굳
+public class shm_1547 { //// 굳굳 :22
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int loop = sc.nextInt();
