@@ -10,13 +10,13 @@
 [Silver2]: https://user-images.githubusercontent.com/33937365/126247622-a83b30a9-6618-4593-b775-6f6730afd3f6.png
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
-# WeekN
+# Week3
 
-## [일차](Day)
+## [15일차](Day)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
 
 ## [일차](Day)
 
