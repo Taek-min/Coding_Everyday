@@ -1,7 +1,7 @@
 package algorithm;
 import java.util.Scanner;
 
-public class Main
+public class Main //// 굳굳
 {
 	static boolean[] cupNum = {true, false, false};
 	
