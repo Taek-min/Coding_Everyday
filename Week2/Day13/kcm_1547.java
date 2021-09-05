@@ -2,9 +2,9 @@ package Day13;
 
 import java.util.Scanner;
 
-public class kcm_1547 {
+public class kcm_1547 {	////코드가 유사해서 달 피드백이 읎네요 GOOD
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		Scanner in = new Scanner(System.in);
 		int cup[] = new int[4];
 		cup[1] = 1;

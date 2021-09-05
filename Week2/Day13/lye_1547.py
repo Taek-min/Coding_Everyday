@@ -10,3 +10,4 @@ for i in range(0, changeCnt):
 		ballNum = changeNums[0]
 		
 print(ballNum)
+####디게 깔꼼하네요
