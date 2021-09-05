@@ -2,7 +2,7 @@ package Day13;
 
 import java.util.Scanner;
 
-public class kcm_1547 {	////코드가 유사해서 달 피드백이 읎네요 GOOD //// 굳
+public class kcm_1547 {	////코드가 유사해서 달 피드백이 읎네요 GOOD //// 굳 :22
 
 	public static void main(String[] args) { 
 		Scanner in = new Scanner(System.in);
@@ -23,8 +23,7 @@ public class kcm_1547 {	////코드가 유사해서 달 피드백이 읎네요 GO
 				System.out.println(j);
 			}
 		}
-		
-		
+	
 		
 	}
 
