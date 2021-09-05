@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) | 창민 [현민](Day14/shm_2501.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) | [창민](Day14/shm_2501.java)[현민](Day14/shm_2501.java) 택민 예은 | 창민 현민 택민 예은             |
