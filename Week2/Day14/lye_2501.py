@@ -1,3 +1,4 @@
+## 변수명이 직관적이여서 주석 없어도 충분히 이해돼요!
 # 주어진숫자, 몇번째 약수를 찾을것인가
 number, findDivisor = map(int, input().split(' '))
 # 결과값
@@ -13,4 +14,5 @@ for i in range (1, number + 1):
 		break
 
 print(result)
-	
+
+## 깔끔~
