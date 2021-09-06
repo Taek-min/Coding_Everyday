@@ -2,7 +2,7 @@ package Day14;
 
 import java.util.Scanner;
 
-//// 깔끔
+//// 깔끔 : 2 나랑 거의 다 같아서 할말이없네
 public class shm_2501 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
