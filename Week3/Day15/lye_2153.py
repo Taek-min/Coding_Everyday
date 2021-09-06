@@ -3,7 +3,7 @@ wordLen = len(word)
 wordSum = 0
 
 for i in range(0, wordLen):
-	if(word[i].isupper()):
+	if(word[i].isupper()):	####.isupper 배워갑니다 (_ _)
 		wordSum += ord(word[i]) - 38
 	else:
 		wordSum += ord(word[i]) - 96

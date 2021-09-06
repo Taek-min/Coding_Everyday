@@ -2,7 +2,7 @@ package Day15;
 
 import java.util.Scanner;
 
-public class kcm_2153 {
+public class kcm_2153 {	//나랑 머리 공유하지 창민 
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
