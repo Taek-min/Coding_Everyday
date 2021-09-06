@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) | [창민](Day15/kcm_2153.java) 현민 택민 [예은](Day15/lye_2153.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) | [창민](Day15/kcm_2153.java) [현민](Day15/shm_2153.java) 택민 [예은](Day15/lye_2153.py) | 창민 현민 택민 예은             |
 
 ## [16일차](Day16)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Unrated]</sub> 분해합](https://www.acmicpc.net/problem/2231) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
 
 ## [17일차](Day17)
 

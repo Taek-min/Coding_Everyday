@@ -27,6 +27,7 @@
 [<sub>![Bronze3]</sub> 공](https://www.acmicpc.net/problem/1547) |
 [<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) |
 [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) |
+[<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) |
 
 
 ## 👨‍💻 스터디원

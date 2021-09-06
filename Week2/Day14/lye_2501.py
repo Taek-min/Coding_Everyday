@@ -15,4 +15,4 @@ for i in range (1, number + 1):
 
 print(result)
 
-## 깔끔~ :2
+## 깔끔~ :3
