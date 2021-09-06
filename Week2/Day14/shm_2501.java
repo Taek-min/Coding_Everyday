@@ -12,7 +12,7 @@ public class shm_2501 {
 		int cnt = 0;
 		
 		for (int i = 0; i < num; i++) {
-			//// i를 1부터 num까지로 하는건 어때
+			//// i를 1부터 num까지로 하는건 어때 : 22
 			if (num % (i + 1) == 0) {
 				cnt++;
 				if (cnt == divisorOrder) {
