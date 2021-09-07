@@ -2,7 +2,7 @@ package Day15;
 
 import java.util.Scanner;
 
-public class shm_2153 {
+public class shm_2153 { //// 나랑 그냥 코드가 똑같네.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String word = sc.nextLine();

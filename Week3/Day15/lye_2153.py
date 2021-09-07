@@ -20,4 +20,4 @@ if(isPrimeNum):
 else:
 	print("It is not a prime word.")
 
-## 깔끔
+## 깔끔 :2
