@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) | [창민](Day14/kcm_2501.java) [현민](Day14/shm_2501.java) [택민](Day14/jtm_2501.java) [예은](Day14/lye_2501.py) | [창민](Day14/kcm_fb_2501.java) [현민](Day14/shm_2501_fb.java) 택민 [예은](Day14/lye_2501.py)             |
+| [<sub>![Bronze3]</sub> 약수 구하기](https://www.acmicpc.net/problem/2501) | [창민](Day14/kcm_2501.java) [현민](Day14/shm_2501.java) [택민](Day14/jtm_2501.java) [예은](Day14/lye_2501.py) | [창민](Day14/kcm_fb_2501.java) [현민](Day14/shm_2501_fb.java) [택민](Day14/jtm_2501.java) [예은](Day14/lye_2501.py)             |
