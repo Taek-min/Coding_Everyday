@@ -1,7 +1,7 @@
 package algorithm;
 import java.util.Scanner;
 
-//// 깔끔 :2
+//// 깔끔 :2 잘 보다가 갑니다 
 public class Main
 {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Main
         for(int i=0; i < inputStr.length(); i++) {
             char ch = inputStr.charAt(i);
             if(ch >= 'A' && ch <= 'Z') {
-                //// - 96말고 - 'A'로 써도 돼요
+                //// - 96말고 - 'A'로 써도 돼요 ,  아 그래요?
                 strTotal += (int)ch - 38;
             } 
             else if (ch >= 'a' && ch <= 'z') {
@@ -23,7 +23,7 @@ public class Main
         }
         
         //// 요 부분 함수로 만들었으면 깔끔했을 듯
-        boolean check = false;
+        boolean check = false; 
         
         for(int i=2; i <= strTotal; i++) {
             //// if 한번만 써도 돼요. lye 코드 참고!
