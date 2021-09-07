@@ -22,7 +22,11 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
+<<<<<<< Updated upstream
 | [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) | [창민](Day16/kcm_2231.java) 현민 택민 예은 | 창민 현민 택민 예은             |
+=======
+| [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+>>>>>>> Stashed changes
 
 ## [17일차](Day17)
 
