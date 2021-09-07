@@ -13,7 +13,7 @@ isPrimeNum = True
 for i in range(2, wordSum):
 	if(wordSum % i == 0):
 		isPrimeNum = False
-		break;
+		break
 
 if(isPrimeNum):
 	print("It is a prime word.")

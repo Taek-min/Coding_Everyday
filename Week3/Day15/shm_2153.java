@@ -19,6 +19,7 @@ public class shm_2153 { //// 나랑 그냥 코드가 똑같네.
 				sumOfConvertNum += word.charAt(i) - 38;
 			}
 		}
+		//// 2부터 돌리고 나눠지는거 찾았을 때 바로 종료시키면 for문돌리는 횟수 줄일 수 있어요!
 		for (int i = 1; i < sumOfConvertNum; i++) {
 			if (sumOfConvertNum % i == 0) {
 				cnt += 1;

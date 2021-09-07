@@ -25,6 +25,7 @@ public class Main
         //// 요 부분 함수로 만들었으면 깔끔했을 듯
         boolean check = false; 
         
+        //// strTotal보다 작을때까지만 돌려주면 더 간단해지지 않을까요??
         for(int i=2; i <= strTotal; i++) {
             //// if 한번만 써도 돼요. lye 코드 참고!
             if(i < strTotal && strTotal % i == 0) {
