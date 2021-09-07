@@ -2,6 +2,7 @@ package Day15;
 
 import java.util.Scanner;
 
+//// 깔끔
 public class kcm_2153 {	//나랑 머리 공유하지 창민 
 
 	public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class kcm_2153 {	//나랑 머리 공유하지 창민
 		int count = 0;
 		for(int i = 0; i < name.length(); i++) {
 			if('a' <= name.charAt(i) && name.charAt(i) <='z') {
+				//// - 96말고 - 'A'로 써도 돼요
 				sum = sum + name.charAt(i) - 96;
 			}
 			else {

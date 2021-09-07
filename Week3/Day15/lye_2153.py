@@ -19,3 +19,5 @@ if(isPrimeNum):
 	print("It is a prime word.")
 else:
 	print("It is not a prime word.")
+
+## 깔끔
