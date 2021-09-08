@@ -19,4 +19,4 @@ for i in range(1, number):
 	
 print(result)
 
-## 깔끔
+## 깔끔 : 2

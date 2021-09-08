@@ -1,7 +1,7 @@
 package algorithm;
 import java.util.Scanner;
 
-//// 깔끔 : 22
+//// 깔끔 : 22 : 3
 class Main{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
