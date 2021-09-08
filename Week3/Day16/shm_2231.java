@@ -2,10 +2,12 @@ package Day16;
 
 import java.util.Scanner;
 
+//// 깔끔
 public class shm_2231 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String num = sc.nextLine();
+		//// 자바는 보통 카멜 표기법 사용해요 numLength
 		int num_length = num.length();
 		int sumDisassemble = Integer.parseInt(num);
 		int constructor = 0;

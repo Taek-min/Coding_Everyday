@@ -1,3 +1,4 @@
+## 함수 굳
 def GetDigitSum(x):
 	res = x
 	num = x
@@ -17,3 +18,5 @@ for i in range(1, number):
 		break
 	
 print(result)
+
+## 깔끔
