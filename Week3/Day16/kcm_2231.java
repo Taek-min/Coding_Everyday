@@ -9,7 +9,7 @@ public class kcm_2231 {////깔꼼하게 잘짜셨네요 ㅎ
 		int result = in.nextInt();
 		for(int i = 1; i <= result; i++) {
 			int sum = 0;
-			//// strNumber, eachDigit 정도 추천합니다
+			//// strNumber(문자열로 다루는 수), eachDigit(각 자리수) 정도 추천합니다
 			String number = Integer.toString(i); //변수를 뭐라해야할지 모르겟스빈다.
 			String num[] = number.split("");     //변수를 뭐라해야할지 모르겟스빈다. 
 			for(int j = 0; j < num.length; j++) {
