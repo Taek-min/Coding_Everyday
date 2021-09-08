@@ -23,7 +23,7 @@ public class kcm_3060 {
 					feed -= allFeed;
 					continue;
 				}
-				feed =  feed - (int)(allFeed * Math.pow(4, day-1)) ;
+				feed =  feed - (int)(allFeed * Math.pow(4, day-1)) ; ////제곱근으로 푸셨고만 Math.pow 알아갑니당
 				days = day;			
 			}
 			System.out.println(days);
