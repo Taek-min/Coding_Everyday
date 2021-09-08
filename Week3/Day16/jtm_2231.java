@@ -1,7 +1,7 @@
 package algorithm;
 import java.util.Scanner;
 
-//// 깔끔 : 22 : 3
+//// 깔끔 : 22 : 3 : 4
 class Main{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -23,7 +23,7 @@ class Main{
 				break;
 			}
 			
-			//// ↖ 불필요한 줄바꿈
+			//// ↖ 불필요한 줄바꿈 : ㅇㅈ 
 		}
  
 		System.out.println(result);

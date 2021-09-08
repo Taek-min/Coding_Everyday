@@ -2,14 +2,14 @@
 pigCnt = 6
 caseCnt = int(input())
 
-def CalcNewAmount(list, x):
+def CalcNewAmount(list, x):	#### 우와 완전 정직해 대박 
 	leftIndex = (x-1) % pigCnt
 	rightIndex  = (x+1) % pigCnt
 	acrossIndex = x-3 if x >= pigCnt/2 else x+3
 	return list[leftIndex] + list[rightIndex] + list[acrossIndex] + list[x]
 
 for i in range(0, caseCnt):
-	dailyFeed = int(input())
+	dailyFeed = int(input()) #### 변수명 통했따
 	beforeAmountList = list(map(int, input().split(' ')))
 	dayCnt = 1
 	
