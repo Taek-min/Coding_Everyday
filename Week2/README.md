@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 공](https://www.acmicpc.net/problem/1547) | [창민](Day13/kcm_1547.java) [현민](Day13/shm_1547.java) [택민](Day13/jtm_1547.java) [예은](Day13/lye_1547.py) | [창민](Day13/kcm_1547.java) [현민](Day13/shm_1547.java) [택민](Day13/jtm_1547.java) [예은](Day13/lye_1547.py)             |
+| [<sub>![Bronze3]</sub> 공](https://www.acmicpc.net/problem/1547) | [창민](Day13/kcm_1547.java) [현민](Day13/shm_1547.java) [택민](Day13/jtm_1547.java) [예은](Day13/lye_1547.py) | [창민](Day13/kcm_1547.java) [현민](Day13/shm_1547.java) [택민](Day13/jtm_fb_1547.java) [예은](Day13/lye_1547.py)             |
 
 ## [14일차](Day14)
 
