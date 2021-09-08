@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) | [창민](Day15/kcm_2153.java) [현민](Day15/shm_2153.java) [택민](Day15/jtm_2153.java) [예은](Day15/lye_2153.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) | [창민](Day15/kcm_2153.java) [현민](Day15/shm_2153.java) [택민](Day15/jtm_2153.java) [예은](Day15/lye_2153.py) | 창민 현민 택민 [예은](Day15/lye_2153.py)             |
 
 ## [16일차](Day16)
 
@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) | 창민 현민 택민 [예은](Day17/lye_3060.py) | 창민 현민 택민 예은             |
 
 ## [18일차](Day18)
 
