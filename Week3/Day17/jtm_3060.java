@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Main{
-	public static void main(String[] args) {
+	public static void main(String[] args) { ////깔끔하게 잘 짜셨네요 규칙 굳 
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
 		int []needPrey = new int[6];
