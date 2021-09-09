@@ -23,7 +23,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) | [창민](Day16/kcm_2231.java) [현민](Day16/shm_2231.java) [택민](Day16/jtm_2231.java) [예은](Day16/lye_2231.py) | [창민](Day16/kcm_2231_fb.java) [현민](Day16/shm_2231_fb.java) 택민 예은             |
+| [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) | [창민](Day16/kcm_2231.java) [현민](Day16/shm_2231.java) [택민](Day16/jtm_2231.java) [예은](Day16/lye_2231.py) | [창민](Day16/kcm_2231_fb.java) [현민](Day16/shm_2231_fb.java) 택민 [예은](Day16/lye_2231.py)             |
 
 ## [17일차](Day17)
 
@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) | [창민](Day18/kcm.1076.java) [현민](Day18/shm_1076.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) | [창민](Day18/kcm.1076.java) [현민](Day18/shm_1076.java) 택민 [예은](Day18/lye_1076.py) | 창민 현민 택민 예은             |
 
 ## [19일차](Day19)
 
