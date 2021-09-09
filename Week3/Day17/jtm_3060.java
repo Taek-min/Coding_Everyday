@@ -9,7 +9,7 @@ class Main{
 		int []needPrey = new int[6];
 		
 		//// 탭을 왜 두번씩 하신거죠
-		//// 코드 정리가 정 귀찮다면 https://red2brook.tistory.com/38 따라하시면 저장할때마다 자동으로 코드 정리됩니다
+		//// 코드 정리하기 정 귀찮으면 이클립스에서 https://red2brook.tistory.com/38 따라하면 저장할때마다 자동으로 코드 정리됩니다. 탭 정리 피드백 하는거 이제 질려요 택민씨..
 		for(int j = 0; j < N; j++){
 		    	int day = 1;
 		    	int requirePrey = 0;
