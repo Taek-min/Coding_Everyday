@@ -29,6 +29,7 @@
 [<sub>![Bronze2]</sub> 소수 단어](https://www.acmicpc.net/problem/2153) |
 [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) |
 [<sub>![Bronze1]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) |
+[<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) |
 
 
 ## 👨‍💻 스터디원
