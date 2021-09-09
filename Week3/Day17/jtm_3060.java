@@ -9,6 +9,7 @@ class Main{
 		int []needPrey = new int[6];
 		
 		//// 탭을 왜 두번씩 하신거죠
+		//// 코드 정리가 정 귀찮다면 https://red2brook.tistory.com/38 따라하시면 저장할때마다 자동으로 코드 정리됩니다
 		for(int j = 0; j < N; j++){
 		    	int day = 1;
 		    	int requirePrey = 0;
