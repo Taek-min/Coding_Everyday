@@ -19,7 +19,7 @@ public class kcm_3060 {
 				pigs[j] = in.nextInt();
 				allFeed += pigs[j];
 			}
-			//// day 변수는 for문 밖에서 사용하지 못하니까 나중에 출력하기 위한 용도로 days 변수를 만든거 같은데, 고냥 for문 밖에서 day를 선언하면 for문 밖에서 사용할 수 있습니다 :22
+			//// day 변수는 for문 밖에서 사용하지 못하니까 나중에 출력하기 위한 용도로 days 변수를 만든거 같은데, 고냥 for문 밖에서 day를 선언하면 for문 밖에서 사용할 수 있습니다 :22 : 33
 			for(int day = 1; feed >= 0; day++) {
 				feed = reFeed;
 				if(day == 1) {

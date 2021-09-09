@@ -22,8 +22,6 @@ class Main{
 				result = i;
 				break;
 			}
-			
-			//// ↖ 불필요한 줄바꿈 : ㅇㅈ 
 		}
  
 		System.out.println(result);

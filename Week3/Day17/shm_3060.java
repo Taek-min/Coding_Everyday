@@ -19,7 +19,7 @@ public class shm_3060 {
 				totalFeed += pig[j];
 			}
 			while(true) {
-				//// 아래 조건을 while 종료 조건으로 바꿔서 if문을 없애고, 나중에 day를 출력하면 더욱 깔끔할 것 같아요 : 2 : 35
+				//// 아래 조건을 while 종료 조건으로 바꿔서 if문을 없애고, 나중에 day를 출력하면 더욱 깔끔할 것 같아요 : 2 : 35 : 44
 				if (totalFeed > dailyFeed) {
 					System.out.println(day);
 					break;
