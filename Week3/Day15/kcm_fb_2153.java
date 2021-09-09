@@ -19,7 +19,6 @@ public class kcm_fb_2153 {	//나랑 머리 공유하지 창민
 				sum = sum + name.charAt(i) - 38;
 			}
 		}
-		System.out.println(sum);
 		////2부터 sum보다 작을때까지만 돌리면 찾고 바로 종료시켜줄 수 있어서 for문 돌리는 횟수 줄일 수 있어요!
 		for(int j = 2; j < sum; j++) {
 			if(sum %  j == 0) {
