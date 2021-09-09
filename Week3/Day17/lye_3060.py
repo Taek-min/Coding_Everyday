@@ -3,7 +3,7 @@
 pigCnt = 6
 caseCnt = int(input())
 
-def CalcNewAmount(list, x):	#### 우와 완전 정직해 대박 :22 ㅋㅋㅋ
+def CalcNewAmount(list, x):	#### 우와 완전 정직해 대박 :22 : 3 ㅋㅋㅋ
 	leftIndex = (x-1) % pigCnt
 	rightIndex  = (x+1) % pigCnt
 	acrossIndex = x-3 if x >= pigCnt/2 else x+3
