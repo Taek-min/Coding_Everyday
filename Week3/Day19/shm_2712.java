@@ -24,6 +24,7 @@ public class shm_2712 {
 				case " l":
 					System.out.println(String.format("%.4f", testCase*0.2642) + " g");
 					break;
+			//// default 안써도돼유
 				default:
 					break;
 			}
