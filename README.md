@@ -30,7 +30,8 @@
 [<sub>![Bronze2]</sub> 분해합](https://www.acmicpc.net/problem/2231) |
 [<sub>![Bronze1]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) |
 [<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) |
-
+[<sub>![Bronze2]</sub> 미국 스타일](https://www.acmicpc.net/problem/2712) |
+[<sub>![Bronze1]</sub> 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) |
 
 ## 👨‍💻 스터디원
 <table>

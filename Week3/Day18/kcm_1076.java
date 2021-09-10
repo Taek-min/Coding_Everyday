@@ -12,7 +12,7 @@ public class kcm_1076 {
 		long sum = 0;
 		for(int i =0 ; i < 3; i++) {
 			String findColor = in.nextLine();
-			index[i] = Arrays.asList(colors).indexOf(findColor);
+			index[i] = Arrays.asList(colors).indexOf(findColor); //// asList 배워갑니다 ~
 			//index[i] = findIndex(colors, findColor);
 		}
 		
@@ -32,7 +32,7 @@ public class kcm_1076 {
 		}
 		System.out.println(sum);
 	}
-	//// 주석처리한 코드는 고냥 지워주십쇼~
+	//// 주석처리한 코드는 고냥 지워주십쇼~ : ㅋㅋ 22 
 	//public static int findIndex(String []color, String name) {
 	//	int index = 0;
 	//	for(int i= 0; i < color.length; i++) {

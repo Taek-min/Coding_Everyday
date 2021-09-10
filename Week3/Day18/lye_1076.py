@@ -11,4 +11,4 @@ toMultipleNum = math.pow(10, resistance.index(toMultipleColor))
 
 print(int(resistanceValue * toMultipleNum))
 
-## 매우 깔끔~
+## 매우 깔끔~ : 22222222222
