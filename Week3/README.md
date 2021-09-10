@@ -29,7 +29,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) | [창민](Day17/kcm_3060.java) [현민](Day17/shm_3060.java) [택민](Day17/jtm_3060.java) [예은](Day17/lye_3060.py) | 창민 [현민](Day17/shm_3060_fb.java) 택민 예은             |
+| [<sub>![Bronze1]</sub> 욕심쟁이 돼지](https://www.acmicpc.net/problem/3060) | [창민](Day17/kcm_3060.java) [현민](Day17/shm_3060.java) [택민](Day17/jtm_3060.java) [예은](Day17/lye_3060.py) | [창민](Day17/kcm_3060_fb.java) [현민](Day17/shm_3060_fb.java) 택민 예은             |
 
 ## [18일차](Day18)
 
@@ -41,7 +41,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | 창민 [현민](Day19/shm_2712.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) 택민 예은 | 창민 현민 택민 예은             |
 
 ## [20일차](Day20)
 
