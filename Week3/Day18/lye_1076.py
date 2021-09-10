@@ -10,3 +10,5 @@ resistanceValue = resistance.index(firstResistance) * 10 + resistance.index(seco
 toMultipleNum = math.pow(10, resistance.index(toMultipleColor))
 
 print(int(resistanceValue * toMultipleNum))
+
+## 매우 깔끔~

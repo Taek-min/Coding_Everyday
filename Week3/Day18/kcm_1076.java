@@ -16,6 +16,7 @@ public class kcm_1076 {
 			//index[i] = findIndex(colors, findColor);
 		}
 		
+		//// 까리하긴 한데 세줄로 표현 가능한거라서 뭔가 애매
 		for(int j = 0; j < index.length; j++) {
 			switch(j) {
 			case 0:
@@ -31,7 +32,7 @@ public class kcm_1076 {
 		}
 		System.out.println(sum);
 	}
-	
+	//// 주석처리한 코드는 고냥 지워주십쇼~
 	//public static int findIndex(String []color, String name) {
 	//	int index = 0;
 	//	for(int i= 0; i < color.length; i++) {
