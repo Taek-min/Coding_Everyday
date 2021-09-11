@@ -24,7 +24,7 @@ public class shm_2712 {
 				case " l":
 					System.out.println(String.format("%.4f", testCase*0.2642) + " g");
 					break;
-			//// default 안써도돼유
+			//// default 안써도돼유 : switch문을 잘 안써서 배워갑니당~
 				default:
 					break;
 			}

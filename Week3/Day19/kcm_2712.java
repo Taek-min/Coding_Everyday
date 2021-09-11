@@ -2,7 +2,7 @@ package Day19;
 
 import java.util.Scanner;
 
-//// 깔끔 :22
+//// 깔끔 :22 : 33
 public class kcm_2712 {
 
 	public static void main(String[] args) {

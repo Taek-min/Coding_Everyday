@@ -7,8 +7,8 @@ public class shm_1076 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String resistanceTable[] = { "black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white" };
-		//// 카멜 표기법! 변수명 첫 글자는 소문자로 / 배열 이름은 앵간하면 복수형으로 해주십쇼
-		String Color[] = new String[3];
+		//// 카멜 표기법! 변수명 첫 글자는 소문자로 / 배열 이름은 앵간하면 복수형으로 해주십쇼 //// 아유 자꾸 까먹네요 주의하겠습니다 선생님 
+		String color[] = new String[3];
 		String sum = "";
 		long total = 0;
 		
