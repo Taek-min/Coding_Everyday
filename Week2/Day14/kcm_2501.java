@@ -13,7 +13,6 @@ public class kcm_2501 {
 				count++;
 				if(count == location) {
 					System.out.println(i);
-					break;
 					//// break 넣어주면 좋을 것 같아요! 지금은 찾았어도 무조건 num까지 반복하니 :33: 44
 				}
 			}
