@@ -36,7 +36,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) | [창민](Day18/kcm_1076.java) [현민](Day18/shm_1076.java) [택민](Day18/jtm1124_1076.java) [예은](Day18/lye_1076.py) | [창민](Day18/kcm_fb_1076.java) [현민](Day18/shm_1076.java) 택민 [예은](Day18/lye_1076.py)             |
+| [<sub>![Bronze2]</sub> 저항](https://www.acmicpc.net/problem/1076) | [창민](Day18/kcm_1076.java) [현민](Day18/shm_1076.java) [택민](Day18/jtm_1076.java) [예은](Day18/lye_1076.py) | [창민](Day18/kcm_fb_1076.java) [현민](Day18/shm_1076.java) [택민](Day18/jtm_fb_1076.java) [예은](Day18/lye_1076.py)             |
 
 ## [19일차](Day19)
 
@@ -48,7 +48,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | *[창민](Day20/kcm_2869.java)* *[현민](Day20/shm_2869.java)* 택민 [예은](Day20/lye_2869.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze1]</sub> 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | *[창민](Day20/kcm_2869.java)* *[현민](Day20/shm_2869.java)* *[택민](jtm_1124.java)* [예은](Day20/lye_2869.py) | 창민 현민 택민 예은             |
 
 ## [21일차](Day21)
 
