@@ -1,7 +1,7 @@
 package Day19;
 
 import java.util.Scanner;
-
+//// 오 깔꼼
 public class shm_2712 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

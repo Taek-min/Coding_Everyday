@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//// 깜짝이야 현민이꺼랑 둘이 너무 똑같아서 놀랬어,,,
+//// 깔꼬옴
 public class Main{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
