@@ -14,3 +14,5 @@ def ChangeUnit(unit):
 for i in range(0, caseCnt):
 	inputData = list(input().split(' '))
 	print('%.4f' % (float(inputData[0]) * unitStandard[inputData[1]]), ChangeUnit(inputData[1]))
+
+	: 깔끔.
