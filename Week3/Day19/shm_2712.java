@@ -1,7 +1,7 @@
 package Day19;
 
 import java.util.Scanner;
-//// 오 깔꼼 : 2 다들 똑같네. : ㅋㅋㅋㅋㅋㅋ뭐야 거의 빼다 박았네 코드읽다 놀람
+//// 오 깔꼼
 public class shm_2712 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -25,8 +25,6 @@ public class shm_2712 {
 					System.out.println(String.format("%.4f", testCase*0.2642) + " g");
 					break;
 			//// default 안써도돼유 : switch문을 잘 안써서 배워갑니당~
-				default:
-					break;
 			}
 		}
 	}

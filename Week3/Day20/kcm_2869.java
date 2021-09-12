@@ -1,5 +1,5 @@
 package Day20;
-
+////Good
 import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.io.*;

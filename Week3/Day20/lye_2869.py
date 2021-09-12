@@ -5,4 +5,4 @@ barHeight -= slideAmount
 dayCnt = barHeight / (climbAmount - slideAmount)
 
 print(math.ceil(dayCnt))
-## 깔끔.
+## 깔끔.:22
