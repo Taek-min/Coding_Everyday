@@ -15,7 +15,7 @@ public class Main {
 		int stickLength = Integer.parseInt(st.nextToken());
  
 		int day = (stickLength - down) / (up - down);
-		if ((stickLength - down) % (up - down) != 0)
+		if ((stickLength - down) % (up - down) != 0) ////여기 {} 넣어주세요라고 했습니다.
 			day++;
  
 		System.out.println(day);
