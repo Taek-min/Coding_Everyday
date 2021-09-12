@@ -3,7 +3,7 @@ package Day20;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.io.*;
-
+//// 버퍼!!!!!!
 public class kcm_2869 {
 
 	public static void main(String[] args) throws IOException { 

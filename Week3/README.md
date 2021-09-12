@@ -42,7 +42,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) [예은](Day19/lye_2712.py) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) 택민 예은             |
+| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) [예은](Day19/lye_2712.py) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) 예은             |
 
 ## [20일차](Day20)
 
@@ -54,4 +54,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 터널의 입구와 출구](https://www.acmicpc.net/problem/5612) | [창민](Day21/kcm_5612.java) [현민](Day21/shm_5612.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 터널의 입구와 출구](https://www.acmicpc.net/problem/5612) | [창민](Day21/kcm_5612.java) [현민](Day21/shm_5612.java) [택민](Day21/jtm_5612.java) 예은 | 창민 현민 택민 예은             |
