@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main { ////엄청 깔끔하네요 good : 22
+public class Main { ////엄청 깔끔하네요 good : 22 : 3
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int minute = sc.nextInt();
@@ -12,7 +12,7 @@ public class Main { ////엄청 깔끔하네요 good : 22
 			int outputCar = sc.nextInt();
 			presentCar = presentCar + inputCar - outputCar;
 			
-			max = (presentCar < 0) ? 0 : Math.max(presentCar, max);
+			max = (presentCar < 0) ? 0 : Math.max(presentCar, max); : ////삼항식 굿
 			if(max == 0)break;
 		}
 		System.out.println(max);

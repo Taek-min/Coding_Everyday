@@ -48,7 +48,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | *[창민](Day20/kcm_2869.java)* *[현민](Day20/shm_2869.java)* *[택민](Day20/jtm_1124.java)* [예은](Day20/lye_2869.py) | 창민 [현민](Day20/shm_2869.java) 택민 [예은](Day20/lye_2869.py)             |
+| [<sub>![Bronze1]</sub> 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | *[창민](Day20/kcm_2869.java)* *[현민](Day20/shm_2869.java)* *[택민](Day20/jtm_1124.java)* [예은](Day20/lye_2869.py) | [창민](Day20/kcm_2869.java) [현민](Day20/shm_2869.java) 택민 [예은](Day20/lye_2869.py)             |
 
 ## [21일차](Day21)
 

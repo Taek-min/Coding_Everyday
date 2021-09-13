@@ -16,3 +16,5 @@ for i in range(1, totalTime + 1):
 		break
 
 print(maxCnt)
+
+##ㄴ깔끔
