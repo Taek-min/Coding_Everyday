@@ -1,7 +1,7 @@
 package Day21;
 
 import java.util.Scanner;
-
+////코드 구성이 비슷하네요 ㅎㅎ good
 public class kcm_5612 {
 
 	public static void main(String[] args) {

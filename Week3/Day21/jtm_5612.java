@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { ////엄청 깔끔하네요 good 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int minute = sc.nextInt();
