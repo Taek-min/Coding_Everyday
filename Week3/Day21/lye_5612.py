@@ -1,7 +1,7 @@
 totalTime = int(input())
 carCnt = int(input())
 maxCnt = carCnt
-
+#### 깔끔하다
 for i in range(1, totalTime + 1):
 	inCar, outCar = map(int, input().split(' '))
 	
