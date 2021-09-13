@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class shm_5612 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		////변수명 지렸따,,,☆ :2 배워갑니단
+		////변수명 지렸따,,,☆ : 변수에 엄청 신경쓰는게 눈에 보인다 멋있어!! : 배워갑니다
 		int givenTime = sc.nextInt();
 		int existInTunnel = sc.nextInt();
 		int maxInTunnel = existInTunnel;
