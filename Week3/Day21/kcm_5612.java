@@ -16,6 +16,7 @@ public class kcm_5612 {
 			car += enterCar;
 			int outCar = in.nextInt();
 			car -= outCar;
+			//// 여기서 그냥 max를 0으로 해주고 break해주는 방법도 있어요!
 			if(car < 0) {
 				iscar = false;
 			}

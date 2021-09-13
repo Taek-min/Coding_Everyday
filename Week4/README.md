@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | 창민 [현민](Day22/shm_1924.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | 창민 [현민](Day22/shm_1924.java) 택민 [예은](Day22/lye_1924.py) | 창민 현민 택민 예은             |
 
 ## [23일차](Day23)
 
