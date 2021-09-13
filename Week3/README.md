@@ -42,7 +42,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) [예은](Day19/lye_2712.py) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) 예은             |
+| [<sub>![Bronze2]</sub> 미국 스타일 ](https://www.acmicpc.net/problem/2712) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) [예은](Day19/lye_2712.py) | [창민](Day19/kcm_2712.java) [현민](Day19/shm_2712.java) [택민](Day19/jtm_2712.java) [예은](Day19/lye_2712.py)             |
 
 ## [20일차](Day20)
 
