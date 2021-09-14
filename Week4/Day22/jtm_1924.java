@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
 public class Main {
-	////깔꼼
+	////깔꼼 :2
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int month = sc.nextInt();
 		int day = sc.nextInt();
 		
-		int[] dayOfMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+		int[] dayOfMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}; //// 배열 2개로 하니깐 깔끔하네
 		String[] dayOfWeeks = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};
 		
 		int totalDays = day;

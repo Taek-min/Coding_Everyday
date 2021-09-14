@@ -6,3 +6,5 @@ weekDayIndex = datetime.date(2007, month, day).weekday()
 
 print(weekDays[weekDayIndex])
 ####매우깔꼼
+
+## 깔끔
