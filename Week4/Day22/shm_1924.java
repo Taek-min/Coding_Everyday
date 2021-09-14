@@ -2,7 +2,7 @@ package Day22;
 
 import java.util.Scanner;
 
-public class shm_1924 {
+public class shm_1924 { ////깔끔.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String dayOfTheDay[] = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};

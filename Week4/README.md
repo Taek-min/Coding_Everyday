@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | [창민](Day23/kcm_4619.java) 현민 택민 예은 | 창민 현민 택민 예은             |
 
 ## [24일차](Day24)
 
