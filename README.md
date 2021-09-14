@@ -35,6 +35,7 @@
 [<sub>![Bronze3]</sub> 터널의 입구와 출구](https://www.acmicpc.net/problem/5612) |
 [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) |
 [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) |
+[<sub>![Bronze3]</sub> 크냐?](https://www.acmicpc.net/problem/4101) |
 
 ## 👨‍💻 스터디원
 <table>

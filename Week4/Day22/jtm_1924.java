@@ -7,7 +7,7 @@ public class Main {
 		int month = sc.nextInt();
 		int day = sc.nextInt();
 		
-		int[] dayOfMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}; //// 배열 2개로 하니깐 깔끔하네
+		int[] dayOfMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31}; //// 배열 2개로 하니깐 깔끔하네 : 22
 		String[] dayOfWeeks = {"SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"};
 		
 		int totalDays = day;
