@@ -14,6 +14,7 @@ public class kcm_4619 {
 			if(num == 0 && square == 0) {
 				break;
 			}
+			////이거는 왜 돌아가는거야?
 			for(int i = 2; i <= num; i++) {
 				if(min >= (int)Math.abs(num - Math.pow(i, square))) {
 					min = (int) Math.abs(num - Math.pow(i, square));

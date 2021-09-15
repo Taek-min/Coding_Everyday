@@ -17,7 +17,7 @@ public class Main {
 			
 			int result = 1;
 			int preMultiplier = 1;
-			
+			////공식을 활용했으면 더 간단했을거 같기도 해요
 			for(int multiplier = 1; ; multiplier++) {
 				int tmp = 1;
 				
