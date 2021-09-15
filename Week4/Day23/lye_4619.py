@@ -10,3 +10,5 @@ while True:
 		print(A)
 	else:
 		print(A+1)
+
+		## 깔끔
