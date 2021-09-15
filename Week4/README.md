@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 크냐?](https://www.acmicpc.net/problem/4101) | [창민](Day24/kcm_4101.java) [현민](Day24/shm_4101.java) 택민 [예은](Day24/lye_1401.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 크냐?](https://www.acmicpc.net/problem/4101) | [창민](Day24/kcm_4101.java) [현민](Day24/shm_4101.java) 택민 [예은](Day24/lye_4101.py) | 창민 현민 택민 예은             |
 
 ## [25일차](Day25)
 
