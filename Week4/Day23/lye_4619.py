@@ -11,4 +11,4 @@ while True:
 	else:
 		print(A+1)
 
-		## 깔끔
+		## 깔끔 :2

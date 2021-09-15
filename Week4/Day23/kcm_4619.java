@@ -1,6 +1,6 @@
 package Day23;
 
-import java.util.Scanner;////Good
+import java.util.Scanner;////Good :2
 
 public class kcm_4619 {
 

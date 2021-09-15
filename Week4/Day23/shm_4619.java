@@ -2,7 +2,7 @@ package Day23;
 
 import java.util.Scanner;
 
-public class shm_4619 {  ////good
+public class shm_4619 {  ////good :2
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		double findNum = 0;
