@@ -7,7 +7,8 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		while(true) {
-			int B = sc.nextInt();
+		////아 ~ 변수명이 아쉽네요~
+			int B = sc.nextInt(); 
 			int N = sc.nextInt();
 			
 			if(B == 0 && N == 0) {
