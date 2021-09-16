@@ -18,7 +18,7 @@ public class Main {
 		}
 	}
 	
-	//// 비교할뿐아니라 출력까지 하고있어서 printIfLeftIsBigger 등이 이름으로 적합 : 22 : 3
+	//// 비교할뿐아니라 출력까지 하고있어서 printIfLeftIsBigger 등이 이름으로 적합 : 22 : 3 :4 함수 좋으네~
 	static void compareNum(int first, int second) {
 		if(first <= second) {
 			System.out.println("No");
