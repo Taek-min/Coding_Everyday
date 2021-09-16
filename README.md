@@ -41,36 +41,26 @@
 <table>
   <tr>
     <td align="center">
-        <strong>강창민</strong>
-    </td>
-    <td align="center">
-        <strong>서현민</strong>
-    </td>
-    <td align="center">
-        <strong>정택민</strong>
-    </td>
-    <td align="center">
-        <strong>이예은</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/ckdals6932">
-        ckdals6932
+        <img src="https://avatars.githubusercontent.com/u/79955006?v=4" width="100px;" alt=""/>
+        강창민
       </a>
     <td align="center">
       <a href="https://github.com/Seohyunmin42">
-        Seohyunmin42
+        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
+        서현민
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Taek-min">
-        Taek-min
+        <img src="https://avatars.githubusercontent.com/u/79956027?v=4" width="100px;" alt=""/>
+        정택민
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/jjklunicc">
-        jjklunicc
+        <img src="https://avatars.githubusercontent.com/u/55953594?v=4" width="100px;" alt=""/>
+        이예은
       </a>
     </td>
   </tr>
