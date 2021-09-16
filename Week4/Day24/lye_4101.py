@@ -7,4 +7,4 @@ while True:
 	else:
 		print("No")
 
-## 깔끔
+## 깔끔 : 2
