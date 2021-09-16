@@ -1,7 +1,7 @@
 package Day24;
 
 import java.util.Scanner;
-
+////ㅋㅋㅋㅋㅋㅋㅋ줄바꿈빼면 깔꼼~
 public class kcm_4101 {
 
 	//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ : ㅎㅎ
