@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) 택민 [예은](Day22/lye_1924.py)             |
+| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py)             |
 
 ## [23일차](Day23)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_4619.java) [예은](Day23/lye_4619.py) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) 택민 예은             |
+| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_4619.java) [예은](Day23/lye_4619.py) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_fb_4619) 예은             |
 
 ## [24일차](Day24)
 

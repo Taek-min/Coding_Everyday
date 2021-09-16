@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class kcm_4101 {
 
-	//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ
+	//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ : ㅎㅎ
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		
@@ -22,8 +22,8 @@ public class kcm_4101 {
 			}				
 		}
 		
-		//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ
+		//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ : ㅎㅎ
 	}
 
-	//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ
+	//// 이런곳 불필요한 줄바꿈 노노 : ㅋㅋ :ㅎㅎ
 }
