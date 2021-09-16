@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) 택민 [예은](Day22/lye_1924.py)             |
+| [<sub>![Bronze1]</sub> 2007년](https://www.acmicpc.net/problem/1924) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py) | [창민](Day22/kcm_1924.java) [현민](Day22/shm_1924.java) [택민](Day22/jtm_1924.java) [예은](Day22/lye_1924.py)             |
 
 ## [23일차](Day23)
 
