@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_4619.java) [예은](Day23/lye_4619.py) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_fb_4619) 예은             |
+| [<sub>![Bronze3]</sub> 루트](https://www.acmicpc.net/problem/4619) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_4619.java) [예은](Day23/lye_4619.py) | [창민](Day23/kcm_4619.java) [현민](Day23/shm_4619.java) [택민](Day23/jtm_fb_4619) [예은](Day23/lye_4619.py)             |
 
 ## [24일차](Day24)
 
@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) *[현민](Day25/shm_5988.java)* 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) *[현민](Day25/shm_5988.java)* 택민 [예은](Day25/lye_5988.py) | 창민 현민 택민 예은             |
 
 ## [26일차](Day26)
 
