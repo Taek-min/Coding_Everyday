@@ -8,7 +8,8 @@ public class shm_5988 {
 		Scanner sc = new Scanner(System.in);
 		int loop = sc.nextInt();
 		
-		//// int로 해결되는 범위 문젠데 BigInteger 연습하신건가요
+		//// 원래 BigInteger 쓰라는 의도의 문제였던거같은데 홀짝만 확인하면 되니 다들 Integer로 해결봤네요
+		//// 정직한 구현 굿이요~
 		for(int i = 1; i <= loop; i++) {
 			BigInteger num = sc.nextBigInteger();
 			BigInteger q = new BigInteger("2");
