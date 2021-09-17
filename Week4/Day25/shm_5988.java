@@ -1,7 +1,7 @@
 package Day25;
 
 import java.util.Scanner;
-import java.math.BigInteger;
+import java.math.BigInteger; //// 이거엿구만!
 
 public class shm_5988 {
 	public static void main(String[] args) {
