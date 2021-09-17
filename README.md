@@ -38,6 +38,7 @@
 [<sub>![Bronze3]</sub> 크냐?](https://www.acmicpc.net/problem/4101) |
 [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) |
 [<sub>![Bronze2]</sub> !밀비 급일](https://www.acmicpc.net/problem/11365) |
+[<sub>![Bronze2]</sub> 대표값2](https://www.acmicpc.net/problem/2587) |
 
 ## 👨‍💻 스터디원
 <table>
