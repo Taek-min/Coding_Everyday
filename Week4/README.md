@@ -34,13 +34,17 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) *[현민](Day25/shm_5988.java)* [택민](Day25/jtm_5988.java) [예은](Day25/lye_5988.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) [현민](Day25/shm_5988.java) [택민](Day25/jtm_5988.java) [예은](Day25/lye_5988.py) | 창민 현민 택민 예은             |
 
 ## [26일차](Day26)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
+<<<<<<< Updated upstream
 | [<sub>![Bronze2]</sub> !밀비 급일](https://www.acmicpc.net/problem/11365) | [창민](Day26/kcm_11365.java) *[현민](Day26/shm_11365.java)* 택민 [예은](Day26/lye_11365.py) | 창민 현민 택민 예은             |
+=======
+| [<sub>![Bronze2]</sub> !밀비 급일](https://www.acmicpc.net/problem/11365) | 창민 [현민](Day26/shm_11365.java) 택민 [예은](Day26/lye_11365.py) | 창민 현민 택민 예은             |
+>>>>>>> Stashed changes
 
 ## [27일차](Day27)
 
