@@ -8,3 +8,4 @@ for i in range(0, caseCnt):
 		print("odd")
 	else:
 		print("even")
+## 역시 고인물
