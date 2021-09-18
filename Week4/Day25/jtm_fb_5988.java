@@ -1,5 +1,4 @@
 package algorithm;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -9,9 +8,9 @@ public class Main {
 		int testCase = sc.nextInt();
 		
 		for(int i = 0; i < testCase; i++) {
-			int[] nums = Arrays.stream(sc.next().split("")).mapToInt(Integer::parseInt).toArray();
+			int[] nums = Arrays.stream(in.next().split("")).mapToInt(Integer::parseInt).toArray();
 			
-			String result = ((nums[nums.length-1]) % 2 == 0) ? "even" : "odd" ;
+			String result = ((Integer.parseInt(num[num.length-1])) % 2 == 0) ? "even" : "odd" ;
 			System.out.println(result);
 		}
 	}
