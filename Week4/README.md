@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) [현민](Day25/shm_5988.java) [택민](Day25/jtm_5988.java) [예은](Day25/lye_5988.py) | 창민 [현민](Day25/shm_5988.java) 택민 [예은](Day25/lye_5988.py)             |
+| [<sub>![Bronze2]</sub> 홀수일까 짝수일까](https://www.acmicpc.net/problem/5988) | [창민](Day25/kcm_5988.java) [현민](Day25/shm_5988.java) [택민](Day25/jtm_5988.java) [예은](Day25/lye_5988.py) | [창민](Day25/kcm_fb_5988.java) [현민](Day25/shm_5988.java) 택민 [예은](Day25/lye_5988.py)             |
 
 ## [26일차](Day26)
 
