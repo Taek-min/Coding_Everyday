@@ -6,4 +6,4 @@ while True:
 		print(''.join(reversed(list(note))))
 
 #### 뭔가 얄밉달까? 
-#### 날먹이야 날먹
+#### 날먹이야 날먹 :2 인정하는 부분.

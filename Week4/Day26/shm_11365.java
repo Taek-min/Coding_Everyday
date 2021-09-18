@@ -15,7 +15,7 @@ public class shm_11365 {
 			}
 			//// 정직한 구현 굿굿:22 이게 알고리즘의 정석이 아닌가~
 			for(int i = reverseSentence.length() - 1; i >= 0; i--) {
-				sentence.append(reverseSentence.charAt(i));
+				sentence.append(reverseSentence.charAt(i)); //// 배워갑니다.
 			}
 			System.out.println(sentence);
 		}

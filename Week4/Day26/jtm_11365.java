@@ -1,5 +1,5 @@
 import java.util.Scanner;
-////아유 참 잘하셨더요
+////아유 참 잘하셨더요 :2
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
