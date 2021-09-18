@@ -8,4 +8,4 @@ for i in range(0, caseCnt):
 		print("odd")
 	else:
 		print("even")
-## 역시 고인물 ## 너무하다 파이썬,,  :..2
+## 역시 고인물 ## 너무하다 파이썬,,  :..2 : 3
