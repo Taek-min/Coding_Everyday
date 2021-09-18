@@ -10,7 +10,7 @@ public class Main {
             	break;
             }
             else {
-            	System.out.println(new StringBuffer(inputStr).reverse().toString());
+            	System.out.println(new StringBuffer(inputStr).reverse().toString()); ////디게 깔끔하네요 StringBuffer().reverse().toString() 배워가요
             }
         }
     }    
