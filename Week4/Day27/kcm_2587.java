@@ -1,4 +1,4 @@
-package Day27;
+package Day27; //// 백준에 제출해서 맞은 코드로 커밋해주십쇼
 
 import java.util.Scanner;
 import java.util.Arrays;
