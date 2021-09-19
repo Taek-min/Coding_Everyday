@@ -2,7 +2,7 @@ package Day27;
 
 import java.util.Scanner;
 import java.util.Arrays;
-////굿꾸우우웃꿌꿌꿌
+////굿꾸우우웃꿌꿌꿌 : 22
 public class shm_2587 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
