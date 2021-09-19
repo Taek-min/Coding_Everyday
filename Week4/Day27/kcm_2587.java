@@ -3,7 +3,7 @@ package Day27;
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class kcm_2587 {
+public class kcm_2587 {////이게 바로 시골코딩?
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
