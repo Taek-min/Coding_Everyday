@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {	////깔끔~ 함수 사용 굳~
+public class Main {	////깔끔~ 함수 사용 굳~ :22굳이에요 ㅎ
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int[] arr = new int[5];
