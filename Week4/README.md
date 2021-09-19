@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> !밀비 급일](https://www.acmicpc.net/problem/11365) | [창민](Day26/kcm_11365.java) [현민](Day26/shm_11365.java) [택민](Day26/jtm_11365.java) [예은](Day26/lye_11365.py) | 창민 [현민](Day26/shm_11365.java) 택민(Day28/jtm_11365.java) [예은](Day26/lye_11365.py)             |
+| [<sub>![Bronze2]</sub> !밀비 급일](https://www.acmicpc.net/problem/11365) | [창민](Day26/kcm_11365.java) [현민](Day26/shm_11365.java) [택민](Day26/jtm_11365.java) [예은](Day26/lye_11365.py) | [창민](Day26/kcm_11365.java) [현민](Day26/shm_11365.java) [택민](Day28/jtm_11365.java) [예은](Day26/lye_11365.py)             |
 
 ## [27일차](Day27)
 
@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 3](https://www.acmicpc.net/problem/2440) | 창민 [현민](Day28/shm_2440.java) [택민](Day28/jtm_2440.java) [예은](Day28/lye_2440.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze3]</sub> 별찍기 - 3](https://www.acmicpc.net/problem/2440) | [창민](Day28/kcm_1440.java) [현민](Day28/shm_2440.java) [택민](Day28/jtm_2440.java) [예은](Day28/lye_2440.py) | 창민 현민 택민 예은             |
