@@ -1,10 +1,8 @@
-package Day29;
-
 import java.util.Scanner;
 import java.util.*;
 
 
-public class kcm_9506 {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
