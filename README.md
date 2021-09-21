@@ -42,6 +42,7 @@
 [<sub>![Bronze3]</sub> 별찍기 - 3](https://www.acmicpc.net/problem/2440) |
 [<sub>![Bronze1]</sub> 약수들의 합](https://www.acmicpc.net/problem/9506) |
 [<sub>![Bronze1]</sub> 행복한지 슬픈지](https://www.acmicpc.net/problem/10769) |
+[<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) |
 
 ## 👨‍💻 스터디원
 <table>
