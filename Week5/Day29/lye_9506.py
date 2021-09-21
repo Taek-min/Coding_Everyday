@@ -28,4 +28,4 @@ while True:
 		break
 	PrintResult(num == GetAndSumDivisors(num))
 	
-
+##깔끔.

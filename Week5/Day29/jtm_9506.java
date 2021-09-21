@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Main { //// 현민이랑 다를게없네 b
 
    public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);

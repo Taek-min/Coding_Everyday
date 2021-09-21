@@ -2,7 +2,7 @@ package Day29;
 
 import java.util.Scanner;
 
-public class shm_9506 {
+public class shm_9506 { //// 깔끔.
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -14,7 +14,7 @@ public class shm_9506 {
 			int[] arr = new int[num]; 
 			int sum = 0;		
 			int index = 0;		
-			for(int i=1; i<num; i++) {
+			for(int i=1; i<num; i++) { //// 이런 방법 배워갑니다.
 				if(num%i == 0) {		
 					arr[index++] = i;	
 					sum += i;			
