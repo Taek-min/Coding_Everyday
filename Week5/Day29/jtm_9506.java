@@ -24,6 +24,7 @@ public class Main { //// 현민이랑 다를게없네 b : 택민 ;; 집에 CCTV 
             continue;
          }
          
+         //// System.out.printf("%d = ", num); 요거 편함
          System.out.print(num + " = ");
          
          for(int i=0; i<index; i++) {

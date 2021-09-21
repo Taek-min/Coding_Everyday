@@ -1,4 +1,4 @@
-package Day29;
+package Day29; //// 빼주시오
 
 import java.util.Scanner;
 
@@ -26,6 +26,7 @@ public class shm_9506 { //// 깔끔.
 				continue;
 			}
 			
+			//// System.out.printf("%d = ", num); 요거 편함
 			System.out.print(num + " = ");
 			for(int i=0; i<index; i++) {
 				if(i == index-1)

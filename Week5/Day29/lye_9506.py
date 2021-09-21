@@ -3,6 +3,7 @@ import math
 divisors = [1]
 num = 0
 
+## 파이썬은 get_and_sum_divisors 스네이크 표기법으로 쓰는게 관례
 def GetAndSumDivisors(num):
 	sum = 1
 	for i in range(2, int(math.sqrt(num)) + 1):
@@ -29,3 +30,4 @@ while True:
 	PrintResult(num == GetAndSumDivisors(num))
 	
 ##깔끔. 맨날 짧다하니까 함수만들어서 막 ~ 열심히 해줬네~? 누렁이보고싶다~ 
+## 깔끔합니다
