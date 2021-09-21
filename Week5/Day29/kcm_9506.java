@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.*;
 
-//// 깔끔
+//// 깔끔:22 굿이에유
 public class Main {
 
 	public static void main(String[] args) {
