@@ -8,7 +8,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		while(true) {
 			int num = in.nextInt();
-			List<String> perfectNum = new ArrayList<String>();
+			List<String> perfectNum = new ArrayList<String>(); ////List 쓸까말까하다가 안썼는데 좋은 방법이네요 ~ 
 			int sum = 0;
 			String answer = num +" = ";
 			if(num == -1) {

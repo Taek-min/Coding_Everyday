@@ -28,4 +28,4 @@ while True:
 		break
 	PrintResult(num == GetAndSumDivisors(num))
 	
-##깔끔.
+##깔끔. 맨날 짧다하니까 함수만들어서 막 ~ 열심히 해줬네~? 누렁이보고싶다~ 
