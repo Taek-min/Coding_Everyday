@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 3](https://www.acmicpc.net/problem/2440) | [창민](Day28/kcm_2440.java) [현민](Day28/shm_2440.java) [택민](Day28/jtm_2440.java) [예은](Day28/lye_2440.py) | [창민](Day28/kcm_2440.java) [현민](Day28/shm_2440.java) 택민 [예은](Day28/lye_2440.py)             |
+| [<sub>![Bronze3]</sub> 별찍기 - 3](https://www.acmicpc.net/problem/2440) | [창민](Day28/kcm_2440.java) [현민](Day28/shm_2440.java) [택민](Day28/jtm_2440.java) [예은](Day28/lye_2440.py) | [창민](Day28/kcm_2440.java) [현민](Day28/shm_2440.java) [택민](Day28/jtm_2440.java) [예은](Day28/lye_2440.py)             |

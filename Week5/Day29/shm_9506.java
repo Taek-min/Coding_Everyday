@@ -2,7 +2,7 @@ package Day29; //// 빼주시오
 
 import java.util.Scanner;
 
-public class shm_9506 { //// 깔끔. : 22 누룽이보다 코딩 잘하네 ㅋ
+public class shm_9506 { //// 깔끔. : 22 누룽이보다 코딩 잘하네 ㅋ : 33
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
