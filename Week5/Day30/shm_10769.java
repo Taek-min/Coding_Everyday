@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-	////다들 너무 잘풀어~:22 좀 하네~? 파이썬 개꿀인정~ㅋ
+	////다들 너무 잘풀어~:22 좀 하네~? 파이썬 개꿀인정~ㅋ :2 다들 잘 푸시네
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String sentence = sc.nextLine();
