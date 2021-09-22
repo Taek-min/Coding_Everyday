@@ -17,6 +17,7 @@ public class Main {
 				else {
 					int nextFind = 0;
 					if(smileFind != -1) {
+						//// indexOf 활용 굿
 						nextFind = sentence.indexOf(":-)", smileFind + 1);
 						smileFind = nextFind;
 						cnt++;

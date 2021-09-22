@@ -8,6 +8,7 @@ public class Main {
 		String emotion[] = message.split("");
 		int sad = 0;
 		int happy = 0;
+		//// 굿
 		if(message.contains(":-)") | message.contains(":-(")) { ////contains 배워갑니당 good
 			for(int i = 0; i < message.length()-1; i++) {
 				if(emotion[i].equals("(")) {
