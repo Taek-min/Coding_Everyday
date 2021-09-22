@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 약수들의 합](https://www.acmicpc.net/problem/9506) | *[창민](Day29/kcm_9506.java)* [현민](Day29/shm_9506.java) [택민](Day29/jtm_9506.java) [예은](Day29/lye_9506.py) | 창민 [현민](Day29/shm_9506_fb.java) 택민 예은             |
+| [<sub>![Bronze1]</sub> 약수들의 합](https://www.acmicpc.net/problem/9506) | *[창민](Day29/kcm_9506.java)* [현민](Day29/shm_9506.java) [택민](Day29/jtm_9506.java) [예은](Day29/lye_9506.py) | 창민 [현민](Day29/shm_9506_fb.java) [택민](Day29/jtm_fb_9506.java) 예은             |
 
 ## [30일차](Day30)
 
@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | 창민 [현민](Day31/shm_1259.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | 창민 [현민](Day31/shm_1259.java) [택민](Day31/jtm_1259.java) 예은 | 창민 현민 택민 예은             |
 
 ## [32일차](Day32)
 
