@@ -10,7 +10,7 @@ public class Main {
 		int smile = 0;
 		int sad = 0;
 		
-		for(char inputString : str.toCharArray()) {
+		for(char inputString : str.toCharArray()) {	//// 향상된 for문 Good 코드 재밌네 
 			if (inputString == ':' || (inputString == '-') && check == 1) {
 				check++;
 				continue;

@@ -10,3 +10,4 @@ elif happy > sad:
 	print("happy")
 else:
 	print("sad")
+#### ㅋㅋ. 
