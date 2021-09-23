@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 행복한지 슬픈지](https://www.acmicpc.net/problem/10769) | [창민](Day30/kcm_10769.java) [현민](Day30/shm_10769.java) [택민](Day30/jtm_10769.java) [예은](Day30/lye_10769.py) | [창민](Day30/kcm_10769.java) [현민](Day30/shm_10769.java) [택민](Day30/jtm_fb_10769.java) 예은             |
+| [<sub>![Bronze1]</sub> 행복한지 슬픈지](https://www.acmicpc.net/problem/10769) | [창민](Day30/kcm_10769.java) [현민](Day30/shm_10769.java) [택민](Day30/jtm_10769.java) [예은](Day30/lye_10769.py) | [창민](Day30/kcm_10769.java) [현민](Day30/shm_10769.java) [택민](Day30/jtm_fb_10769.java) [예은](Day30/lye_10769.py)          |
 
 ## [31일차](Day31)
 
