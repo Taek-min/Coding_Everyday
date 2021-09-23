@@ -11,7 +11,7 @@ public class Main1 {
 				break;
 			}
 			
-			//// 새로운 기능 찾아본 거 칭찬해 : 22 
+			//// 새로운 기능 찾아본 거 칭찬해 : 22 : 3
 			StringBuffer sb= new StringBuffer(palindrome);
 			String reversedPalindrome = sb.reverse().toString();
 		
