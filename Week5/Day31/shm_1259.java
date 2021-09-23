@@ -4,6 +4,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		while(true) {
 			String palindrome = sc.nextLine();
+			//// accord는 무슨뜻이에요 찾아보니까 합의라고만 나오는데
 			int accordCnt = 0;
 			if(palindrome.equals("0")) {
 				break;

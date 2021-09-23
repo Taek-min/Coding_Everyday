@@ -13,3 +13,5 @@ while True:
 		print('yes')
 	else:
 		print('no')
+
+## 날먹도 실력이다

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//// 깔끔
 public class Main1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -10,6 +11,7 @@ public class Main1 {
 				break;
 			}
 			
+			//// 새로운 기능 찾아본 거 칭찬해
 			StringBuffer sb= new StringBuffer(palindrome);
 			String reversedPalindrome = sb.reverse().toString();
 		
