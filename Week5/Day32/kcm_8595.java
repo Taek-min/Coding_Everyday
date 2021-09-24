@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Main {	////열심히 이뤄낸 코드 칭찬합니다~
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
