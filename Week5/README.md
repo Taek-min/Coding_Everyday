@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day31/kcm_1259.java) [현민](Day31/shm_1259.java) [택민](Day31/jtm_1259.java) [예은](Day31/lye_1259.py) | 창민 [현민](Day31/shm_1259.java) 택민 [예은](Day31/lye_1259.py)             |
+| [<sub>![Bronze1]</sub> 팰린드롬수](https://www.acmicpc.net/problem/1259) | [창민](Day31/kcm_1259.java) [현민](Day31/shm_1259.java) [택민](Day31/jtm_1259.java) [예은](Day31/lye_1259.py) | [창민](Day31/kcm_1259.java) [현민](Day31/shm_1259.java) 택민 [예은](Day31/lye_1259.py)             |
 
 ## [32일차](Day32)
 
@@ -40,13 +40,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 소트인사이드](https://www.acmicpc.net/problem/1427) | 창민 [현민](Day33/shm_1427.java) 택민 [예은](Day33/lye_1427.py) | 창민 현민 택민 예은             |
+| [<sub>![Silver5]</sub> 소트인사이드](https://www.acmicpc.net/problem/1427) | [창민](Day33/kcm_1427.java) [현민](Day33/shm_1427.java) 택민 [예은](Day33/lye_1427.py) | 창민 현민 택민 예은             |
 
 ## [34일차](Day34)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
 
 ## [35일차](Day35)
 
