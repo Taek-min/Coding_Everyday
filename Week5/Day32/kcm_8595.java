@@ -20,6 +20,7 @@ public class Main {
 				}
 			}
 			else {
+				////이 코드가 두번 들어가지 않게 하는 방법이 있지 않을까?
 				for(int j = 0; j < num.length(); j++) {
 					hiddenNum += (num.charAt(j) - '0') * Math.pow(10, num.length()-(1 + j));
 				}

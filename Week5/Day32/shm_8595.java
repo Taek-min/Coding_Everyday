@@ -13,6 +13,7 @@ public class Main {
 				saveNumber += word.charAt(i);
 			}
 			else {
+				////이 코드가 두번 들어가지 않게 하는 방법이 있지 않을까?
 				if(saveNumber.length() > 0) {
 					sum += Long.parseLong(saveNumber);
 					saveNumber = "";
