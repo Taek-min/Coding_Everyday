@@ -13,3 +13,4 @@ for i in range(0, wordLen + 1):
 		
 print(sum)
 #### 머리가 너무 비상한 이 예은씨 박수. 
+## 깔끔
