@@ -8,4 +8,4 @@ numArr.sort(reverse=True)
 
 print(''.join(map(str,numArr)))
 
-## 갤곰 :2
+## 갤곰 :2 :3
