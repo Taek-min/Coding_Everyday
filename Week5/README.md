@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 히든 넘버](https://www.acmicpc.net/problem/8595) | [창민](Day32/kcm_8595.java) *[현민](Day32/shm_8595.java)* [택민](Day32/jtm_8595.java) [예은](Day32/lye_8595.py) | 창민 현민 택민 예은             |
+| [<sub>![Bronze1]</sub> 히든 넘버](https://www.acmicpc.net/problem/8595) | [창민](Day32/kcm_8595.java) *[현민](Day32/shm_8595.java)* [택민](Day32/jtm_8595.java) [예은](Day32/lye_8595.py) | 창민 [현민](Day32/shm_8592.java) 택민 예은             |
 
 ## [33일차](Day33)
 
@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | 창민 [현민](Day34/shm_17350.java) 택민 예은 | 창민 현민 택민 예은             |
 
 ## [35일차](Day35)
 
