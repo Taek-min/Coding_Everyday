@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {	////열심히 이뤄낸 코드 칭찬합니다~
+public class Main {	////열심히 이뤄낸 코드 칭찬합니다~ : 당신의 노력에 감동받았어요!!
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
