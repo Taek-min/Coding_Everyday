@@ -12,3 +12,4 @@ public class Main {
 		}
 	}
 }
+//// 반복문 안쓰고 하셔야죠
