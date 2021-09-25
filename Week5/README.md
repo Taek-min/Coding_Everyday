@@ -34,22 +34,22 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 히든 넘버](https://www.acmicpc.net/problem/8595) | [창민](Day32/kcm_8595.java) *[현민](Day32/shm_8595.java)* [택민](Day32/jtm_8595.java) [예은](Day32/lye_8595.py) | [창민](Day32/kcm_fb_8595.java) [현민](Day32/shm_8592.java) 택민 예은             |
+| [<sub>![Bronze1]</sub> 히든 넘버](https://www.acmicpc.net/problem/8595) | [창민](Day32/kcm_8595.java) *[현민](Day32/shm_8595.java)* [택민](Day32/jtm_8595.java) [예은](Day32/lye_8595.py) | [창민](Day32/kcm_fb_8595.java) [현민](Day32/shm_8592.java) 택민 [예은](Day32/lye_8595.py)             |
 
 ## [33일차](Day33)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 소트인사이드](https://www.acmicpc.net/problem/1427) | [창민](Day33/kcm_1427.java) [현민](Day33/shm_1427.java) [택민](Day33/jtm_1427.java) [예은](Day33/lye_1427.py) | 창민 현민 택민 예은             |
+| [<sub>![Silver5]</sub> 소트인사이드](https://www.acmicpc.net/problem/1427) | [창민](Day33/kcm_1427.java) [현민](Day33/shm_1427.java) [택민](Day33/jtm_1427.java) [예은](Day33/lye_1427.py) | 창민 현민 택민 [예은](Day33/lye_1427.py)             |
 
 ## [34일차](Day34)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) 택민 [예은](Day34/lye_17350.py) | 창민 현민 택민 예은             |
 
 ## [35일차](Day35)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | 창민 현민 택민 예은 | 창민 현민 택민 예은             |
+| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | 창민 현민 택민 [예은](Day35/lye_2693.py) | 창민 현민 택민 예은             |

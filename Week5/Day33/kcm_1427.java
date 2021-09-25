@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-//// 깔끔
+//// 깔끔:22
 public class Main {////뭐야 둘이 코드 
 
 	public static void main(String[] args) {

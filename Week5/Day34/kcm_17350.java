@@ -12,6 +12,7 @@ public class kcm_17350 {
 		boolean Ismember = false;
 		for(int i = 0; i <loop; i++) {
 			names[i] = in.nextLine();
+			////찾고 바로 종료해주느것도 좋을듯?
 			if(names[i].equals("anj")) {
 				Ismember = true;
 			}
