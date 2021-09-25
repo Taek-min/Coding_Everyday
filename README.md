@@ -79,6 +79,13 @@
         이예은
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/kkg0726">
+        <img src="https://avatars.githubusercontent.com/u/60912962?v=4" width="100px;" alt=""/>
+        <br/>
+        고가희
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
