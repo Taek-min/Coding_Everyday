@@ -47,6 +47,7 @@
 [<sub>![Silver5]</sub> 소트인사이드](https://www.acmicpc.net/problem/1427) |
 [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) |
 [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) |
+[<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) |
 
 
 ## 👨‍💻 스터디원
