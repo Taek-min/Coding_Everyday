@@ -15,7 +15,7 @@ public class Main {
 			}
 		}
 		if(result) {
-			//// 이거 나만 물음표로 보이나,,,
+			//// 이거 나만 물음표로 보이나,,, : 나도 이거 깨져서 보여 
 			System.out.println("����;");
 		}
 		else {

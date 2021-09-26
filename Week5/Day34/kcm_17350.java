@@ -2,7 +2,7 @@ package Day34;
 
 import java.util.Scanner;
 
-public class kcm_17350 {
+public class kcm_17350 {////뭐야 나랑 똑같잖아~?
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
