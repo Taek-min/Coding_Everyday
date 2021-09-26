@@ -10,4 +10,4 @@ for i in range(0, memberCnt):
 if isFind==False:
 	print("뭐야?")
 
-## 굳
+## 굳 : 2
