@@ -8,3 +8,4 @@ for i in range(0, 10):
 		maxPassenger = passengerCnt
 
 print(maxPassenger)
+## 깔끔
