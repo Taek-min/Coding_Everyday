@@ -87,6 +87,13 @@
         고가희
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/sungshahn">
+        <img src="https://avatars.githubusercontent.com/u/60912520?v=4" width="100px;" alt=""/>
+        <br/>
+        안성수
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
