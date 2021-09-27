@@ -122,7 +122,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://solved.ac/kkg0726">
+      <a href="https://solved.ac/saop1739">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=saop1739">
       </a>
     </td>
