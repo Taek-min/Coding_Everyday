@@ -9,7 +9,7 @@ public class Main {
 		
 		for(int i = 0; i < testCase; i++) {
 			for(int j = 0; j < 10; j++) {
-				num[j] = sc.nextInt();
+				num[j] = sc.nextInt(); ////걍 이렇게 받을껄 split하고 난리쳤네
 			}
 			Arrays.sort(num);
 			System.out.println(num[7]);

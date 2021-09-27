@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) [택민](Day34/jtm_17350.java) [예은](Day34/lye_17350.py) | 창민 현민 [택민](jtm_fb_17350.java) 예은             |
+| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) [택민](Day34/jtm_17350.java) [예은](Day34/lye_17350.py) | 창민 [현민](Day34/shm_17350_fb.java) [택민](Day34/jtm_fb_17350.java) 예은             |
 
 ## [35일차](Day35)
 
