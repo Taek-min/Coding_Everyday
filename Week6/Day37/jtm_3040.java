@@ -10,6 +10,7 @@ public class Main {
 			sumHat += hatNum[i];
 		}
 		findLieDwarf(hatNum, sumHat);
+		printRealDwarf(hatNum);
 		sc.close();
 	}
 	
@@ -19,7 +20,6 @@ public class Main {
 				if(hatNum[j] + hatNum[k] == sumHat-100) {
 					hatNum[j] = 0;
 					hatNum[k] = 0;
-					printRealDwarf(hatNum);
 					return;
 				}
 			}
