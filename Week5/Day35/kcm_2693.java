@@ -1,9 +1,7 @@
-package Day35;
-
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class kcm_2693 {
+public class Main {
 //// 깔끔 : 22 :3
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
