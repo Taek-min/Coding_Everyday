@@ -9,7 +9,7 @@ public class Main {
 		
 		for(int i = 0; i < testCase; i++) {
 			for(int j = 0; j < 10; j++) {
-				num[j] = sc.nextInt(); ////걍 이렇게 받을껄 split하고 난리쳤네 :2 바보.
+				num[j] = sc.nextInt(); ////걍 이렇게 받을껄 split하고 난리쳤네 :2 바보.: 3. 멍청이
 			}
 			Arrays.sort(num);
 			System.out.println(num[7]);
