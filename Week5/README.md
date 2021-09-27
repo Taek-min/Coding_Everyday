@@ -46,10 +46,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) [택민](Day34/jtm_17350.java) [예은](Day34/lye_17350.py) | 창민 현민 [택민](jtm_fb_17350.java) 예은             |
+| [<sub>![Bronze2]</sub> 2루수 이름이 뭐야](https://www.acmicpc.net/problem/17350) | [창민](Day34/kcm_17350.java) [현민](Day34/shm_17350.java) [택민](Day34/jtm_17350.java) [예은](Day34/lye_17350.py) | [창민](Day34/kcm_fb_17350.java) [현민](Day34/shm_17350_fb.java) [택민](Day34/jtm_fb_17350.java) [예은](Day34/lye_17350.py)             |
 
 ## [35일차](Day35)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) [가희](Day35/kkh_2693.py) 성수 | 창민 현민 택민 예은 가희 성수           |
+| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) [가희](Day35/kkh_2693.py) | 창민 현민 택민 예은 가희           |
