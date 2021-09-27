@@ -14,7 +14,7 @@ public class Main {
 			
 			if(maxPassenger < innerTrain) {
 				maxPassenger = innerTrain;
-			};
+			}
 		}
 		System.out.println(maxPassenger);
 	}
