@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) [가희](Day35/kkh_2693.py) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693_fb.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) 가희           |
+| [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) [가희](Day35/kkh_2693.py) | [창민](Day35/kcm_2693.java) [현민](Day35/shm_2693_fb.java) [택민](Day35/jtm_2693.java) [예은](Day35/lye_2693.py) [가희](Day35/kkh_2693.py)           |
