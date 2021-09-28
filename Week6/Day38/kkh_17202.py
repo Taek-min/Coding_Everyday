@@ -16,5 +16,4 @@ while (len(fullNum) > 2) : #앞 + 뒤 계산
 	fullNum = possibility
 	possibility = []
    
-for i in range (0, len(fullNum)): # 출력
-    print(fullNum[i], end = '')
+print(*fullNum, sep='')
