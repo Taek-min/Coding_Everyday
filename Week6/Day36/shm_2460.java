@@ -19,5 +19,5 @@ public class Main {
 		System.out.println(maxPerson);
 	}
 }
-//// 그만 통하자구 우리;;; :2
-//// 깔끔
+//// 그만 통하자구 우리;;; :2:ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+//// 깔끔:33

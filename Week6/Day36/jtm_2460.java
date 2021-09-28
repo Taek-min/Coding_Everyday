@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//// 깔끔 : 22 :3 민은 다 비슷하게 풀엇네
+//// 깔끔:4 : 22 :3 민은 다 비슷하게 풀엇네
 public class Main {
 
 	public static void main(String[] args) {
