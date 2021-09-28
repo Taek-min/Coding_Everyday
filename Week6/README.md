@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_3040.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [38일차](Day38)
 
