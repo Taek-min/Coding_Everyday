@@ -11,7 +11,7 @@ public class Main//// 성수 역시 잘푸네 ^^
       {
           int subout = scan.nextInt();
           int subin = scan.nextInt();
-          //// min+=subin - subout 으로 하면 hum 변수선언 없이 풀 수 있을것 같아요. :2 : 3
+          //// min+=subin - subout 으로 하면 hum 변수선언 없이 풀 수 있을것 같아요. :2 : 3 :4
           min=subin-subout;
           hum=hum+min;
           
