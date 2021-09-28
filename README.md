@@ -49,6 +49,7 @@
 [<sub>![Silver5]</sub> N번째 큰 수](https://www.acmicpc.net/problem/2693) |
 [<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) |
 [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |
+[<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) |
 
 
 ## 👨‍💻 스터디원
