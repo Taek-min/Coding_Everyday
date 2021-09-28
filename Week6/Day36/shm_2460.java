@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //// import 후 줄바꿈 하나는 국룰
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -20,3 +20,4 @@ public class Main {
 	}
 }
 //// 그만 통하자구 우리;;;
+//// 깔끔

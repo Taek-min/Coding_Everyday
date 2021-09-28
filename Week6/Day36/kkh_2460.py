@@ -7,4 +7,4 @@ for i in range(1, 10):
         maxPeople = inPeople
  
 print(maxPeople)
-## 깔끔
+## 깔끔 :2
