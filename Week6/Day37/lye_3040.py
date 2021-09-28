@@ -17,4 +17,4 @@ for i in range(0, dwarfCnt):
 	for j in range(i+1, dwarfCnt):
 		if totalNum - dwarfNumList[i] - dwarfNumList[j] == 100:
 			print_result(i, j)
-			
+## 깔끔

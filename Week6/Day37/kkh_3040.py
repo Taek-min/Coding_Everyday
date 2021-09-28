@@ -9,3 +9,4 @@ for i in range(0, len(capNum)):
 			del capNum[j-1]
 			print(*capNum, sep='\n')
 			break
+## 잘해 아주

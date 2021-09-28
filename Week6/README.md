@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) | [창민](Day36/kcm_2460.java) [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java) [예은](Day36/lye_2460.py) [가희](Day36/kkh_2460.py) [성수](Day36/ass_2460.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) | [창민](Day36/kcm_2460.java) [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java) [예은](Day36/lye_2460.py) [가희](Day36/kkh_2460.py) [성수](Day36/ass_2460.java) | 창민 현민 [택민](Day36/jtm_2460.java) 예은 가희 성수             |
 
 ## [37일차](Day37)
 
@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) | 창민 현민 택민 예은 [가희](Day38/kkh_17202.py) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) | 창민 현민 [택민](Day38/jtm_17202.java) 예은 [가희](Day38/kkh_17202.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [39일차](Day39)
 
