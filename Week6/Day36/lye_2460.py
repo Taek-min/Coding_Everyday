@@ -9,3 +9,4 @@ for i in range(0, 10):
 
 print(maxPassenger)
 ## 깔끔 :2
+## 예은이 반만 닮고 싶다 ;; 

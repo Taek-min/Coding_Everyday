@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class Main//// 성수 역시 잘푸네 ^^ 
 {
    public static void main(String[] args) {
       Scanner scan = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class Main
       {
           int subout = scan.nextInt();
           int subin = scan.nextInt();
-          //// min+=subin - subout 으로 하면 hum 변수선언 없이 풀 수 있을것 같아요. :2
+          //// min+=subin - subout 으로 하면 hum 변수선언 없이 풀 수 있을것 같아요. :2 : 3
           min=subin-subout;
           hum=hum+min;
           
