@@ -7,6 +7,5 @@ for i in range(0, len(capNum)):
 		if(sum(capNum) - capNum[i] - capNum[j] == 100):
 			del capNum[i]
 			del capNum[j-1]
-			for k in capNum:
-				print(k)
+			print(*capNum, sep='\n')
 			break
