@@ -4,7 +4,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int[]num = new int[9];
         for (int f = 0; f < 9; f++)
-        {
+        { //이 괄호 여기있는거 신경쓰인다...
             num[f] = scan.nextInt();
         }
         //// avr, ck 가 어떤 변수명을 의미하는지 모르겠습니다.  :2
@@ -31,4 +31,4 @@ public class Main {
             }
         }
     }
-}//// 성수 화이팅,,,!
+}//// 성수 화이팅,,,!:2 파이팅!!:3 파이팅!!!
