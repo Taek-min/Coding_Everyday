@@ -6,7 +6,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		int nums[] = new int[9];
 		int sum = 0;
-		for(int i = 0; i < nums.length; i++) {
+		for(int i = 0; i < nums.length; i++) {//.length하나 배워갑니다~
 			nums[i] = in.nextInt();
 			sum += nums[i];
 		}
