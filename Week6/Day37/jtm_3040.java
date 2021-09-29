@@ -27,7 +27,7 @@ public class Main {
 			}
 		}
 	}
-	
+	//// 탭 정리하세요.
 	//// 하나가 아닌 여럿이면 오해가 없게 복수형으로!
 	static void printRealDwarf(int[] hatNum) {
 		for(int i = 0; i < hatNum.length; i++) {
