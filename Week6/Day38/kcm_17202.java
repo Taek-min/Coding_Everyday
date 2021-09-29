@@ -1,9 +1,7 @@
-package Day38;
-
 import java.util.Scanner;
 import java.util.Arrays; 
 
-public class kcm_17202 {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
@@ -29,7 +27,6 @@ public class kcm_17202 {
 			}
 		}
 		System.out.print(compatibility[0]);
-		System.out.print(compatibility[1]);
-		
+		System.out.print(compatibility[1]);	
 	}
 }
