@@ -9,5 +9,6 @@ for i in range(0, len(capNum)):
 			del capNum[i]
 			del capNum[j-1]
 			print(*capNum, sep='\n')
-			break//직장내 고인물??
+			break 
 ## 잘해 아주 :2 이분도 고였네 :3
+##직장내 고인물??
