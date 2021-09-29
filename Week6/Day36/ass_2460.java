@@ -15,6 +15,6 @@ public class Main//// 성수 역시 잘푸네
               max=min;
           }
       }
-      System.out.println(max);
+      System.out.println(max); //피드백받은걸 모르고 지워버렸습니다 죄송합니다 처음해봐서 한번 봐주세용
    }
 }
