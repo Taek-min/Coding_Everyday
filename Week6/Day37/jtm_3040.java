@@ -14,6 +14,8 @@ public class Main {
 		sc.close();
 	}
 	
+	//// 코드를 처음 보는 사람이 findLieDwarf를 읽으면 'LieDwarf를 찾아서 반환하는 함수겠구나' 할겁니다
+	//// 근데 함수가 하는 일은 그게 아니쥬? 이름 다시 지어주십쇼
 	static void findLieDwarf(int[] hatNum, int sumHat) {
 		for(int j = 0; j < hatNum.length; j++) {
 			for(int k = hatNum.length-1; j < k; k--) {
@@ -26,6 +28,7 @@ public class Main {
 		}
 	}
 	
+	//// 하나가 아닌 여럿이면 오해가 없게 복수형으로!
 	static void printRealDwarf(int[] hatNum) {
 		for(int i = 0; i < hatNum.length; i++) {
 			if(hatNum[i] != 0) {
