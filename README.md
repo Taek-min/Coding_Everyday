@@ -91,7 +91,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sungsuahn">
-        <img src="https://avatars.githubusercontent.com/u/60912520?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/91382828?v=4" width="100px;" alt=""/>
         <br/>
         안성수
       </a>
