@@ -4,7 +4,7 @@ for i in range(0, 9):
 
 for i in range(0, len(capNum)):
 	for j in range(i+1, len(capNum)):
-		## sum 연산을 매 반복마다 시키는것보단 미리 연산해서 변수에 저장해놓고 가져다쓰면 더 효율적일 것 같습니다
+		## sum 연산이 최악의 경우 81번까지 실행됩니다. 한번만 미리 연산해두고 가져다쓰면 효율적일 것 같습니다
 		if(sum(capNum) - capNum[i] - capNum[j] == 100):
 			del capNum[i]
 			del capNum[j-1]
