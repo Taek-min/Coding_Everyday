@@ -1,6 +1,6 @@
 import java.util.Scanner; //// import 후 줄바꿈 하나는 국룰: 2
 
-public class Main//// 성수 역시 잘푸네 ^^ 
+public class Main//// 성수 역시 잘푸네 
 {
    public static void main(String[] args) {
       Scanner scan = new Scanner(System.in);
