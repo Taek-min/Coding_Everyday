@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		//// 전체 합(total)보다는 가짜 드워프의 합으로 쓰이는 변수같은데 total로 이름 지어진 점이 조금 어색합니다
+		//// 전체 합(total)보다는 가짜 드워프의 합으로 쓰이는 변수같은데 total로 이름 지어진 점이 조금 어색합니다 : sum으로 바꿔주세요
 		int total = -100;
 		int dwarf[] = new int[9];
 		int fake1 = 0;
