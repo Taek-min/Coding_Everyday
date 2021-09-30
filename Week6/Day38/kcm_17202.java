@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays; 
 
 public class Main {////스마트 창민 
-
+//// 여기 줄바꿈 없애는게 국룰
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int[] phoneNum1 = Arrays.stream(in.next().split("")).mapToInt(Integer::parseInt).toArray();
@@ -25,7 +25,7 @@ public class Main {////스마트 창민
 				compatibility[j] = (compatibility[j] + compatibility[j+1]) % 10;
 				System.out.println("k : " + k + " j : " + j + " num[j] : " + compatibility[j]);
 			}
-		}
+		} //// 줄바꿈이 하나도 없어서 답답해유 이런 코드 맥락 바뀌는 곳에서 한번씩 해주면 읽기 편할거같아요
 		System.out.print(compatibility[0]);
 		System.out.print(compatibility[1]);	
 	}
