@@ -20,7 +20,7 @@ public class Main { 	////도움받고 가요 ~ 개인적으로 제일 깔끔
 		while(compatibility.length()!=2) { //// while이랑 ( 사이에 띄어쓰기 하나 넣는게 국룰, != 양옆에 띄어쓰기 넣는게 국룰
 			String combine=""; //// 변수명은 동사로 ㄴㄴ combined 등 추천
 			for(int i = 0;i < compatibility.length() - 1; i++) { //// for이랑 ( 사이에 띄어쓰기 하나 넣는게 국룰, 세미콜론 뒤에 띄어쓰기 하나 넣는게 국룰
-				combine += (compatibility.charAt(i) + compatibility.charAt(i+1)-'0'*2)%10; //// +-*% 등의 연산자 양옆에 띄어쓰기 넣는게 국룰
+				combine += (compatibility.charAt(i) + compatibility.charAt(i+1)-'0'*2)%10;
 			}
 			compatibility = combine;
 		}
