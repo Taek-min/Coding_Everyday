@@ -8,8 +8,8 @@ public class Main {
         String strPhNum1 = scan.nextLine();
         String strPhNum2 = scan.nextLine();
         
-        int[] num1 = Stream.of(strphNum1.split("")).mapToInt(Integer:: parseInt).toArray(); 
-        int[] num2 = Stream.of(strphNum2.split("")).mapToInt(Integer:: parseInt).toArray();
+        int[] num1 = Stream.of(strPhNum1.split("")).mapToInt(Integer:: parseInt).toArray(); 
+        int[] num2 = Stream.of(strPhNum2.split("")).mapToInt(Integer:: parseInt).toArray();
         
         int[] mixedNumbers = new int[15];         
         int cnt = 0;
