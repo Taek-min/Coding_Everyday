@@ -21,3 +21,4 @@ public class Main {
 		System.out.printf("%d %d", lineNum, columnNum);
 	}
 }
+//// 다들 비슷하게 풀었네

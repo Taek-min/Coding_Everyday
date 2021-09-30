@@ -19,3 +19,4 @@ public class Main {
         System.out.printf("%d %d",line+1, row+1);
     }
 }
+////굳 
