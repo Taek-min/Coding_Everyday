@@ -19,4 +19,4 @@ while(len(firstArr) > 2):
 	
 print("%d%d"%(firstArr[0], firstArr[1])) 
 
-## 언제 풀고 놀았어 ~ 잘해 아주 :2
+## 언제 풀고 놀았어 ~ 잘해 아주 :2 :3
