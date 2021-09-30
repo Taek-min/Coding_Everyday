@@ -21,7 +21,7 @@ public class Main {
         }
         for (int i = 14; i >= 2; i--) {
             for (int f = 0; f < i; f++)  {
-                if (f == i) //// 이 if문 제거해도 맞았습니다 나옵니다. for문의 조건상 f == i가 될 일이 없어요
+                if (f == i) //// 이 if문 없애도 맞았습니다 나옵니다. for문의 조건상 f == i가 될 일이 없어요
                     break;
                 avr[f] = (avr[f] + avr[f + 1]) % 10;
             }
