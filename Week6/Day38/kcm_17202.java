@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays; 
 
-public class Main {////스마트 창민 
+public class Main {////스마트 창민 :22
 //// 여기 줄바꿈 없애는게 국룰 :2 : 3
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

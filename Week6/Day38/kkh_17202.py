@@ -1,4 +1,4 @@
-phoneA = [int(a) for a in str(input())] ## 파이썬 활용 개잘하시는데? 리스트 내포 ㄷㄷ
+phoneA = [int(a) for a in str(input())] ## 파이썬 활용 개잘하시는데? 리스트 내포 ㄷㄷ :22
 phoneB = [int(a) for a in str(input())]
 fullNum = []
 possibility = []
@@ -17,4 +17,4 @@ while (len(fullNum) > 2) :
 	possibility = []
    
 print(*fullNum, sep='')
-## 잘해 아주~ :2 :3 :4 : s5
+## 잘해 아주~ :2 :3 :4 : s5 :55

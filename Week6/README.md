@@ -23,7 +23,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_3040.py) [성수](Day37/ass_3040.java) | [창민](Day37/kcm_fb_3040.java) 현민 [택민](Day37/jtm_fb_3040.java) 예은 가희 [성수](Day37/ass_fb_3040.java)             |
+| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_3040.py) [성수](Day37/ass_3040.java) | [창민](Day37/kcm_fb_3040.java) 현민 [택민](Day37/jtm_fb_3040.java) [예은](Day37/lye_3040.py) 가희 [성수](Day37/ass_fb_3040.java)             |
 
 ## [38일차](Day38)
 
@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) 예은 [가희](Day39/kkh_2566.py) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [40일차](Day40)
 

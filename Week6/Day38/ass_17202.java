@@ -29,4 +29,4 @@ public class Main {
         System.out.print(avr[0]);
         System.out.print(avr[1]);
     }
-}
+}//// 성수화이팅,,,!

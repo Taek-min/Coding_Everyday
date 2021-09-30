@@ -16,6 +16,7 @@ public class Main { 	////도움받고 가요 ~ 개인적으로 제일 깔끔
 	}
 	
 	//// 잘은 모르는데 of 없는게 문법상 맞지않나?
+	//// 오 이거 신박하네
 	static void printOfCompatibility(String compatibility) { //함수 사용하는 모습 좋습니다. :2
 		while(compatibility.length()!=2) { //// while이랑 ( 사이에 띄어쓰기 하나 넣는게 국룰, != 양옆에 띄어쓰기 넣는게 국룰
 			String combine=""; //// 변수명은 동사로 ㄴㄴ combined 등 추천
