@@ -2,7 +2,7 @@ import java.util.Scanner; //// import 다음 줄바꿈 하나는 국룰
 public class Main { ////긋긋
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String firstPhoneNum = sc.nextLine(); // 스트링으로 안받고 인트형으로 받으면 더 편할거 같아요
+		String firstPhoneNum = sc.nextLine(); // 스트링으로 안받고 인트형으로 받으면 더 편할거 같아요 //// 인트가 훨씬 어렵습니다.
 		String secondPhoneNum = sc.nextLine();
 		String mixNum = ""; //// mix가 동사처럼 읽혀요. mixed 추천
 		int result = 0;

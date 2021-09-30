@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays; 
 
 public class Main {////스마트 창민 
-//// 여기 줄바꿈 없애는게 국룰 :2
+//// 여기 줄바꿈 없애는게 국룰 :2 : 3
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int[] phoneNum1 = Arrays.stream(in.next().split("")).mapToInt(Integer::parseInt).toArray(); //이렇게 배열로 넣을수 있군요! 하나 배워갑니다.
