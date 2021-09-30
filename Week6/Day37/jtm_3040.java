@@ -11,7 +11,7 @@ public class Main {
 		}
 		findLieDwarf(hatNum, sumHat);
 		printRealDwarf(hatNum);//함수 사용하는 모습 좋습니다^^
-		sc.close();//잘배워갑니다^^
+		sc.close();//잘배워갑니다^^ // 이게 뭐람
 	}
 	
 	//// 코드를 처음 보는 사람이 findLieDwarf를 읽으면 'LieDwarf를 찾아서 반환하는 함수겠구나' 할겁니다
@@ -36,4 +36,6 @@ public class Main {
 			}
 		}
 	}
-}
+}//// 함수활용 너무좋구,,,화이팅! 
+/////아름다어요
+

@@ -10,5 +10,5 @@ for i in range(0, len(capNum)):
 			del capNum[j-1]
 			print(*capNum, sep='\n')
 			break 
-## 잘해 아주 :2 이분도 고였네 :3
+## 잘해 아주 :2 이분도 고였네 :3 :4
 ##직장내 고인물??
