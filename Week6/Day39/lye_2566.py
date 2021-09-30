@@ -13,4 +13,6 @@ for i in range(0, lineCnt):
 		
 print(maxNum)
 print(maxNumRow, maxNumColumn)
+
+## 잘하시네용
 	

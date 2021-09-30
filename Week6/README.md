@@ -29,7 +29,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) | [창민](Day38/kcm_17202.java) *[현민](Day38/shm_17202.java)* [택민](Day38/jtm_17202.java) [예은](Day38/lye_17202.py) [가희](Day38/kkh_17202.py) [성수](Day38/ass_17202.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) | [창민](Day38/kcm_17202.java) *[현민](Day38/shm_17202.java)* [택민](Day38/jtm_17202.java) [예은](Day38/lye_17202.py) [가희](Day38/kkh_17202.py) [성수](Day38/ass_17202.java) | [창민](Day38/kcm_fb_17202.java) 현민 택민 예은 가희 성수             |
 
 ## [39일차](Day39)
 
@@ -41,7 +41,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | [창민](Day40/kcm_20546.java) 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [41일차](Day41)
 

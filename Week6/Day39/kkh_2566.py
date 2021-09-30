@@ -11,3 +11,4 @@ for i in range(0, 9):
 
 print(maxNum)
 print(maxLine, maxRow)
+##깔끔
