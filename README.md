@@ -51,6 +51,7 @@
 [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |
 [<sub>![Bronze1]</sub> 핸드폰 번호 궁합](https://www.acmicpc.net/problem/17202) |
 [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) |
+[<sub>![Bronze1]</sub> 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) |
 
 
 ## 👨‍💻 스터디원
