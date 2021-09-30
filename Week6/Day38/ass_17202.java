@@ -9,7 +9,7 @@ public class Main {
         int[] num1 = Stream.of(stnum1.split("")).mapToInt(Integer:: parseInt).toArray(); //// 이열 Stream 활용~
         int[] num2 = Stream.of(stnum2.split("")).mapToInt(Integer:: parseInt).toArray();
         int[] avr = new int[15]; //// 변수명은 코드를 처음 보는 사람도 코드 의도를 이해할 수 있도록 의미를 담아서 지어야 합니다! 이거 같은 경우엔 섞은 번호를 담을 변수니까 mixedNumbers 정도면 좋겠네요
-        int cnt = 0;
+        int cnt = 0;             ///// ㄴ :2
         for (int f = 0; f < 8; f++) //// x, y같이 의미있는게 아니면 그냥 i j k로 짓는게 국룰
         {
             avr[cnt] = (num1[f] + num2[f]) % 10;
