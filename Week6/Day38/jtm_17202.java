@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Main { 	////도움받고 가요 ~ 개인적으로 제일 깔끔 
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		String firstPhone = sc.nextLine();

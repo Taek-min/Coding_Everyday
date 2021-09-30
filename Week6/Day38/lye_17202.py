@@ -18,3 +18,5 @@ while(len(firstArr) > 2):
 	firstArr.pop()
 	
 print("%d%d"%(firstArr[0], firstArr[1]))
+
+## 언제 풀고 놀았어 ~ 잘해 아주 

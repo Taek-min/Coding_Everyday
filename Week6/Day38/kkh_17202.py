@@ -17,3 +17,4 @@ while (len(fullNum) > 2) :
 	possibility = []
    
 print(*fullNum, sep='')
+## 잘해 아주~

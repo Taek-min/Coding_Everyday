@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays; 
 
-public class Main {
+public class Main {////스마트 창민 
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

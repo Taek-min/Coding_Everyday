@@ -4,7 +4,7 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        String stnum1 = scan.nextLine();
+        String stnum1 = scan.nextLine();//// 변수명은 카멜 표기법으로 사용하시라고 선생님께서 알려주셨어요 그리고 st가 뭘 의미하는지 모르겠네요~ 카멜 표기법 ex: stNum1
         String stnum2 = scan.nextLine();
         int[] num1 = Stream.of(stnum1.split("")).mapToInt(Integer:: parseInt).toArray();
         int[] num2 = Stream.of(stnum2.split("")).mapToInt(Integer:: parseInt).toArray();
