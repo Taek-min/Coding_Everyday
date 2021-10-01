@@ -19,4 +19,4 @@ public class Main {
         System.out.printf("%d %d",line+1, row+1); //// 쉼표 다음에 띄어쓰기 하나 해주는게 국룰
     }
 }
-////굳 :2 :3 :4
+////굳 :2 :3 :4:5

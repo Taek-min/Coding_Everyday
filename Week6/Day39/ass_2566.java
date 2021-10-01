@@ -1,6 +1,6 @@
 import java.util.*;
 
-//// 로직 깔끔
+//// 로직 깔끔:@2
 public class Main//// 피드백 반영하는 모습이 보기 좋네요 ^^
 {
    public static void main(String[] args) {
