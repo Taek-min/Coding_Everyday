@@ -1,4 +1,5 @@
-import java.util.Scanner; //줄바꿈 국룰이래 멍청이>_<
+import java.util.Scanner; //줄바꿈 국룰이래 멍청이>_< : 멍청이??
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

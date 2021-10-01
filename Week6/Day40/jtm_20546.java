@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//// Good
 public class Main { ////패키지 없애드렷습니다.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

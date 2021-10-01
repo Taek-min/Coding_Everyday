@@ -32,3 +32,4 @@ elif junhyun + machineDuck[len(machineDuck)-1] * holdingJunhyun < sungmin + mach
 else:
 	print("SAMESAME")
 # 굳
+## 그렇~~~게 화내하다가 잘 풀었네 또

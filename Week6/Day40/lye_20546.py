@@ -40,3 +40,5 @@ elif JHmoney < SMmoney:
 	print("TIMING")
 else:
 	print("SAMESAME")
+
+## 아 잘해 ~ 
