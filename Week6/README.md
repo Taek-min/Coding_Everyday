@@ -16,14 +16,14 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) | [창민](Day36/kcm_2460.java) [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java) [예은](Day36/lye_2460.py) [가희](Day36/kkh_2460.py) [성수](Day36/ass_2460.java) | 창민 [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java)  [예은](Day36/lye_2460.py) [가희](Day36/kkh_fb_2460.py) [성수](Day36/ass_2460_fb.java)             |
+| [<sub>![Bronze3]</sub> 지능형 기차 2](https://www.acmicpc.net/problem/2460) | [창민](Day36/kcm_2460.java) [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java) [예은](Day36/lye_2460.py) [가희](Day36/kkh_2460.py) [성수](Day36/ass_2460.java) | [창민](Day36/kcm_fb_2460.java) [현민](Day36/shm_2460.java) [택민](Day36/jtm_2460.java)  [예은](Day36/lye_2460.py) [가희](Day36/kkh_2460.py) [성수](Day36/ass_2460_fb.java)             |
 
 
 ## [37일차](Day37)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_3040.py) [성수](Day37/ass_3040.java) | [창민](Day37/kcm_fb_3040.java) 현민 [택민](Day37/jtm_fb_3040.java) [예은](Day37/lye_3040.py) 가희 [성수](Day37/ass_fb_3040.java)             |
+| [<sub>![Bronze2]</sub> 백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | [창민](Day37/kcm_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_3040.py) [성수](Day37/ass_3040.java) | [창민](Day37/kcm_fb_3040.java) [현민](Day37/shm_3040.java) [택민](Day37/jtm_fb_3040.java) [예은](Day37/lye_3040.py) [가희](Day37/kkh_fb_3040.py) [성수](Day37/ass_fb_3040.java)             |
 
 ## [38일차](Day38)
 
