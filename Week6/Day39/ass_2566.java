@@ -27,5 +27,5 @@ public class Main//// 피드백 반영하는 모습이 보기 좋네요 ^^
       System.out.println(max);
 	  System.out.printf("%d %d",row,column);
       // 얘도 지워
-      } /// 얘 왜 튀어나와 있어 :2
+      } /// 얘 왜 튀어나와 있어 :2 : 3
 }

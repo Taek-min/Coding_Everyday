@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //// 깔끔 : 2 
-public class Main { //// 이 아래 줄바꿈 안하는게 국룰 :2
+public class Main { //// 이 아래 줄바꿈 안하는게 국룰 :2 : 3
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
