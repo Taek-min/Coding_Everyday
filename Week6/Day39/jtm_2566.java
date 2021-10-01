@@ -11,7 +11,7 @@ public class Main {
         		if(max < num[i][j]){
         			max = num[i][j];
         			line = i;
-        			row = j;
+        			row = j; //// 행이 아니라 열입니다
         		}
         	}
         }
