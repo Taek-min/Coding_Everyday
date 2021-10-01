@@ -1,10 +1,11 @@
 import java.util.*;
 
+//// 로직 깔끔
 public class Main
 {
    public static void main(String[] args) {
       Scanner scan = new Scanner(System.in);
-      int[][] Num = new int [9][9];
+      int[][] Num = new int [9][9]; //// 변수명 첫글자는 소문자로
       
       int max=0;
 	  int row=0;
@@ -26,5 +27,5 @@ public class Main
       System.out.println(max);
 	  System.out.printf("%d %d",row,column);
       
-      }
+      } /// 얘 왜 튀어나와 있어
 }

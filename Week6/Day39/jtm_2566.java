@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; //// 이 아래 줄바꿈 해주는게 국룰
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -16,7 +16,7 @@ public class Main {
         	}
         }
         System.out.println(max);
-        System.out.printf("%d %d",line+1, row+1);
+        System.out.printf("%d %d",line+1, row+1); //// 쉼표 다음에 띄어쓰기 하나 해주는게 국룰
     }
 }
-////굳 
+////굳 :2
