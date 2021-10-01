@@ -20,12 +20,12 @@ public class Main
 	        row=j+1;
 	        column=i+1;
           }
-
+//지워버려 이 줄 
 	    }    
 	  }
 	  
       System.out.println(max);
 	  System.out.printf("%d %d",row,column);
-      
-      } /// 얘 왜 튀어나와 있어
+      // 얘도 지워
+      } /// 얘 왜 튀어나와 있어 :2
 }

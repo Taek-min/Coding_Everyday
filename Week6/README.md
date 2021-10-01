@@ -41,7 +41,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | [창민](Day40/kcm_20546.java) 현민 택민 예은 가희 [성수](Day40/ass_20546.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) | [창민](Day40/kcm_20546.java) 현민 택민 예은 [가희](Day39/kkh_20546.py) [성수](Day40/ass_20546.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [41일차](Day41)
 

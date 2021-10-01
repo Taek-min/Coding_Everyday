@@ -1,38 +1,38 @@
 junhyun = int(input())
 sungmin = junhyun
-bnpJunhyun = 0
-bnpSungmin = 0
+holdingJunhyun = 0
+holdingSungmin = 0
 upCnt = 0
 downCnt = 0
 machineDuck = list(map(int, input().split(" ")))
 
 for i in range(1, len(machineDuck)):
-	if junhyun >= machineDuck[i-1]: ## 준현
-		bnpJunhyun += junhyun // machineDuck[i-1]
+	if junhyun >= machineDuck[i-1]: 
+		holdingJunhyun += junhyun // machineDuck[i-1]
 		junhyun -= machineDuck[i-1] * (junhyun // machineDuck[i-1])
 		
-	if machineDuck[i-1] < machineDuck[i]: #매도
+	if machineDuck[i-1] < machineDuck[i]: 
 		upCnt = upCnt + 1
 		downCnt = 0
-	elif machineDuck[i-1] > machineDuck[i]: #매수
+	elif machineDuck[i-1] > machineDuck[i]: 
 		downCnt = downCnt + 1
 		upCnt = 0
 	else:
 		upCnt = 0
 		downCnt = 0
 	
-	if upCnt == 3: #매도
-		sungmin += bnpSungmin * machineDuck[i]
-		bnpSungmin = 0
+	if upCnt == 3: 
+		sungmin += holdingSungmin * machineDuck[i]
+		holdingSungmin = 0
 		upCnt = 0
-	elif downCnt >= 3: #매수
-		if sungmin >= machineDuck[i]: #성민
-			bnpSungmin += sungmin // machineDuck[i]
+	elif downCnt >= 3: 
+		if sungmin >= machineDuck[i]: 
+			holdingSungmin += sungmin // machineDuck[i]
 			sungmin -= machineDuck[i] * (sungmin // machineDuck[i])
 
-if(junhyun + machineDuck[len(machineDuck)-1] * bnpJunhyun > sungmin + machineDuck[len(machineDuck)-1] * bnpSungmin)	:
+if(junhyun + machineDuck[len(machineDuck)-1] * holdingJunhyun > sungmin + machineDuck[len(machineDuck)-1] * holdingSungmin)	:
 	print("BNP")
-elif(junhyun + machineDuck[len(machineDuck)-1] * bnpJunhyun < sungmin + machineDuck[len(machineDuck)-1] * bnpSungmin) :
+elif(junhyun + machineDuck[len(machineDuck)-1] * holdingJunhyun < sungmin + machineDuck[len(machineDuck)-1] * holdingSungmin) :
 	print("TIMING")
 else:
 	print("SAMESAME")
