@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main
-{
+{ //// 줄바꿈좀 없애주세요
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int BMouey = scan.nextInt();//준현이 돈

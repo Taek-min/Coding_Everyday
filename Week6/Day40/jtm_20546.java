@@ -1,8 +1,6 @@
-package algorithm;
-
 import java.util.Scanner;
 
-public class Main1 {
+public class Main { ////패키지 없애드렷습니다.
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int money = sc.nextInt();
