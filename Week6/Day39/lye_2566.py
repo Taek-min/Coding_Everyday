@@ -14,4 +14,4 @@ for i in range(0, lineCnt):
 print(maxNum)
 print(maxNumRow, maxNumColumn)
 
-## 잘하시네용 :2 :3
+## 잘하시네용 :2 :3 :4
