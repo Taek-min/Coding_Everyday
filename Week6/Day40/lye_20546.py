@@ -42,3 +42,4 @@ else:
 	print("SAMESAME")
 
 ## 아 잘해 ~ 
+## 멋졍~~

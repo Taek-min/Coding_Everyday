@@ -11,7 +11,7 @@ public class Main { ////패키지 없애드렷습니다.
         for (int i = 0; i < stock.length; i++) {
             stock[i] = sc.nextInt();
         }
-
+		// 줄 지우기
 
         int junStockCount = 0;
         for (int i = 0; i < stock.length ; i++) {
@@ -23,7 +23,7 @@ public class Main { ////패키지 없애드렷습니다.
 
         int bStockCount = 0;
         for (int i = 3; i < stock.length ; i++) {
-
+            // 줄 지우기(아마?)
             if(stock[i-3] > stock[i-2] && stock[i-2] > stock[i-1] && stock[i-1] > stock[i]){
                 if(sungMoney >= stock[i]){
                     bStockCount += sungMoney / stock[i];
@@ -50,3 +50,4 @@ public class Main { ////패키지 없애드렷습니다.
         }
     }
 }
+// 고생했네웅~~

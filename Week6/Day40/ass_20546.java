@@ -11,7 +11,7 @@ public class Main
 		
 		int BNPBuy = 0;//준현이 보유 주
 		int TIMINGBuy= 0;//성민이 보유 주
-
+		// 줄 지우기
 		
 		for(int i = 0 ; i < 14 ; i++){
 		    DayStockPrice[i] = scan.nextInt();//주가 설정
@@ -37,14 +37,14 @@ public class Main
 		                }
 		            }
 		        }
-		        
+				// 줄 지우기
 		    }
 		    
 		    if(i==13){//정산
 		       TMouey=TMouey+(TIMINGBuy*DayStockPrice[i]);
 		       BMouey=BMouey+(BNPBuy*DayStockPrice[i]);   
 		    }
-		    
+			// 줄 지우기
 		}
 
 		if(TMouey>BMouey){//결과값출력
@@ -59,4 +59,5 @@ public class Main
 		    System.out.println("SAMESAME");
 		}
 	}
-}
+} 
+// 멋져요 고생했아융

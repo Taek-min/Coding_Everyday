@@ -2,7 +2,7 @@ import java.util.Scanner;
 //// ㅋㅋ good
 public class Main {
 	public static void main(String[] args) {
-		
+		// 줄 지우기(아마?)
 		Scanner in = new Scanner(System.in);
 		int junhyunCoin = 0;
 		int sungminCoin = 0;
@@ -16,7 +16,7 @@ public class Main {
 		for(int i = 0; i < todayStock.length; i++) {
 			todayStock[i] = in.nextInt();
 			beforeValue = todayStock[0];
-		}
+		}//얘는.. 띄어도... 괜찮지.. 않을까..?
 		for(int j = 0; j < todayStock.length-1; j++) {
 			if(junhyunMoney / todayStock[j] > 0) {
 				junhyunCoin += junhyunMoney / todayStock[j];
@@ -62,3 +62,4 @@ public class Main {
 		}
 	}
 }
+// 잘해융~~~

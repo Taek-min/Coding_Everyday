@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) [성수](Day39/ass_2566.java) | [창민](Day39/kcm_fb_2566.java) [현민](Day39/shm_2566.java) 택민 예은 가희 [성수](Day39/ass_fb_2566.java)             |
+| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) [성수](Day39/ass_2566.java) | [창민](Day39/kcm_fb_2566.java) [현민](Day39/shm_2566.java) 택민 예은 [가희](Day39/kkh_2566.py) [성수](Day39/ass_fb_2566.java)             |
 
 ## [40일차](Day40)
 
@@ -53,4 +53,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Unrated]</sub> 별 찍기 - 8](https://www.acmicpc.net/problem/2445) | 창민 현민 택민 예은 [가희](Day42/kkh_2445.py) 성수 | 창민 현민 택민 예은 가희 성수             |

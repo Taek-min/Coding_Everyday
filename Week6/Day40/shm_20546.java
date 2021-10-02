@@ -28,7 +28,7 @@ public class Main {
 			
 			if(stockIndex[i] <= junHyun) {
 				hyunBuying += junHyun / stockIndex[i];
-				junHyun %= stockIndex[i]; ////이건 배워갑니다~
+				junHyun %= stockIndex[i]; ////이건 배워갑니다~ 
 			}
 			
 			if(downCnt <= -3 && stockIndex[i] <= seongMin) {
@@ -66,3 +66,4 @@ public class Main {
 		}
 	}
 }
+// 멋져요~
