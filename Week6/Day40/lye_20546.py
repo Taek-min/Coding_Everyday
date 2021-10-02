@@ -41,5 +41,5 @@ elif JHmoney < SMmoney:
 else:
 	print("SAMESAME")
 
-## 아 잘해 ~ 
+## 아 잘해 ~ :2
 ## 멋졍~~
