@@ -5,7 +5,7 @@ public class Main{
 		Scanner scan = new Scanner(System.in);
 		int bMouey = scan.nextInt();
 		
-        int tMouey = bMouey;
+        	int tMouey = bMouey;
 		int[] dayStockPrice = new int [14];
 		
 		int bnpBuy = 0;
