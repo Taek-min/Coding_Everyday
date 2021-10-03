@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //// 승빈 코드: https://github.com/Eighteeen/BOJ_Algorithm_Study/blob/main/Study4%20-%20Bitmask/Week22/Day151/boj20546_wsb.java
 //// 진홍 코드: https://github.com/Eighteeen/BOJ_Algorithm_Study/blob/main/Study4%20-%20Bitmask/Week22/Day151/boj20546_kjh.java
-//// 복잡한 구현 문제인만큼 main의 길이가 꽤 길게 나왔는데, 다음에는 위처럼 함수나 클래스로 뽑아내보려고 궁리해보면 좋을 것 같습니다
+//// 복잡한 구현 문제인만큼 main의 길이가 꽤 길게 나왔는데, 다음에는 위처럼 함수나 클래스로 뽑아내보려고 궁리해보면 좋을 것 같습니다 : 배워갑니당~~
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

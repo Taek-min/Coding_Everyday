@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
     	int guest = sc.nextInt();
-    	int[] seat = new int[100];
+    	int[] seat = new int[100]; ////무조건 100이하로 잡은게 아쉽네요 
     	int result = 0;
     	int duplicate = 0;
     	

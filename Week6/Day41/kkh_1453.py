@@ -8,3 +8,5 @@ for i in range(0, len(choiceList)-1):
 		reject += 1
 		
 print(reject)
+
+##깔꼼해~ 

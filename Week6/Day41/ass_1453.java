@@ -5,7 +5,7 @@ public class Main
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int allGuest = scan.nextInt();
-		int []space = new int [100];
+		int []space = new int [100]; ////무조건 100이하로 잡은게 아쉽네요 
 		int []spaceChick = new int[100];
 		int refuse = 0;
 		
