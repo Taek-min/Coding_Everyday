@@ -8,7 +8,7 @@ import java.util.Scanner;
 //// 주석은 이름 짓기만으로 정말 표현하기 힘든 부분일 때 (뭐 수학적 지식을 요구한다던가 할때) 그럴때만 사용하는게 좋습니다
 
 public class Main
-{ //// 줄바꿈좀 없애주세요 : 여기 제외한 전체적인 줄바꿈은 괜찮네여 
+{ //// 줄바꿈좀 없애주세요 : 여기 제외한 전체적인 줄바꿈은 괜찮네여  : 22
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int BMouey = scan.nextInt();//준현이 돈
