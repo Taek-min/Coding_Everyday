@@ -31,5 +31,5 @@ elif junhyun + machineDuck[len(machineDuck)-1] * holdingJunhyun < sungmin + mach
 	print("TIMING")
 else:
 	print("SAMESAME")
-## 굳
+## 굳:머시써
 ## 그렇~~~게 화내하다가 잘 풀었네 또

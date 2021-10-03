@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) [성수](Day39/ass_2566.java) | [창민](Day39/kcm_fb_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_fb_2566.java) 예은 [가희](Day39/kkh_2566.py) [성수](Day39/ass_fb_2566.java)             |
+| [<sub>![Bronze3]</sub> 최댓값](https://www.acmicpc.net/problem/2566) | [창민](Day39/kcm_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) [성수](Day39/ass_2566.java) | [창민](Day39/kcm_fb_2566.java) [현민](Day39/shm_2566.java) [택민](Day39/jtm_fb_2566.java) [예은](Day39/lye_2566.py) [가희](Day39/kkh_2566.py) [성수](Day39/ass_fb_2566.java)             |
 
 ## [40일차](Day40)
 
@@ -47,7 +47,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) 예은 [가희](Day41/kkh_1453.py) [성수](Day41/ass_1453.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) [예은](Day41/lye_1453.py) [가희](Day41/kkh_1453.py) [성수](Day41/ass_1453.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [42일차](Day42)
 
