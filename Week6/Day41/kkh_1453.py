@@ -9,4 +9,4 @@ for i in range(0, len(choiceList)-1):
 		
 print(reject)
 
-##깔꼼해~ : 옭 이건 또 신박하네~
+##깔꼼해~ : 옭 이건 또 신박하네~ :2
