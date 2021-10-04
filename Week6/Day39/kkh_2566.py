@@ -12,4 +12,4 @@ for i in range(0, 9):
 print(maxNum)
 print(maxLine, maxRow)
 
-##깔끔 :2 : 3:4
+##깔끔 :2 : 3 : 4 : 5

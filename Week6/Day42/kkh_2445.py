@@ -16,4 +16,4 @@ for i in range(0, num * 2 - 1):
 		else:
 			print(" ", end="")
 	print("")
-	## 진짜 신박하게 풀었어
+	## 진짜 신박하게 풀었어 : 22
