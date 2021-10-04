@@ -47,11 +47,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-<<<<<<< HEAD
-| [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) [예은](Day41/lye_1453.py) [가희](Day41/kkh_1453.py) [성수](Day41/ass_1453.java) | [창민](Day41/kcm_1453.java) 현민 택민 예은 [가희](Day41/kkh_1453.py) 성수             |
-=======
-| [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) [예은](Day41/lye_1453.py) [가희](Day41/kkh_1453.py) [성수](Day41/ass_1453.java) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) 예은 가희 성수             |
->>>>>>> bd41231de48a813a90af32676a64707c9e06e29c
+| [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) [예은](Day41/lye_1453.py) [가희](Day41/kkh_1453.py) [성수](Day41/ass_1453.java) | [창민](Day41/kcm_1453.java) [현민](Day41/shm_1453.java) [택민](Day41/jtm_1453.java) 예은 [가희](Day41/kkh_1453.py) 성수             |
 
 ## [42일차](Day42)
 
