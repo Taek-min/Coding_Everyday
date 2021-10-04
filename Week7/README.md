@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) | [창민](Day43/kcm_3047.java) 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) | [창민](Day43/kcm_3047.java) 현민 [택민](Day43/kcm_3047.java) 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [44일차](Day44)
 s
