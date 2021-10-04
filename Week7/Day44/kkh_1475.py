@@ -5,8 +5,6 @@ for i in range(0, len(roomNumber)):
    if(roomNumber[i] == 9):
       roomNumber[i] = 6
       
-roomNumber.sort()
-
 for i in range(0, 10):
 	if numSet < roomNumber.count(i):
 		if i == 6:
