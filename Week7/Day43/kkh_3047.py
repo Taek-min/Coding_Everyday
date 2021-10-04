@@ -1,5 +1,5 @@
 num = list(map(int, input().split()))
-char = [a for a in str(input())]
+char = [a for a in str(input())]	## 여기 배워갑니당 ^0^
 num.sort()
 
 for i in char:
