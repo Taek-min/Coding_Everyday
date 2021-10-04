@@ -55,6 +55,7 @@
 [<sub>![Bronze1]</sub> 피시방 알바](https://www.acmicpc.net/problem/1453) |
 [<sub>![Bronze1]</sub> 별 찍기 - 8](https://www.acmicpc.net/problem/2445) |
 [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) |
+[<sub>![Silver5]</sub> 방 번호](https://www.acmicpc.net/problem/1475) |
 
 
 
