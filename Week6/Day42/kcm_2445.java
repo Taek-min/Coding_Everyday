@@ -5,7 +5,7 @@ public class Main {
 		
 		Scanner in = new Scanner(System.in);
 		int line = in.nextInt();
-		String stars = ""; //// 담아서 출력하려 해본거 굿. 출력함수 실행마다 시간이 꽤 걸려서 담아서 출력해주면 시간이 줄어듬.
+		String stars = ""; //// 담아서 출력하려 해본거 굿. :22 출력함수 실행마다 시간이 꽤 걸려서 담아서 출력해주면 시간이 줄어듬.
 		for(int i = 0; i < line; i++) {
 			stars = "";
 			for(int j = 0; j <= i; j++) {
@@ -38,4 +38,4 @@ public class Main {
 		}
 	}
 }
-//// 창민이 잘해~ : 22
+//// 창민이 잘해~ : 22 : 33
