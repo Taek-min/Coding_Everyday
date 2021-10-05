@@ -14,6 +14,7 @@ public class kcm_3047 {//// 다 비슷하구나 good good
 		String abc = in.nextLine();
 		
 		for(int j = 0; j < 3; j++) {
+			//// if 없이 num[str.charAt(i) - 'A'] 출력해도 됨
 			if(abc.charAt(j) == 'A') {
 				System.out.print(nums[0]);
 			}

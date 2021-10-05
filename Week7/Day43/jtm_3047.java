@@ -10,6 +10,7 @@ public class Main {////저랑 유사하게 풀이하셨군요
     	String str = sc.next();
     	Arrays.sort(num);
         for (int j = 0; j < num.length; j++) {
+            //// if 없이 num[str.charAt(i) - 'A'] 출력해도 됨
             if ('A' == str.charAt(j)) {
                 System.out.print(num[0] + " ");
             } else if ('B' == str.charAt(j)) {

@@ -11,6 +11,7 @@ public class Main {
 		sc.nextLine();
 		String abcStr = sc.nextLine();
 		for(int i = 0; i < abcStr.length(); i++) {
+			//// switch 없이 num[str.charAt(i) - 'A'] 출력해도 됨
 			switch(abcStr.charAt(i)) {
 			case 'A':
 				System.out.printf("%d ", inputNum[0]);
