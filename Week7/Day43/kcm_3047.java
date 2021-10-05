@@ -28,3 +28,4 @@ public class kcm_3047 {//// 다 비슷하구나 good good
 		}	
 	}
 }
+// 멋져~
