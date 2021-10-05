@@ -13,3 +13,4 @@ for i in range(0, 10):
 			numSet = roomNumber.count(i)
 
 print(numSet)
+## 굳 배열 안쓰고 푼거 좋아요
