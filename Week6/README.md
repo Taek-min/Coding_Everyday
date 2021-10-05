@@ -53,4 +53,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 8](https://www.acmicpc.net/problem/2445) | [창민](Day42/kcm_2445.java) [현민](Day42/shm_2445.java) [택민](Day42/jtm_2445.java) [예은](Day42/lye_2445.py) [가희](Day42/kkh_2445.py) [성수](Day42/ass_2445.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 8](https://www.acmicpc.net/problem/2445) | [창민](Day42/kcm_2445.java) [현민](Day42/shm_2445.java) [택민](Day42/jtm_2445.java) [예은](Day42/lye_2445.py) [가희](Day42/kkh_2445.py) [성수](Day42/ass_2445.java) | 창민 현민 택민 예은 가희 [성수](Day42/ass_fb_2445.java)             |
