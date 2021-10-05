@@ -57,7 +57,7 @@
 [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) |
 [<sub>![Silver5]</sub> 방 번호](https://www.acmicpc.net/problem/1475) |
 [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) |
-
+[<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) |
 
 
 ## 👨‍💻 스터디원
