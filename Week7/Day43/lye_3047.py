@@ -9,4 +9,4 @@ ABCdic['C'] = numList[2]
 for c in input():
 	print(ABCdic[c], end=' ')
 
-## 깔끔 :2 :3 대다내..
+## 깔끔 :2 :3 대다내.. : 4
