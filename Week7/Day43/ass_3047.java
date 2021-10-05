@@ -10,7 +10,7 @@ public class Main{
 		}
 		Arrays.sort(num);
 		scan.nextLine();
-		String Alphabet = scan.nextLine();
+		String Alphabet = scan.nextLine(); ////변수 앞에는 소문자.
 		
 		for(int j = 0; j < 3; j++) {
 			if(Alphabet.charAt(j) == 'A') {
