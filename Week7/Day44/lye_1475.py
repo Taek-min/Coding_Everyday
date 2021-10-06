@@ -11,3 +11,4 @@ numCnt[9] = 0 ## 인덱스 삭제가 깔꼼했을듯
 maxIndex = numCnt.index(max(numCnt))
 
 print(numCnt[maxIndex])
+## 깔끔

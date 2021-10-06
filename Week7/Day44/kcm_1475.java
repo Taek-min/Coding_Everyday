@@ -24,4 +24,4 @@ public class Main {
 		System.out.println((int)max);
 	}
 }
-////꿋
+////꿋 : 2
