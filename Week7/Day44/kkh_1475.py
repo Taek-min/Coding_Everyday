@@ -14,3 +14,4 @@ for i in range(0, 10):
 
 print(numSet)
 ## 굳 배열 안쓰고 푼거 좋아요
+## 깔끔

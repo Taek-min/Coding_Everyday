@@ -16,6 +16,7 @@ public class Main {
 		nums[6] = Math.ceil(nums[6] / 2);
 		double max = nums[0];
 		for(int j = 0; j<nums.length; j++) {
+			//// 쉬프트탭해주새요
 				if(nums[j] > max) {
 					max = nums[j];
 				}
