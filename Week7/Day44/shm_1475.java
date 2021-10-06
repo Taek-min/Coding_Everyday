@@ -4,6 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String passWord = sc.nextLine();
+		///// 이 값 for문 돌려서 넣어주지
 		char pwNumRange[] = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 		double numCnt[] = new double[10];		
 		int setCnt = 0;

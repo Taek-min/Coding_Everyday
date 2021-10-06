@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+////정직한 구현이네요!
 public class Main{
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
