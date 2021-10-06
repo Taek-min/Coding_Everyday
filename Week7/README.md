@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) | [창민](Day43/kcm_3047.java) [현민](Day43/shm_3047.java) [택민](Day43/kcm_3047.java) [예은](Day43/lye_3047.py) [가희](Day43/kkh_3047.py) [성수](Day43/ass_3047.java) | [창민](Day43/kcm_fb_3047.java) [현민](Day43/shm_3047_fb.java) [택민](Day43/jtm_fb_3047.java) [예은](Day43/lye_3047.py) 가희 성수     
+| [<sub>![Bronze2]</sub> ABC](https://www.acmicpc.net/problem/3047) | [창민](Day43/kcm_3047.java) [현민](Day43/shm_3047.java) [택민](Day43/kcm_3047.java) [예은](Day43/lye_3047.py) [가희](Day43/kkh_3047.py) [성수](Day43/ass_3047.java) | [창민](Day43/kcm_fb_3047.java) [현민](Day43/shm_3047_fb.java) [택민](Day43/jtm_fb_3047.java) [예은](Day43/lye_3047.py) 가희 [성수](Day43/ass_3047_fb.java)     
 
 ## [44일차](Day44)
 
