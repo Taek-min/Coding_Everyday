@@ -10,13 +10,13 @@ public class Main {
 				nums[6]++;
 			}
 			else {
-				nums[num.charAt(i) -'0']++;
+				nums[num.charAt(i) -'0']++; //신기하네..
 			}
 		}
 		nums[6] = Math.ceil(nums[6] / 2);
 		double max = nums[0];
 		for(int j = 0; j<nums.length; j++) {
-			//// 쉬프트탭해주새요
+			//// 쉬프트탭해주새요 -> 해주'세'요.
 				if(nums[j] > max) {
 					max = nums[j];
 				}
@@ -24,4 +24,4 @@ public class Main {
 		System.out.println((int)max);
 	}
 }
-////꿋 : 2 : 3
+////꿋 : 2 : 3 : 4

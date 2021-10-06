@@ -10,7 +10,7 @@ public class Main{
 		    for(int k = 0; k < num.length(); k++){
 		       if(i==6){
                    if('6'==num.charAt(k)||'9'== num.charAt(k)){
-		           cnt++; //// 여기도 탭 해주소
+		           cnt++; //// 여기도 탭 해주소 
                    }
                }else if(i==num.charAt(k)-'0'){
 		           cnt++;
@@ -27,4 +27,4 @@ public class Main{
 		System.out.println(maxCnt);
 	}
 }
-//// 굳 :2 : 3 :4
+//// 굳 :2 : 3 :4 :5 

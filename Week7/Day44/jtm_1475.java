@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in);
-    	int[] nums = Arrays.stream(sc.next().split("")).mapToInt(Integer::parseInt).toArray();
+    	int[] nums = Arrays.stream(sc.next().split("")).mapToInt(Integer::parseInt).toArray(); //:: 이거 뭔지 찾아보고싶은데 시간없어서 봐준다
     	int[] overlap = new int[9];
     	int max = 0;
     	int cnt = 0;
@@ -35,4 +35,4 @@ public class Main {
     	}
     }
 }
-//// 굳 :2:3:4
+//// 굳 :2:3:4:5
