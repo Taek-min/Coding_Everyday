@@ -27,4 +27,4 @@ public class Main{
 		System.out.println(maxCnt);
 	}
 }
-//// 굳 :2 : 3
+//// 굳 :2 : 3 :4
