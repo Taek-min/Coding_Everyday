@@ -7,3 +7,4 @@ for i in line:
 
 print(n)
 ## 깔끔
+## 잘했네~

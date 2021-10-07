@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//// 성수는 새디스트야!!
 //// 굿
 public class Main {
 	public static void main(String[] args) {
