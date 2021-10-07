@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//// 굿 : 22
+//// 굿 : 22 :3
 public class kcm_14656 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
