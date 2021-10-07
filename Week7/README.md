@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | 창민 현민 택민 예은 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [48일차](Day48)
 
