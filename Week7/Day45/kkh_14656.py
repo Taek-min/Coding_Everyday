@@ -6,5 +6,5 @@ for i in line:
 		n -= 1
 
 print(n)
-## 깔끔
+## 깔끔 :2
 ## 잘했네~

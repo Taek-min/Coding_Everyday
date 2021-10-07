@@ -7,4 +7,4 @@ for i, studentNum in enumerate(map(int, input().split(' '))):
 
 print(wrongCnt)
 ## 깔끔
-## 백신 2차 화이팅!
+## 백신 2차 화이팅! :2
