@@ -8,3 +8,4 @@ for i in line:
 print(n)
 ## 깔끔 :2
 ## 잘했네~
+## 예~
