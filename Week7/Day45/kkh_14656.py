@@ -6,3 +6,4 @@ for i in line:
 		n -= 1
 
 print(n)
+## 깔끔

@@ -6,3 +6,4 @@ for i, studentNum in enumerate(map(int, input().split(' '))):
 		wrongCnt += 1
 
 print(wrongCnt)
+## 깔끔
