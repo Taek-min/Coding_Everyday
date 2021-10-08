@@ -7,7 +7,7 @@ for i in range(0, 10):
 	
 numCnt[6] += numCnt[9]
 numCnt[6] = math.ceil(numCnt[6]/2)
-numCnt[9] = 0 ## 인덱스 삭제가 깔꼼했을듯
+del numCnt[9] ## 인덱스 삭제가 깔꼼했을듯
 maxIndex = numCnt.index(max(numCnt))
 
 print(numCnt[maxIndex])

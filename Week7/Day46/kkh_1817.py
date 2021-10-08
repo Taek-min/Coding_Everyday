@@ -15,4 +15,4 @@ else:
 			weight += boxWeight[i]
 			boxCnt += 1
 	print(boxCnt)
-## 역시 잘해~ :2
+## 역시 잘해~ :2:3

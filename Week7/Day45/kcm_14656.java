@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//// 굿 : 22 :3
+//// 굿 : 22 :3:4
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

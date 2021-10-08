@@ -22,25 +22,25 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 방 번호](https://www.acmicpc.net/problem/1475) | [창민](Day44/kcm_1475.java) [현민](Day44/shm_1475.java) [택민](Day44/jtm_1475.java) [예은](Day44/lye_1475.py) [가희](Day44/kkh_1475.py) [성수](Day44/ass_1475.java) | [창민](Day44/kcm_fb_1475.java) [현민](Day44/shm_1475.java) [택민](Day44/jtm_1475.java) 예은 [가희](Day44/kkh_1475.py) [성수](Day44/ass_fb_1475.java)             |
+| [<sub>![Silver5]</sub> 방 번호](https://www.acmicpc.net/problem/1475) | [창민](Day44/kcm_1475.java) [현민](Day44/shm_1475.java) [택민](Day44/jtm_1475.java) [예은](Day44/lye_1475.py) [가희](Day44/kkh_1475.py) [성수](Day44/ass_1475.java) | [창민](Day44/kcm_fb_1475.java) [현민](Day44/shm_1475.java) [택민](Day44/jtm_1475.java) [예은](Day44/lye_1475.py) [가희](Day44/kkh_1475.py) [성수](Day44/ass_fb_1475.java)             |
 
 ## [45일차](Day45)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | [창민](Day45/kcm_fb_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) 예은 가희 [성수](Day45/ass_14656.java)             |
+| [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | [창민](Day45/kcm_fb_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) 가희 [성수](Day45/ass_14656.java)             |
 
 ## [46일차](Day46)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) 예은 [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | 창민 현민 [택민](Day46/jtm_1817.java) 예은 가희 성수             |
+| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | 창민 현민 [택민](Day46/jtm_1817.java) 예은 가희 성수             |
 
 ## [47일차](Day47)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) 예은 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [48일차](Day48)
 

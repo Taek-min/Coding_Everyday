@@ -1,6 +1,6 @@
 import java.util.Scanner;
-//// 성수는 새디스트야!! :2 : 3
-//// 굿 :2
+//// 성수는 새디스트야!! :2 : 3:ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+//// 굿 :2:3
 public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//// 아주 깔끔 :2
+//// 아주 깔끔 :2:3
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
