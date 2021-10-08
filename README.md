@@ -59,6 +59,7 @@
 [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) |
 [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) |
 [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) |
+[<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) |
 
 
 ## 👨‍💻 스터디원
