@@ -5,7 +5,7 @@ public class Main {
 		Scanner scan = new Scanner(System.in);
 		int bookCnt = scan.nextInt();
 		int boxIn = scan.nextInt();
-		int books[]= new int [100001];		
+		int books[]= new int [100001]; 
 		int nextBookCnt = bookCnt - 1;
 		int boxCheck=boxIn;		
         int cnt = 0;
@@ -28,4 +28,4 @@ public class Main {
 		}
 		System.out.println(boxCnt);
 	}
-}
+} //// 굳

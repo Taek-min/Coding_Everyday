@@ -1,6 +1,4 @@
-package algorithm;
-
-import java.util.*;
+import java.util.*; //// 패키지 지워드렷어요 
 
 public class Main {
     public static void main(String[] args) {
@@ -26,4 +24,4 @@ public class Main {
     	}
     	System.out.println(cntBox);
     }
-}//// 귣귣
+}//// 귣귣 :2

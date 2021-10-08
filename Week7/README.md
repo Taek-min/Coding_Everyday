@@ -28,7 +28,11 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
+<<<<<<< HEAD
 | [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | 창민 [현민](Day45/shm_14656.java) 택민 예은 가희 [성수](Day45/ass14656.java)             |
+=======
+| [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | [창민](Day45/kcm_fb_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) 예은 가희 성수             |
+>>>>>>> 0e0451307b57ba9582a7a30170824da91be5de12
 
 ## [46일차](Day46)
 
@@ -40,13 +44,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | 창민 [현민](Day47/shm_4562.java) 택민 예은 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) 예은 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [48일차](Day48)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [49일차](Day49)
 
