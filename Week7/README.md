@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | 창민 [현민](Day45/shm_14656.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 조교는 새디스트야!!](https://www.acmicpc.net/problem/14656) | [창민](Day45/kcm_14656.java) [현민](Day45/shm_14656.java) [택민](Day45/jtm_14656.java) [예은](Day45/lye_14656.py) [가희](Day45/kkh_14656.py) [성수](Day45/ass_14656.java) | 창민 [현민](Day45/shm_14656.java) 택민 예은 가희 [성수](Day45/ass14656.java)             |
 
 ## [46일차](Day46)
 
