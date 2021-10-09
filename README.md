@@ -60,6 +60,7 @@
 [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) |
 [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) |
 [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) |
+[<sub>![Silver5]</sub> 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) |
 
 
 ## 👨‍💻 스터디원

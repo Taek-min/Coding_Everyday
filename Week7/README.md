@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | 창민 [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) 예은 [가희](Day46/kkh_1817.py) 성수             |
+| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) 성수             |
 
 ## [47일차](Day47)
 
@@ -46,10 +46,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) | 창민 [현민](Day48/shm_2355.java) [택민](Day48/jtm_2355.java) 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) | [창민](Day48/kcm_2355.java) [현민](Day48/shm_2355.java) [택민](Day48/jtm_2355.java) [예은](Day48/lye_2355.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [49일차](Day49)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
