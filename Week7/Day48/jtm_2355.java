@@ -7,7 +7,7 @@ public class Main {
     	long num2 = sc.nextInt();
     	long max = 0, min = 0;
     	
-    	if(A < B) {
+    	if(A < B) { //// 컴파일 에러 나요
     		max = num2;
     		min = num1;
     	}
