@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) 성수             |
+| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) [성수](Day46/ass_fb_1817.java)             |
 
 ## [47일차](Day47)
 
