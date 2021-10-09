@@ -7,7 +7,7 @@ public class Main {
 		
 		for(int i = 0; i < testCase; i++) {
 			int brain = sc.nextInt();
-			int numOfNecessaryBrain = sc.nextInt();
+			int numOfNecessaryBrain = sc.nextInt(); ////키야 영어실력이 막,,,빛나고 그러네??
 			
 			if(brain >= numOfNecessaryBrain) {
 				System.out.println("MMM BRAINS");
