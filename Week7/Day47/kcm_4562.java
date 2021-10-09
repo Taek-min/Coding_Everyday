@@ -7,7 +7,7 @@ public class Main {
 		int loop = in.nextInt();
 		
 		for(int i = 0; i < loop; i++) {
-			int x = in.nextInt();
+			int x = in.nextInt();/// x, y ㅋㅋ 
 			int y = in.nextInt();
 			if (x >= y) {
 				System.out.println("MMM BRAINS");

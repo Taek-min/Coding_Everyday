@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int line = scan.nextInt();
-		int xBrains[] = new int[line];
+		int xBrains[] = new int[line]; ////굳이 지만 배열 사용 굳 
 		int yBrains[] = new int[line];
 		
 		for(int i =0 ; i < line ; i++){
