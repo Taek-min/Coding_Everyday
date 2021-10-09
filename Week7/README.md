@@ -34,13 +34,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | 창민 [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) 예은 가희 성수             |
+| [<sub>![Silver4]</sub> 짐 챙기는 숌](https://www.acmicpc.net/problem/1817) | [창민](Day46/kcm_1817.java) [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) [예은](Day46/lye_1817.py) [가희](Day46/kkh_1817.py) *[성수](Day46/ass_1817.java)* | 창민 [현민](Day46/shm_1817.java) [택민](Day46/jtm_1817.java) 예은 [가희](Day46/kkh_1817.py) 성수             |
 
 ## [47일차](Day47)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) 가희 [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) [가희](Day47/kkh_4562.py) [성수](Day47/ass_4562.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [48일차](Day48)
 
