@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | [창민](Day49/kcm_1292.java) [현민](Day49/shm_1292.java) [택민](Day49/jtm_1292.java) [예은](Day49/lye_1292.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) | [창민](Day49/kcm_1292.java) [현민](Day49/shm_1292.java) [택민](Day49/jtm_1292.java) [예은](Day49/lye_1292.py) [가희](Day49/kkh_1292.py) 성수 | 창민 현민 택민 예은 가희 성수             |
