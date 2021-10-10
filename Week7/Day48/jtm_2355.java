@@ -10,7 +10,7 @@ public class Main {
     	if(num1 < num2) { //// 컴파일 에러 나요 //// 수정했어요
     		max = num2;
     		min = num1;
-    	}
+    	} //이거 붙여주세요.
     	else {
     		max = num1;
     		min = num2;

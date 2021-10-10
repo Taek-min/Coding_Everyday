@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-//// < 요기 줄바꿈 왜하는거에요? : 2
+//// < 요기 줄바꿈 왜하는거에요? : 2 :3
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		long first = in.nextInt();
@@ -19,8 +19,8 @@ public class Main {
 		lastSum = last * (last +1) / 2 ;
 		
 		System.out.println(lastSum - firstSum);
-//// <
+//// < 이게 뭐에요
 	}
-//// <
+//// < 이게 뭐에요
 }
 ////굳굳 :: 22 
