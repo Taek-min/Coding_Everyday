@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) [가희](Day47/kkh_4562.py) [성수](Day47/ass_4562.java) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) 가희 [성수](Day47/ass_fb_4562.java)             |
+| [<sub>![Bronze3]</sub> No Brainer](https://www.acmicpc.net/problem/4562) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) [가희](Day47/kkh_4562.py) [성수](Day47/ass_4562.java) | [창민](Day47/kcm_4562.java) [현민](Day47/shm_4562.java) [택민](Day47/jtm_4562.java) [예은](Day47/lye_4562.py) [가희](Day47/kkh_4562.py) [성수](Day47/ass_fb_4562.java)             |
 
 ## [48일차](Day48)
 
