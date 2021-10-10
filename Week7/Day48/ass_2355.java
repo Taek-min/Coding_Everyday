@@ -14,4 +14,4 @@ public class Main{
 		System.out.println(sum);
 	}
 }
-//// 깔끔
+//// 깔끔:22
