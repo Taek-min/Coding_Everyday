@@ -14,4 +14,4 @@ public class Main{
 		System.out.println(sum);
 	}
 }
-//// 깔끔:22:33
+//// 깔끔:22:33: 성수한테 깔끔 주기 싫은데.... 봐준다

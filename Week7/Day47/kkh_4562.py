@@ -5,3 +5,4 @@ for i in range(0, n):
 		print('MMM BRAINS')
 	else:
 		print('NO BRAINS')
+## 잘 풀어 아주~
