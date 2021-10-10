@@ -14,3 +14,4 @@ public class Main{
 		System.out.println(sum);
 	}
 }
+//// 깔끔

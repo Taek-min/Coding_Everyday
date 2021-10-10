@@ -12,3 +12,5 @@ public class Main {
 		System.out.println(sum);
 	}
 }
+
+//// 버퍼 사용 굳
