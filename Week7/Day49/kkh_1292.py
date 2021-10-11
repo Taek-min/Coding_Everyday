@@ -9,3 +9,4 @@ for i in range(0, num[1] + 1):
 			sum += i
 			
 print(sum)
+#### 역시 잘해 ~ 

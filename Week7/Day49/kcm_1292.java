@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		List<Integer> list = new ArrayList<Integer>();
+		List<Integer> list = new ArrayList<Integer>();	////list 잘쓰시네 굳 
 		int first = in.nextInt();
 		int last = in.nextInt();
 		int sum = 0;

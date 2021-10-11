@@ -10,3 +10,4 @@ for i in range(1, endNum + 1):
 	if cnt >= endNum:
 		break
 print(sum)
+#### 잘하셨네 ~ 고생하셨어요 ,,, 

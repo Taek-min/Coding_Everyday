@@ -12,5 +12,4 @@ public class Main {
 		System.out.println(sum);
 	}
 }
-
 //// 버퍼 사용 굳:22: 버퍼를 쓴 당신에게 가산점을 드립니다. :3 멋있어
