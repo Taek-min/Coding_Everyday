@@ -11,9 +11,10 @@ public class Main{
 		for (int i = 0; i < 1001;) {
 			for (int j = 0; j < sequenceNum; j++) {
 				i++;
-                if(i==1001)
-                    break;
-                sequence[i] = sequenceNum;               
+                		if(i==1001) {
+                			break;
+				}
+                		sequence[i] = sequenceNum;               
 			}
 			sequenceNum++;
 		}
