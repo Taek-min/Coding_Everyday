@@ -5,7 +5,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		int opening = sc.nextInt();
 		int finish = sc.nextInt();
-		int numArray[] = new int[1000]; ////이거 구건 마지막 숫자 만큼만 만들어줘도 되지 않을까나?
+		int numArray[] = new int[1000]; ////이거 구건 마지막 숫자 만큼만 만들어줘도 되지 않을까나? //// 낭만코딩
 		int num = 1;
 		int cnt = 1;
 		int sum = 0;

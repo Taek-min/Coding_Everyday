@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) 택민 [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
