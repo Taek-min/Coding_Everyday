@@ -17,4 +17,4 @@ public class Main {
     	}
     	System.out.println(sum);
     }
-}////잘풀었네요 : 22 엄살은~
+}////잘풀었네요 : 22 엄살은~ :2
