@@ -9,8 +9,8 @@ public class Main {
 		int sum = 0;
 		int count = 0;
 
-		Loop1:
-		for(int i = 1; i <= 1000; i++) {
+		Loop1: ////이거 좀 멋있따?
+		for(int i = 1; i <= 1000; i++) { ////왜 1000번이나 돌려
 			for(int j = 0; j < i; j++) {
 				list.add(i);
 				count++;

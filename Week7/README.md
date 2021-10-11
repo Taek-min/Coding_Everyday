@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) | [창민](Day48/kcm_2355.java) [현민](Day48/shm_2355.java) [택민](Day48/jtm_2355.java) [예은](Day48/lye_2355.py) [가희](Day48/kkh_2355.py) [성수](Day48/ass_2355.java) | 창민 [현민](Day48/shm_2355.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 시그마](https://www.acmicpc.net/problem/2355) | [창민](Day48/kcm_2355.java) [현민](Day48/shm_2355.java) [택민](Day48/jtm_2355.java) [예은](Day48/lye_2355.py) [가희](Day48/kkh_2355.py) [성수](Day48/ass_2355.java) | 창민 [현민](Day48/shm_2355.java) 택민 [예은](Day48/lye_2355.py) 가희 성수             |
 
 ## [49일차](Day49)
 
