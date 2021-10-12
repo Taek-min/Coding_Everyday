@@ -9,3 +9,4 @@ for i in range(0, line):
 	if i > 0:
 		print('*', end='')
 	print()
+## 굿굿~ 
