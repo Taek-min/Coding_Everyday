@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{		//// 되는 코드 올린거 맞아?
+public class Main{		//// 되는 코드 올린거 맞아? : 22
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
 		int line = scan.nextInt();

@@ -6,7 +6,7 @@ public class Main {
 		int line = in.nextInt();
 		int num1 = line;
 		int num2 = line;
-		Loop2:	////이거 잘쓰네 이거 뭐야 
+		Loop2:	////이거 잘쓰네 이거 뭐야  : 22
 		for(int i = line; i > 0; i--) {
 			Loop1:
 			for(int j = 1; j < line * 2; j++) {
