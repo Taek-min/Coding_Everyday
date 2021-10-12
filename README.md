@@ -63,6 +63,7 @@
 [<sub>![Silver5]</sub> 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292) |
 [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) |
 [<sub>![Bronze3]</sub> 네 번째 점](https://www.acmicpc.net/problem/3009) |
+[<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) |
 
 
 
