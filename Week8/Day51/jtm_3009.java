@@ -34,4 +34,5 @@ public class Main {
 		
 		System.out.printf("%d %d",x4, y4);
 	}
-}
+} 
+//깔꼼하기도 하고... 대단해...

@@ -14,4 +14,4 @@ for i in range(0,3):
 	xPos.append(x)
 	yPos.append(y)
 
-print(find_different(xPos), find_different(yPos)) ## 신기한거다 : 우와 저게 그 "함수"라는건가? : 2
+print(find_different(xPos), find_different(yPos)) ## 신기한거다 : 우와 저게 그 "함수"라는건가? : 2 :3 "함수" 멋있어!!
