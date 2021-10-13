@@ -1,19 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-<<<<<<< Updated upstream
 public class Main {////창뮌이 아주 잘해 ~  : 2
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-public class Main {////창뮌이 아주 잘해 ~ :자래
-=======
-public class Main {////창뮌이 아주 잘해 ~  : 2
->>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
-=======
-public class Main {////창뮌이 아주 잘해 ~  : 2
->>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
->>>>>>> Stashed changes
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int x[] = new int[3];
