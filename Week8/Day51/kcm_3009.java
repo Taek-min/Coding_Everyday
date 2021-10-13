@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main {////창뮌이 아주 잘해 ~  : 2
+public class Main {////창뮌이 아주 잘해 ~  : 2:자래에엥
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int x[] = new int[3];

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main { //완쾌하세요 : 빠른 쾌유를 빕니다.
+public class Main { //완쾌하세요 : 빠른 쾌유를 빕니다.:아프디망 ㅠ
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int x[] = new int[4];
