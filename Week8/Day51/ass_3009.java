@@ -18,3 +18,4 @@ public class Main{
   		else if(y[2] == y[0]) { System.out.printf("%d", y[1]); }
 	}
 }
+//// 굳

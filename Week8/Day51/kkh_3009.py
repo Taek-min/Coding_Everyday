@@ -16,3 +16,4 @@ for i in y:
 			y.remove(i)
 			
 print(x[0], y[0])
+## 굳

@@ -14,4 +14,4 @@ for i in range(0,3):
 	xPos.append(x)
 	yPos.append(y)
 
-print(find_different(xPos), find_different(yPos))
+print(find_different(xPos), find_different(yPos)) ## 신기한거다
