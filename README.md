@@ -64,7 +64,6 @@
 [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) |
 [<sub>![Bronze3]</sub> 네 번째 점](https://www.acmicpc.net/problem/3009) |
 [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) |
-[<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) |
 
 
 
