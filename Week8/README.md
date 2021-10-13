@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | 창민 현민 [택민](Day53/jtm_10103.java) 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | 창민 현민 [택민](Day53/jtm_10103.java) 예은 [가희](Day53/kkh_10103.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
