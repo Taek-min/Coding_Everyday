@@ -13,4 +13,4 @@ for i in range(0, 3):
       vertex[1] = y[i]
 
 print(vertex[0], vertex[1])
-## 굳 : 멋있어~! : 2
+## 굳 : 멋있어~! : 2:반해써
