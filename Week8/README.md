@@ -16,7 +16,19 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
+<<<<<<< Updated upstream
 | [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/jtm_fb_10990.java) 예은 가희 성수             |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) 택민 [예은](Day50/lye_10990.py) 가희 성수             |
+=======
+| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/jtm_fb_10990.java) 예은 가희 성수             |
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+=======
+| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/jtm_fb_10990.java) 예은 가희 성수             |
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+>>>>>>> Stashed changes
 
 ## [51일차](Day51)
 
@@ -28,7 +40,19 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
+<<<<<<< Updated upstream
 | [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) 예은 가희 [성수](Day52/ass_2506.java) | 창민 현민 택민 예은 가희 성수             |
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) 택민 [예은](Day52/lye_2506.py) 가희 [성수](Day52/ass_2506.java) | 창민 현민 택민 예은 가희 성수             |
+=======
+| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) 예은 가희 [성수](Day52/ass_2506.java) | 창민 현민 택민 예은 가희 성수             |
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+=======
+| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) 예은 가희 [성수](Day52/ass_2506.java) | 창민 현민 택민 예은 가희 성수             |
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+>>>>>>> Stashed changes
 
 ## [53일차](Day53)
 

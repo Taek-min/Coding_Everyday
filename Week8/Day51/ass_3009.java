@@ -18,4 +18,16 @@ public class Main{
   		else if(y[2] == y[0]) { System.out.printf("%d", y[1]); }
 	}
 }
+<<<<<<< Updated upstream
 //// 굳:22 : 33
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+//// 굳:22:33
+=======
+//// 굳:22 : 33
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+=======
+//// 굳:22 : 33
+>>>>>>> 7bce88e14ff36f1de87e596c78e6d9f60b5e30f7
+>>>>>>> Stashed changes
