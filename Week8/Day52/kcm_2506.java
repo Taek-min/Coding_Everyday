@@ -11,7 +11,7 @@ public class Main {
 		for(int i = 0; i < ox.length; i++) {
 			ox[i] = in.nextInt();
 		}
-		
+		//// 풀이법 좀 신박했다
 		for(int j = 0; j < ox.length; j++) { //이 for문 신기하네..
 			sum += ox[j];
 			if(ox[j] == 1) {
