@@ -12,12 +12,12 @@ public class Main {
 			ox[i] = in.nextInt();
 		}
 		
-		for(int j = 0; j < ox.length; j++) {
+		for(int j = 0; j < ox.length; j++) { //이 for문 신기하네..
 			sum += ox[j];
 			if(ox[j] == 1) {
 				count++;
 				if(count > 1) {
-					sum += (count-1);
+					sum += (count-1); // 오 이거 -1 왜하는지 이해하는데 5분이상 걸렸어 신기해 아주..
 				}
 			}
 			else {

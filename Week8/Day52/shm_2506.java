@@ -9,7 +9,7 @@ public class Main { ////굳굳 잘하셧네요
 		
 		for(int i = 0; i < numOfProblem; i++) {
 			int problem = sc.nextInt();
-			if(problem == 1) {
+			if(problem == 1) { //창민이랑 살짝 다른거같은데 잘했네..
 				if(stack > 0) {
 					stack++;
 					score += stack;
