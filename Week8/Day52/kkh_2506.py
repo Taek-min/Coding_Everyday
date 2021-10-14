@@ -10,4 +10,4 @@ for i in range(0, cnt):
 		result = 0
 
 print(sum(score))
-## 잘해~!~!
+## 잘해~!~! :2

@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){////성수는 배열을 잘쓰네~
+	public static void main(String[] args){////성수는 배열을 잘쓰네~ :2
 		Scanner scan = new Scanner(System.in);
 		int quiz = scan.nextInt();
 		int point = 0;
