@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) {////굿굿 일 고생했다잉
 		Scanner in = new Scanner(System.in);
 		int amount = in.nextInt();
 		int ox[] = new int[amount];

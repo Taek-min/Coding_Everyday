@@ -11,7 +11,7 @@ public class Main2{
 		for(int i = 0; i < mission; i++){
 		    int ans = sc.nextInt();
 		    if(ans == 1){
-		        result += ++sum;
+		        result += ++sum;	////전위 증감 연산자 오랜만에 보네요 굿~ 
 		    }
 		    else{
 		        sum = 0;

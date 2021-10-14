@@ -11,3 +11,4 @@ for score in scoreList:
 	totalScore += answerCnt
 	
 print(totalScore)
+## 잘해잘해~!~!
