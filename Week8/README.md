@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/jtm_fb_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) 성수             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 15](https://www.acmicpc.net/problem/10990) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/kcm_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java) | [창민](Day50/kcm_10990.java) [현민](Day50/shm_10990.java) [택민](Day50/jtm_fb_10990.java) [예은](Day50/lye_10990.py) [가희](Day50/kkh_10990.py) [성수](Day50/ass_10990.java)             |
 
 ## [51일차](Day51)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 네 번째 점](https://www.acmicpc.net/problem/3009) | [창민](Day51/kcm_3009.java) [현민](Day51/shm_3009.java) [택민](Day51/jtm_3009.java) [예은](Day51/lye_3009.py) [가희](Day51/kkh_3009.py) [성수](Day51/ass_3009.java) | [창민](Day51/kcm_3009.java) [현민](Day51/shm_3009.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 네 번째 점](https://www.acmicpc.net/problem/3009) | [창민](Day51/kcm_3009.java) [현민](Day51/shm_3009.java) [택민](Day51/jtm_3009.java) [예은](Day51/lye_3009.py) [가희](Day51/kkh_3009.py) [성수](Day51/ass_3009.java) | [창민](Day51/kcm_3009.java) [현민](Day51/shm_3009.java) 택민 예은 가희 [성수](Day51/ass_3009.java)             |
 
 ## [52일차](Day52)
 
@@ -35,7 +35,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | [창민](Day53/kcm_10103.java) [현민](Day53/shm_10103.java) [택민](Day53/jtm_10103.java) 예은 [가희](Day53/kkh_10103.py) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | [창민](Day53/kcm_10103.java) [현민](Day53/shm_10103.java) [택민](Day53/jtm_10103.java) 예은 [가희](Day53/kkh_10103.py) [성수](Day53/ass_10103.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
