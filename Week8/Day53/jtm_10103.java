@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {// 저와 생각이 같군요 
+public class Main {// 저와 생각이 같군요  :2 이번 문제 다 똑같이 풀엇네
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int round = sc.nextInt();

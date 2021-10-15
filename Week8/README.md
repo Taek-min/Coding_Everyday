@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) [성수](Day52/ass_2506.java) | 창민 [현민](Day52/shm_2506.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) [성수](Day52/ass_2506.java) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) 택민 예은 가희 성수             |
 
 
 ## [53일차](Day53)
@@ -41,7 +41,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 집 주소](https://www.acmicpc.net/problem/1284) | 창민 [현민](Day54/shm_1284.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 집 주소](https://www.acmicpc.net/problem/1284) | [창민](Day54/kcm_1284.java) [현민](Day54/shm_1284.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 

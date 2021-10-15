@@ -9,4 +9,4 @@ for i in range(0, n):
 		changyoung -= dice[1]
 
 print(changyoung, sangduck, sep='\n')
-## 행복하게 풀었겠네
+## 행복하게 풀었겠네 :2
