@@ -66,6 +66,7 @@
 [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) |
 [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) |
 [<sub>![Bronze3]</sub> 집 주소](https://www.acmicpc.net/problem/1284) |
+[<sub>![Silver5]</sub> 숫자 빈도수](https://www.acmicpc.net/problem/14912) |
 
 
 
