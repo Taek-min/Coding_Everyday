@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){
+	public static void main(String[] args){////그냥 이쯤되면 배열애호가네;;; 
 		Scanner scan = new Scanner(System.in);
 		int round = scan.nextInt();
 		int changYoung[] = new int [round]
