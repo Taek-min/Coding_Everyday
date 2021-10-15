@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main { // 저와 생각이 같아버렸군요
+public class Main { // 저와 생각이 같아버렸군요 : 아구잘해~~
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int round = in.nextInt();
