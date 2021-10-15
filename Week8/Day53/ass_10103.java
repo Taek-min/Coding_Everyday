@@ -6,7 +6,7 @@ public class Main{
 		int round = scan.nextInt();
 		//// 이 문제도 배열 없이 풀 수 있을거 같단 말이지~
 		int changYoung[] = new int [round];   // 세미콜론 다 어디갓죠 ? :ㅋㅋㅋㅋㅋ :zzzzzzzz : 억까임 누가 지웟음 누구야
-		int sangDeok = new int [round];   // 세미콜론 다 어디갓죠 ? : ㅋㅋㅋㅋㅋ :zzzzzzzzzzzz : 억까임 누가 지웟음 누구야
+		int sangDeok[] = new int [round];   // 세미콜론 다 어디갓죠 ? : ㅋㅋㅋㅋㅋ :zzzzzzzzzzzz : 억까임 누가 지웟음 누구야
 		int sangPoint = 100;
 		int changpoint = 100;
 		for(int i = 0 ; i < round ; i++){
