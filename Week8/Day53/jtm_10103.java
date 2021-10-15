@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {// 저와 생각이 같군요  :2 이번 문제 다 똑같이 풀엇네 : 아구잘해~
+public class Main {// 저와 생각이 같군요  :2 이번 문제 다 똑같이 풀엇네 : 아구잘해~ :이고 잘해~
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int round = sc.nextInt();
@@ -17,7 +17,7 @@ public class Main {// 저와 생각이 같군요  :2 이번 문제 다 똑같이
 				sangDuck -= changDice;
 			}
 		}
-		System.out.println(changYoung);
+		System.out.println(changYoung); //이거 한번에 쓰는 방법 알아보고싶다..
 		System.out.println(sangDuck);
 	}
 }

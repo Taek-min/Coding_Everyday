@@ -13,4 +13,4 @@ for i in range(0, gameCnt):
 		
 print(CYscore)
 print(SDscore)
-## 시험끝나고 달려~~~~~~~~~~~~~ :2
+## 시험끝나고 달려~~~~~~~~~~~~~ :2 :3 옼케 시험 끝나고 콜이야

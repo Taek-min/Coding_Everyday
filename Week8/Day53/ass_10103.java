@@ -5,8 +5,8 @@ public class Main{
 		Scanner scan = new Scanner(System.in);
 		int round = scan.nextInt();
 		//// 이 문제도 배열 없이 풀 수 있을거 같단 말이지~
-		int changYoung[] = new int [round]   // 세미콜론 다 어디갓죠 ? :ㅋㅋㅋㅋㅋ
-		int sangDeok = new int [round]   // 세미콜론 다 어디갓죠 ? : ㅋㅋㅋㅋㅋ
+		int changYoung[] = new int [round]   // 세미콜론 다 어디갓죠 ? :ㅋㅋㅋㅋㅋ :zzzzzzzz
+		int sangDeok = new int [round]   // 세미콜론 다 어디갓죠 ? : ㅋㅋㅋㅋㅋ :zzzzzzzzzzzz
 		int sangPoint = 100;
 		int changpoint = 100;
 		for(int i = 0 ; i < round ; i++){
@@ -23,7 +23,7 @@ public class Main{
 			}
 		}
 		
-		System.out.println(changpoint);
+		System.out.println(changpoint); //이거 한번에 쓰는 방법 알아보고싶다..
 		System.out.println(sangPoint);
 	}
 }
