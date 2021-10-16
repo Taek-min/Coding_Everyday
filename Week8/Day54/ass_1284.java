@@ -14,8 +14,8 @@ public class Main{
 				else if (num.charAt(i) == '0') { width += 4;}
 				else { width += 3; }
 			}
-		width += num.length() - 1; //이거 탭 해주면 안될까..?	: 탭 
-		System.out.println(width); //이거 탭 해주면 안될까..? : 해 달 래
+			width += num.length() - 1; //이거 탭 해주면 안될까..?	: 탭 
+			System.out.println(width); //이거 탭 해주면 안될까..? : 해 달 래
 		}	
 	}
 } //// 굳:22정석이네~ :3 잘해~~ : 44 
