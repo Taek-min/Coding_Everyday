@@ -5,7 +5,7 @@ public class Main{
 		Scanner scan = new Scanner(System.in);
 		int quiz = scan.nextInt();
 		int point = 0;
-        int cnt = 1;
+        	int cnt = 1;
 		//// 이전 값을 기억해주는 변수를 두었으면 배열없이 풀 수 있지 않았을까나?
 		int problems[] = new int[quiz];
 		for(int i = 0 ; i < quiz ; i++){
@@ -19,10 +19,10 @@ public class Main{
 						cnt = 1;
 						point+=1;
 					}
-                }
+                		}
 			}else if(problems[i]==1){
-                point+=1;
-            }
+                		point+=1;
+            		}
 		}
 		System.out.printf("%d", point);
 	}
