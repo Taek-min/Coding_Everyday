@@ -10,7 +10,7 @@ public class Main{
 		int num = i;
 			while(num>0){
 				if(num % 10 == digit) 
-                    frequency++;
+                    			frequency++;
 				num /= 10;
 			}
 		}
