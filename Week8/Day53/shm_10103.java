@@ -21,7 +21,7 @@ public class Main { //// 패키지 바꿔드렸습니다. 코드가 똑같네 : 
 				continue;
 			}
 		}
-		System.out.println(jeongSou); //이거 한번에 쓰는 방법 알아보고싶다..
+		System.out.println(jeongSou); //이거 한번에 쓰는 방법 알아보고싶다.. : printf("%d %d", jeongSou, sangDeok); 같은거 말하는겅?.?
 		System.out.println(sangDeok);
 	}
 }
