@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) [성수](Day52/ass_2506.java) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) 성수             |
+| [<sub>![Bronze3]</sub> 점수계산](https://www.acmicpc.net/problem/2506) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) [성수](Day52/ass_2506.java) | [창민](Day52/kcm_2506.java) [현민](Day52/shm_2506.java) [택민](Day52/jtm_2506.java) [예은](Day52/lye_2506.py) [가희](Day52/kkh_2506.py) [성수](Day52/ass_2506.java)             |
 
 ## [53일차](Day53)
 
