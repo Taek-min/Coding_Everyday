@@ -18,4 +18,4 @@ while(True):
 	width += numCnt * 3
 	print(width)
 
-	## 잘하시네요
+	## 잘하시네요 :2 준내 멋있어 반복문 많이 안쓴게 대단해ㅜ

@@ -14,8 +14,8 @@ public class Main{
 				else if (num.charAt(i) == '0') { width += 4;}
 				else { width += 3; }
 			}
-		width += num.length() - 1;
-		System.out.println(width);
+		width += num.length() - 1; //이거 탭 해주면 안될까..?
+		System.out.println(width); //이거 탭 해주면 안될까..?
 		}	
 	}
-} //// 굳:22정석이네~
+} //// 굳:22정석이네~ :3 잘해~~
