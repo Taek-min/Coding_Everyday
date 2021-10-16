@@ -18,4 +18,4 @@ public class Main{
 		System.out.println(width);
 		}	
 	}
-} //// 굳
+} //// 굳:22정석이네~
