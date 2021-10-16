@@ -14,3 +14,4 @@ while True:
 	      index += 1
 	         
 	   print(sum(address) + (len(address)-1) + 2)
+	   ## 알코올 코딩법 잘하시네요.

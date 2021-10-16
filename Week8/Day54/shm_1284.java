@@ -27,3 +27,4 @@ public class Main {
 		}
 	}
 }
+//// 다들 비슷하게 풀엇네용

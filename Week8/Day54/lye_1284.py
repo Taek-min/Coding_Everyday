@@ -17,3 +17,5 @@ while(True):
 	
 	width += numCnt * 3
 	print(width)
+
+	## 잘하시네요
