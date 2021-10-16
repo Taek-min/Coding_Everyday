@@ -10,10 +10,10 @@ public class Main{
 		int num = i;
 			while(num>0){
 				if(num % 10 == digit) 
-                    frequency++;
+                    			frequency++;
 				num /= 10;
 			}
 		}
-	System.out.println(frequency);
+		System.out.println(frequency);
 	}
 }
