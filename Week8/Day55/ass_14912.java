@@ -14,6 +14,6 @@ public class Main{
 				num /= 10;
 			}
 		}
-	System.out.println(frequency);
+		System.out.println(frequency);
 	}
 }
