@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 집 주소](https://www.acmicpc.net/problem/1284) | [창민](Day54/kcm_1284.java) [현민](Day54/shm_1284.java) [택민](Day54/jtm_1284.java) [예은](Day54/lye_1284.py) [가희](Day54/kkh_1284.py) [성수](Day54/ass_1284.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 집 주소](https://www.acmicpc.net/problem/1284) | [창민](Day54/kcm_1284.java) [현민](Day54/shm_1284.java) [택민](Day54/jtm_1284.java) [예은](Day54/lye_1284.py) [가희](Day54/kkh_1284.py) [성수](Day54/ass_1284.java) | 창민 현민 택민 예은 가희 [성수](Day54/ass_1284.java)             |
 
 ## [55일차](Day55)
 
