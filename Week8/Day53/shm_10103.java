@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main { //// 패키지 바꿔드렸습니다. 코드가 똑같네 : 아구구잘해해해~~ :에고고잘해해해해~~~
+public class Main { //// 패키지 바꿔드렸습니다. 코드가 똑같네 : 아구구잘해해해~~ :에고고잘해해해해~~~ : 정신나간사람이 두명있네
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int loop = sc.nextInt();
