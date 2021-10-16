@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | [창민](Day53/kcm_10103.java) [현민](Day53/shm_10103.java) [택민](Day53/jtm_10103.java) [예은](Day53/lye_10103.py) [가희](Day53/kkh_10103.py) [성수](Day53/ass_10103.java) | [창민](Day53/kcm_10103.java) 현민 [택민](Day53/jtm_fb_10103.java) [예은](Day53/lye_10103.py) 가희 성수             |
+| [<sub>![Bronze3]</sub> 주사위 게임](https://www.acmicpc.net/problem/10103) | [창민](Day53/kcm_10103.java) [현민](Day53/shm_10103.java) [택민](Day53/jtm_10103.java) [예은](Day53/lye_10103.py) [가희](Day53/kkh_10103.py) [성수](Day53/ass_10103.java) | [창민](Day53/kcm_10103.java) 현민 [택민](Day53/jtm_fb_10103.java) [예은](Day53/lye_10103.py) [가희](Day53/kkh_10103.py) 성수             |
 
 ## [54일차](Day54)
 
@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 숫자 빈도수](https://www.acmicpc.net/problem/14912) | [창민](Day55/kcm_14912.java) 현민 [택민](Day55/jtm_14912.java) [예은](Day55/lye_14912.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 숫자 빈도수](https://www.acmicpc.net/problem/14912) | [창민](Day55/kcm_14912.java) 현민 [택민](Day55/jtm_14912.java) [예은](Day55/lye_14912.py) [가희](Day55/kkh_14912.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
