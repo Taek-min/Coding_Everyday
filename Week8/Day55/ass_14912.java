@@ -10,7 +10,7 @@ public class Main{
 		int num = i;
 			while(num>0){
 				if(num % 10 == digit) 
-                    			frequency++;
+                    			frequency++; ////탭키로 지구 끝까지 가겠네 
 				num /= 10;
 			}
 		}
