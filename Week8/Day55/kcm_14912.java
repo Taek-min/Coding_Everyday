@@ -18,4 +18,4 @@ public class Main {
 		
 		System.out.println(count);
 	}
-}//// 굿굿굿 ~! 
+}//// 굿굿굿 ~! :잘잘잘해~
