@@ -20,4 +20,4 @@ public class Main {
         }
         System.out.println(cnt);
     }
-}////굿굿~:22 잘해~
+}////굿굿~:22 잘해~ :3

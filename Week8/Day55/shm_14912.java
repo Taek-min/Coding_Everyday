@@ -16,4 +16,4 @@ public class Main {
 		}
 		System.out.println(cnt);
 	}
-}////아구잘해~~
+}////아구잘해~~ :2
