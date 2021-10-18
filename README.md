@@ -69,6 +69,7 @@
 [<sub>![Silver5]</sub> 숫자 빈도수](https://www.acmicpc.net/problem/14912) |
 [<sub>![Bronze2]</sub> 상수](https://www.acmicpc.net/problem/2908) |
 [<sub>![Bronze2]</sub> 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) |
+[<sub>![Bronze3]</sub> 히스토그램](https://www.acmicpc.net/problem/13752) |
 
 
 
