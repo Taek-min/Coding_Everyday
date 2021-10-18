@@ -5,7 +5,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		String firstNum = in.next();
 		String secondNum = in.next();
-
+		//// 구현 섬세하네~
 		for(int i = firstNum.length() -1; i >= 0; i--) {
 			if(firstNum.charAt(i) - '0' == secondNum.charAt(i) - '0') {
 				continue;
