@@ -14,7 +14,7 @@ public class Main {
         }
     }
     
-    public static int flip(int num){ //// oh nice:함수좋다잉~
+    public static int flip(int num){ //// oh nice:함수좋다잉~ :2
         int result=0;
         while(num!=0){
             result = result * 10 + num % 10;
