@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 상수](https://www.acmicpc.net/problem/2908) | [창민](Day56/kcm_2908.java) [현민](Day56/shm_2908.java) [택민](Day56/jtm_2908.java) [예은](Day56/lye_2908.py) [가희](Day56/kkh_2908.py) [성수](Day56/ass_2908.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 상수](https://www.acmicpc.net/problem/2908) | [창민](Day56/kcm_2908.java) [현민](Day56/shm_2908.java) [택민](Day56/jtm_2908.java) [예은](Day56/lye_2908.py) [가희](Day56/kkh_2908.py) [성수](Day56/ass_2908.java) | 창민 현민 택민 [예은](Day56/lye_2908.py) 가희 성수             |
