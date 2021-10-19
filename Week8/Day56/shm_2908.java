@@ -12,4 +12,4 @@ public class Main {
 		
 		System.out.println((reverse1 > reverse2)?reverse1:reverse2);
 	}
-}//// 깔삼하네? :2
+}//// 깔삼하네? :2 :3

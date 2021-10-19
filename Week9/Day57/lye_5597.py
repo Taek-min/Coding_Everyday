@@ -14,5 +14,5 @@ for i in range(0, studentCnt):
 		print(i+1)
 		submitStudent.insert(i,0)
 
-## 꿌꿌
+## 꿌꿌 : 2
 	
