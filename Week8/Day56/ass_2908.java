@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{// good:22굿굿  :3 깔끔 : 4
+public class Main{// good:22굿굿  :3 깔끔 : 4 :5
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		int num1 = sc.nextInt();
