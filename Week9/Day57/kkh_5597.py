@@ -7,4 +7,4 @@ for i in range(0, 28):
 		
 print(studentNum[0], studentNum[1], sep='\n')
 
-#굿이야
+#굿이야 :2

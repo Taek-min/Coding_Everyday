@@ -13,4 +13,6 @@ for i in range(0, studentCnt):
 	if submitStudent[i] != i+1:
 		print(i+1)
 		submitStudent.insert(i,0)
+
+## 꿌꿌
 	

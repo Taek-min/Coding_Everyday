@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int[] students = new int[31];
+		int[] students = new int[31];  //// 형도 bool로 풀어봐
 
 		for(int i = 0; i < 28; i++) {
 			int attendance = sc.nextInt();
@@ -16,4 +16,4 @@ public class Main {
 		}
 	}
 }
-////깰꼼하네
+////깰꼼하네 :2
