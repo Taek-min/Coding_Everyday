@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) [현민](Day59/shm_2441.java) 택민 [예은](Day59/lye_2441.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) [현민](Day59/shm_2441.java) 택민 [예은](Day59/lye_2441.py) [가희](Day59/kkh_2441.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
