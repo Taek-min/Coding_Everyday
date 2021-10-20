@@ -6,4 +6,4 @@ for i in range(0, n):
 	print("")
 
 
-##깔꼼
+##깔꼼 :역시 가히야~

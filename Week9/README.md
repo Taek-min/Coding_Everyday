@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub>  과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [창민](Day57/kcm_5597.java)[현민](Day57/shm_5597.java) [택민](Day57/jtm_5597.java) [예은](Day57/lye_5597.py) [가희](Day57/kkh_5597.py) [성수](Day57/ass_5597.java) | [창민](Day57/kcm_5597.java) 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub>  과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [창민](Day57/kcm_5597.java)[현민](Day57/shm_5597.java) [택민](Day57/jtm_5597.java) [예은](Day57/lye_5597.py) [가희](Day57/kkh_5597.py) [성수](Day57/ass_5597.java) | [창민](Day57/kcm_5597.java) 현민 택민 [예은](Day57/lye_5597.py) 가희 성수             |
 
 ## [58일차](Day58)
 
@@ -28,7 +28,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) 현민 택민 [예은](Day59/lye_2441.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
