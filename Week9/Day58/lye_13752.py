@@ -6,4 +6,4 @@ for i in range(0, caseCnt):
 	
 print(res)
 
-## 깰끔
+## 깰끔 :2
