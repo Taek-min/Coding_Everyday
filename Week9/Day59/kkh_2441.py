@@ -9,3 +9,4 @@ for i in range(n, 0, -1):
 	#	else:
 	#		print(" ", end="")
 	#print("")
+	#뭔가.. 이게 더 정석같았어..
