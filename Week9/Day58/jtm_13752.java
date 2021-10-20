@@ -13,3 +13,4 @@ public class Main {
 		}
 	}
 }
+//굳 다들 똑같이 풀엇네

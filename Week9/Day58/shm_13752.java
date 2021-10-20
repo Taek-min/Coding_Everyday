@@ -14,3 +14,4 @@ public class Main {
 		}
 	}
 }
+////다 똑같은 방식이네 
