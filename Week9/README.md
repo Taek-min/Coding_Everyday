@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) 현민 택민 [예은](Day60/lye_5618.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) 현민 택민 [예은](Day60/lye_5618.py) 가희 성수 | 창민 현민 택민 예은 [가희](Day60/kkh_5618.py) 성수             |
 
 ## [일차](Day)
 
