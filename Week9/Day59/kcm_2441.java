@@ -14,4 +14,4 @@ public class Main {
 			System.out.println();
 		}
 	}
-}////굿굿굿~
+}////굿굿굿~ :2 멋져~
