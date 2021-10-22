@@ -72,6 +72,7 @@
 [<sub>![Bronze3]</sub> 히스토그램](https://www.acmicpc.net/problem/13752) |
 [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) |
 [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) |
+[<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) |
 
 
 ## 👨‍💻 스터디원
