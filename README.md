@@ -73,7 +73,7 @@
 [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) |
 [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) |
 [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) |
-
+[<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) |
 
 ## 👨‍💻 스터디원
 <table>
