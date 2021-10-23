@@ -1,4 +1,3 @@
-package algorithm;
 import java.util.Scanner;
 
 public class Main
@@ -17,6 +16,6 @@ public class Main
 			System.out.println();
 		}
 	}
-}////굿굿굿~ :2 :3 패키지가 있네~?
+}////굿굿굿~ :2 :3 패키지가 있네~? : 내가 없애줄게~
 
 

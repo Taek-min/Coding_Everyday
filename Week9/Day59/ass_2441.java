@@ -15,4 +15,4 @@ public class Main{
 		}
 	}
 }
-// 잘해~
+// 잘해~ : 2

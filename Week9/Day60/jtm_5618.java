@@ -10,7 +10,7 @@ public class Main{
 		for(i = 0; i < n; i++) {
 			arr[i] = sc.nextInt();
 			if(max < arr[i]) {
-				max = arr[i]; //max보다 min이 맞는거 같아요
+				max = arr[i]; //max보다 min이 맞는거 같아요 : 럴수있지.
 			}
 		}
 		
@@ -24,5 +24,3 @@ public class Main{
 	    }
 	}
 }
-
-
