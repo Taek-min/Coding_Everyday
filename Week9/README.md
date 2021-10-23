@@ -46,7 +46,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 택민 예은 [가희](Day62/kkh_4732.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
