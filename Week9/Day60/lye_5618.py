@@ -28,4 +28,4 @@ if len(numList) == 2:
 else:
 	numList.sort()
 	PrintDivisor(GetGCD(GetGCD(numList[2],numList[1]), numList[0]))
-## 짱 머시쒀 
+## 짱 머시쒀  :2

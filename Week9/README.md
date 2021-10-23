@@ -28,25 +28,25 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) [현민](Day59/shm_2441.java) [택민](Day59/jtm_2441.java) [예은](Day59/lye_2441.py) [가희](Day59/kkh_2441.py) [성수](Day59/ass_2441.java) | 창민 [현민](Day59/shm_2441.java) [택민](Day59/jtm_2441.java) 예은 가희 [성수](Day59/ass_2441.java)             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 4](https://www.acmicpc.net/problem/2441) | [창민](Day59/kcm_2441.java) [현민](Day59/shm_2441.java) [택민](Day59/jtm_2441.java) [예은](Day59/lye_2441.py) [가희](Day59/kkh_2441.py) [성수](Day59/ass_2441.java) | [창민](Day59/kcm_2441.java) [현민](Day59/shm_2441.java) [택민](Day59/jtm_2441.java) 예은 가희 [성수](Day59/ass_2441.java)             |
 
 ## [60일차](Day60)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) 가희 [성수](Day60/ass_5618.java) | 창민 현민 택민 예은 [가희](Day60/kkh_5618.py) 성수             |
+| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) 가희 [성수](Day60/ass_5618.java) | [창민](Day60/kcm_5618.java) 현민 택민 예은 [가희](Day60/kkh_5618.py) 성수             |
 
 ## [61일차](Day61)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | 창민 *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | *[창민](Day61/kcm_10814.java)* *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [62일차](Day62)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | 창민 [현민](Day62/shm_4732.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 

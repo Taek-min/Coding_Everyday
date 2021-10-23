@@ -27,4 +27,4 @@ public class Main{
 			check = true;
 		}
 	}
-}//// 성수 그래도 성공했네~
+}//// 성수 그래도 성공했네~ 굳
