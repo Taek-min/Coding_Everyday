@@ -74,7 +74,8 @@
 [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) |
 [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) |
 [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) |
-[<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) |
+[<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) |\
+[<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) |
 
 ## 👨‍💻 스터디원
 <table>
