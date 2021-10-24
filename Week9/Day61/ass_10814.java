@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main { //// 이문제 너무 어려워싿.
+public class Main { //// 이문제 너무 어려워싿. 인정.
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);		
 		int n= sc.nextInt();	
