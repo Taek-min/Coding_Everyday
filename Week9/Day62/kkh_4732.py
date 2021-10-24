@@ -23,3 +23,4 @@ while True:
 				else: case[i] = chr(ord(case[i]) + change)
 			
 	print(' '.join(case))
+	##깔끔

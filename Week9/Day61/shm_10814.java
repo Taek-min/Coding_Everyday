@@ -22,4 +22,4 @@ public class Main {
 			System.out.println(info[i][0] + " " + info[i][1]);
 		}
 	}
-}
+}////고생했으..
