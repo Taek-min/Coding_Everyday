@@ -40,7 +40,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | *[창민](Day61/kcm_10814.java)* *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) *[성수](Day61/ass_10814.java)* | *[창민](Day61/kcm_10814.java)* *[현민](Day51/shm_10814.java)* 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | *[창민](Day61/kcm_10814.java)* *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) *[성수](Day61/ass_10814.java)* | *[창민](Day61/kcm_10814.java)* *[현민](Day51/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) 성수             |
 
 ## [62일차](Day62)
 
