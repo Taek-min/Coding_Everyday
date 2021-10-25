@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {// 간단하게 잘풀었네 
+public class Main {// 간단하게 잘풀었네 //간단하게 자알~ 풀었네
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);		
 		char chessBoard[][] = new char [8][8];
