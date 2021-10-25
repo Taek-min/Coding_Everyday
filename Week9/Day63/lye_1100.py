@@ -15,3 +15,4 @@ for i in range(0, 8):
 	isOdd = not isOdd
 	
 print(chessCnt)
+## 못하는게 없어 아주~!~!

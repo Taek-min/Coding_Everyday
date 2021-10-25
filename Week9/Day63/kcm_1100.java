@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main {// 2차원 굳 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		char chess[][] = new char[8][8];
