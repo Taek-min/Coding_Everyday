@@ -16,7 +16,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | 창민 [현민](Day64/shm_11170.java) 택민 예은 [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 예은 [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 

@@ -7,4 +7,4 @@ for i in range(0, 8):
 			cnt += 1
 
 print(cnt)
-## 잘해잘해~~!
+## 잘해잘해~~! :2
