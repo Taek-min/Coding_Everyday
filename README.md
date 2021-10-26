@@ -77,6 +77,7 @@
 [<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) |
 [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) |
 [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) |
+[<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) |
 
 ## 👨‍💻 스터디원
 <table>
