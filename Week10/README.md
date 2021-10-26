@@ -16,13 +16,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 예은 [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 [예은](Day64/lye_11170.py) [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [65일차](Day65)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | 창민 [현민](Day65/shm_4153.java) 택민 예은 [가희](Day65/kkh_4153.java) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | 창민 [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_4153.java) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
