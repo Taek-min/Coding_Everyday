@@ -22,7 +22,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | 창민 현민 택민 예은 [가희](Day65/kkh_4153.java) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | 창민 [현민](Day65/shm_4153.java) 택민 예은 [가희](Day65/kkh_4153.java) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 

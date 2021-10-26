@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){
+	public static void main(String[] args){////시험기간이라 변수명 봐줄게~
 		Scanner sc = new Scanner(System.in);	
 		int T = sc.nextInt();
 		int n[] = new int [T];
