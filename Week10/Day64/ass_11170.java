@@ -4,7 +4,7 @@ public class Main{
 	public static void main(String[] args){////시험기간이라 변수명 봐줄게~
 		Scanner sc = new Scanner(System.in);	
 		int T = sc.nextInt();
-		int n[] = new int [T];
+		int n[] = new int [T];////ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 		int m[] = new int [T];
 		int cnt[] = new int [T];
         int plus;

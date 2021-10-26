@@ -6,3 +6,4 @@ for i in range(0, caseCnt):
 	for j in range(start, end + 1):
 		allNum += str(j)
 	print(allNum.count('0'))
+	## 잘해잘해

@@ -9,4 +9,4 @@ for i in range(0, T):
 		cnt += num.count('0')
 	print(cnt)
 	cnt = 0
-## 잘푸네~~
+## 잘푸네~~ b :2
