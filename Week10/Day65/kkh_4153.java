@@ -1,5 +1,6 @@
 import java.util.*;
 
+//// 깔끔
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
@@ -11,6 +12,7 @@ public class Main {
 				line[i] = in.nextInt();
 			}
 			
+			//// 변 딱 하나만 0 체크해도 괜춘함!
 			if(line[0] == 0 && line[1] == 0 && line[2] == 0) break;
 			
 			Arrays.sort(line);	
