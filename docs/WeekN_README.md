@@ -10,8 +10,6 @@
 [Silver2]: https://user-images.githubusercontent.com/33937365/126247622-a83b30a9-6618-4593-b775-6f6730afd3f6.png
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
-# WeekN
-
 ## [일차](Day)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
