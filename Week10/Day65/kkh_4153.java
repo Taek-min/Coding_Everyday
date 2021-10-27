@@ -12,7 +12,7 @@ public class Main {
 				line[i] = in.nextInt();
 			}
 			
-			//// 변 딱 하나만 0 체크해도 괜춘함!
+			//// 변 딱 하나만 0 체크해도 괜춘함! :2
 			if(line[0] == 0 && line[1] == 0 && line[2] == 0) break;
 			
 			Arrays.sort(line);	

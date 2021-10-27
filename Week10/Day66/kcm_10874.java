@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String answer = "1 2 3 4 5 1 2 3 4 5";
+		int students = in.nextInt();
+		in.nextLine();
+		for(int i = 0; i < students; i++) {
+			String str = in.nextLine();
+			if(str.equals(answer)) {
+				System.out.println(i +1);
+			}
+		}
+
+	}
+}
