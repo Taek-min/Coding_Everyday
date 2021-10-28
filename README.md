@@ -78,6 +78,7 @@
 [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) |
 [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) |
 [<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) |
+[<sub>![Bronze2]</sub> 자기복제수](https://www.acmicpc.net/problem/2028) |
 
 ## 👨‍💻 스터디원
 <table>
