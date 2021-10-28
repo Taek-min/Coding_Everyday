@@ -1,13 +1,13 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){////시험기간이라 변수명 봐줄게~
+	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);	
 		int T = sc.nextInt();
-		int n[] = new int [T];////ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+		int n[] = new int [T];
 		int m[] = new int [T];
 		int cnt[] = new int [T];
-        int plus;
+		int plus;
 		for(int i = 0 ; i < T ; i++){
 			n[i] = sc.nextInt();
 			m[i] = sc.nextInt();
