@@ -10,7 +10,7 @@ public class Main{
 		for(int i = 0 ; i < testCase ; i++){
 			num = sc.nextInt();
 			strnum = String.valueOf(num);
-			num=num*num;
+			num*=num;
 			squared = String.valueOf(num);
 			if(strnum.equals(squared.substring(squared.length()-strnum.length()))){
 				System.out.println("YES");
