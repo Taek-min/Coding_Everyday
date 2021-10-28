@@ -34,22 +34,22 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) 택민 예은 [가희](Day60/kkh_5618.py) 성수             |
+| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) 택민 예은 [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java)             |
 
 ## [61일차](Day61)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | *[창민](Day61/kcm_10814.java)* *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) *[성수](Day61/ass_10814.java)* | *[창민](Day61/kcm_10814.java)* *[현민](Day51/shm_10814.java)* [가희](Day61/kkh_10814.py) 성수             |
+| [<sub>![Silver5]</sub> 나이순 정렬](https://www.acmicpc.net/problem/10814) | *[창민](Day61/kcm_10814.java)* *[현민](Day61/shm_10814.java)* 택민 예은 [가희](Day61/kkh_10814.py) *[성수](Day61/ass_10814.java)* | *[창민](Day61/kcm_10814.java)* *[현민](Day51/shm_10814.java)* [가희](Day61/kkh_10814.py) [성수](Day61/ass_10814.java)             |
 
 ## [62일차](Day62)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 택민 [예은](Day62/lye_4732.py) [가희](Day62/kkh_4732.py) *[성수](Day62/ass_4732.java)* | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 예은 [가희](Day62/kkh_4732.py) 성수             |
+| [<sub>![Bronze1]</sub> 조옮김](https://www.acmicpc.net/problem/4732) | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 택민 [예은](Day62/lye_4732.py) [가희](Day62/kkh_4732.py) *[성수](Day62/ass_4732.java)* | [창민](Day62/kcm_4732.java) [현민](Day62/shm_4732.java) 예은 [가희](Day62/kkh_4732.py) [성수](Day62/ass_4732.java)             |
 
 ## [63일차](Day63)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) 택민 [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) 예은 [가희](Day63/kkh_1100.py) 성수             |
+| [<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) 택민 [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) 예은 [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java)             |
