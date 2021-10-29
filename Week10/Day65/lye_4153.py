@@ -13,4 +13,4 @@ while True:
 	else:
 		print("wrong")
 
-## 잘하셔용
+## 잘하셔용 : 마자용
