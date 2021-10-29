@@ -5,7 +5,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		int testCase = in.nextInt();
 		
-		for(int i = 0; i < testCase; i++) {
+		for(int i = 0; i < testCase; i++) { //// 정석이고만
 			int num = in.nextInt();
 			String numStr = Integer.toString(num);
 			String str = Integer.toString(num * num);

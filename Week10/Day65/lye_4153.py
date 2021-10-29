@@ -1,8 +1,7 @@
 import math
 
 while True:
-	## 요긴 왜 띄운거지
-	
+
 	lines = list(map(int, input().split()))
 	lines.sort()
 	if(sum(lines) == 0):
