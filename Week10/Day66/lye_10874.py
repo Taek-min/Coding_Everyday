@@ -6,3 +6,4 @@ for i in range(1, studentCnt+1):
 	if ''.join(list(input().split())) == answer:
 		print(i)
 ## 좀 치네 
+##잘하십니다

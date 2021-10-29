@@ -4,7 +4,7 @@ import java.util.Scanner;
 //// 다음 링크처럼 맥락 바뀔때마다 줄바꿈 해주면 가독성이 좀 더 좋아져요 https://pastebin.com/SxcbfZm7
 public class Main
 {
-	public static void main(String[] args) {////굳굳
+	public static void main(String[] args) {////굳굳  :2
 		Scanner sc = new Scanner(System.in);
 		int students = sc.nextInt();
 		int[] answer= new int[11];

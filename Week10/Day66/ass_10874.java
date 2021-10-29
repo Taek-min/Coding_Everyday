@@ -1,6 +1,6 @@
 import java.util.*;
 
-//// (x%5+1)이 사실 1234512345인걸 깨달았다면 더 간단하게 풀었을듯요
+//// (x%5+1)이 사실 1234512345인걸 깨달았다면 더 간단하게 풀었을듯요 :2
 public class Main{
 	public static void main(String[] args){//// 요란하게 잘풀었네~ 
 		Scanner sc = new Scanner(System.in);	
