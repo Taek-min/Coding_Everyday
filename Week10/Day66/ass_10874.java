@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){
+	public static void main(String[] args){//// 요란하게 잘풀었네~ 
 		Scanner sc = new Scanner(System.in);	
 		int students = sc.nextInt();
 		int testPaper[][] = new int[students][10];

@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 자기복제수](https://www.acmicpc.net/problem/2028) | 창민 현민 택민 예은 가희 [성수](Day67/ass_2028.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 자기복제수](https://www.acmicpc.net/problem/2028) | 창민 [현민](Day67/shm_2028.java) 택민 예은 가희 [성수](Day67/ass_2028.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
