@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 다들 비슷하게 풀으셧네요
 		Scanner sc = new Scanner(System.in);
 		
 		String beforeWord = sc.nextLine();

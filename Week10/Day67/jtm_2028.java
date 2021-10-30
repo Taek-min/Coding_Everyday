@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main
 {
-   public static void main(String[] args){
+   public static void main(String[] args){ //// 음.. if 문이 너무 많다
        Scanner sc = new Scanner(System.in);
        int testcase = sc.nextInt();
        

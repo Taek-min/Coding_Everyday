@@ -10,4 +10,5 @@ for i in range(0, caseCnt):
 		print("YES")
 	else:
 		print("NO")
-# 그리워 파이썬....
+# 그리워 파이썬.... 
+# 깔끔/

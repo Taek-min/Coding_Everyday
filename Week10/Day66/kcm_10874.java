@@ -10,7 +10,7 @@ public class Main {
 		for(int i = 0; i < students; i++) {
 			String str = in.nextLine();
 			if(str.equals(answer)) {
-				System.out.println(i +1); //// +1 사이 띄어쓰기!
+				System.out.println(i + 1); //// +1 사이 띄어쓰기!
 			}
 		}
 

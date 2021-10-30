@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){////굳굳  :2 : 33 :4
+	public static void main(String[] args){////굳굳  :2 : 33 :4 :5
 		Scanner sc = new Scanner(System.in);	
 		int testCase = sc.nextInt();
 		int num;
