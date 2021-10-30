@@ -20,13 +20,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | [창민](Day65/kcm_4153.java) [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_4153.java) [성수](Day65/ass_4153.java) | [창민](Day65/kcm_fb_4153.java) 현민 택민 [예은](Day65/lye_4153.py) 가희 성수             |
+| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | [창민](Day65/kcm_4153.java) [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_4153.java) [성수](Day65/ass_4153.java) | [창민](Day65/kcm_fb_4153.java) 현민 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_fb_4153.java) 성수             |
 
 ## [66일차](Day66)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) [택민](Day66/jtm_10874.java) [예은](Day66/lye_10874.py) [가희](Day66/kkh_10874.py) [성수](Day66/ass_10874.java) | 창민 현민 택민 [예은](Day66/lye_10874_fb.py) 가희 성수             |
+| [<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) [택민](Day66/jtm_10874.java) [예은](Day66/lye_10874.py) [가희](Day66/kkh_10874.py) [성수](Day66/ass_10874.java) | 창민 현민 택민 [예은](Day66/lye_10874_fb.py) [가희](Day66/kkh_10874.py) 성수             |
 
 ## [67일차](Day67)
 
