@@ -1,8 +1,6 @@
-package Day69;
-
 import java.util.Scanner;
 
-public class kcm_1225 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String nums[] = in.nextLine().split(" ");		
