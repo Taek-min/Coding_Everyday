@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) | [창민](Day69/kcm_1225.java) [현민](Day69/shm_1225.java) 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) | [창민](Day69/kcm_1225.java) [현민](Day69/shm_1225.java) 택민 예은 가희 [성수](Day69/ass_1225.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
