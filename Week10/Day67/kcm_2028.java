@@ -7,7 +7,7 @@ public class Main {
 		
 		for(int i = 0; i < testCase; i++) { //// 정석이고만
 			int num = in.nextInt();
-			String numStr = Integer.toString(num);
+			String numStr = Integer.toString(num); //굳이 두개를 만드네? 보기 쉬워 ~ 조아 ~
 			String str = Integer.toString(num * num);
 			str = str.substring(str.length() - numStr.length(), str.length());
 			if(str.equals(numStr)) {
