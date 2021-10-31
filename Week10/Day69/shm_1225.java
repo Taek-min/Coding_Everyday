@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 굳굳 다들 비슷하게 풀었네
 		Scanner sc = new Scanner(System.in);
 		String firstNum = sc.next();
 		String secondNum = sc.next();
