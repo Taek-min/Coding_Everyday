@@ -81,6 +81,7 @@
 [<sub>![Bronze2]</sub> 자기복제수](https://www.acmicpc.net/problem/2028) |
 [<sub>![Bronze2]</sub> 카이사르 암호](https://www.acmicpc.net/problem/5598) |
 [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) |
+[<sub>![Bronze2]</sub> 펫](https://www.acmicpc.net/problem/1362) |
 
 ## 👨‍💻 스터디원
 <table>
