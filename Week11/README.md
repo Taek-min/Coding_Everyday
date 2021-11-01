@@ -14,13 +14,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 초6 수학](https://www.acmicpc.net/problem/2702) | [창민](Day71/kcm_2702.java) [현민](Day71/shm_2702.java) [택민](Day71/jtm_2702.java) [예은](Day71/lye_2702.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 초6 수학](https://www.acmicpc.net/problem/2702) | [창민](Day71/kcm_2702.java) [현민](Day71/shm_2702.java) [택민](Day71/jtm_2702.java) [예은](Day71/lye_2702.py) [가희](Day71/kkh_2702.java) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [72일차](Day72)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | 창민 현민 택민 예은 [가희](Day72/kkh_2609.java) 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [73일차](Day73)
 
