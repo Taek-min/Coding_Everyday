@@ -8,7 +8,7 @@ public class Main {
 		while(true) {
 			int o = sc.nextInt();
 			int w = sc.nextInt();
-			boolean die = false;
+			boolean die = false; //생각해보니까 그이 다 불리언이네..?
 			
 			if(o == 0 && w == 0) {
 				break;
@@ -25,13 +25,13 @@ public class Main {
 					w -= weight;
 				}
 				else if(action.equals("#") && weight == 0){
-					if(w <= 0 || die) {
+					if(w <= 0 || die) { //요
 						System.out.printf("%d RIP\n", scenario++);
 					}
-					else if(o * 2 > w && o / 2 < w) {
+					else if(o * 2 > w && o / 2 < w) { //고
 						System.out.printf("%d :-)\n", scenario++);
 					}
-					else {
+					else { //지~~
 						System.out.printf("%d :-(\n", scenario++);
 					}
 					break;
@@ -44,3 +44,4 @@ public class Main {
 		}
 	}
 }
+//잘해~~~~~

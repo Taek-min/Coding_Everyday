@@ -10,7 +10,7 @@ while True:
 		behavior, amount = input().split()
 		
 		if behavior == "#" and amount == "0":
-				break
+				break #이거 탭 하나 더 해도 에러 안나?
 		if nowfit > 0:
 			if behavior == "E":
 				nowfit -= int(amount)
@@ -24,3 +24,5 @@ while True:
 		print(":-)")
 	else:
 		print(":-(")
+
+# 잘해~~

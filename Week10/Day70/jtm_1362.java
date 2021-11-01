@@ -25,7 +25,7 @@ public class Main {
 				}
 				else if(command == '#') {
 					if(dead) {
-						System.out.println(i + " RIP");
+						System.out.println(i + " RIP"); //이게 이렇게 택민이를 힘들게했어?!
 					}
 					else if(properWeight / 2 < weight && weight < properWeight * 2)
 						System.out.println(i + " :-)");
@@ -38,3 +38,4 @@ public class Main {
 		}
 	}
 }
+//조아 잘해~

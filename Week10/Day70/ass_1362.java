@@ -6,8 +6,8 @@ public class Main{
 		int cnt = 1;	
 		
 		while(true){
-			int o = sc.nextInt();
-			int w = sc.nextInt();
+			int o = sc.nextInt(); //심플..
+			int w = sc.nextInt(); //하네..
 			boolean life = true;
 			if(o==0 && w==0){
 				break;
@@ -42,3 +42,4 @@ public class Main{
 		}
 	}
 }
+//조아조아~~

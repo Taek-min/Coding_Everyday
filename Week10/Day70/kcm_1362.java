@@ -39,7 +39,7 @@ public class Main { //// List 잘쓰는 챙뮌이한테 나중에 배워야지
 							result.add(":-(");
 						}
 					}
-					testCase++;
+					testCase++; //이거로 for문 돌리는건 생각 못했네
 					break;
 				}
 			}
@@ -50,4 +50,4 @@ public class Main { //// List 잘쓰는 챙뮌이한테 나중에 배워야지
 		}
 	}
 }
-
+ //잘해~~
