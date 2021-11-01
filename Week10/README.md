@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 펫](https://www.acmicpc.net/problem/1362) | [창민](Day70/kcm_1362.java) [현민](Day70/shm_1362.java) [택민](Day70/jtm_1362.java) 예은 [가희](Day70/kkh_1362.java) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 펫](https://www.acmicpc.net/problem/1362) | [창민](Day70/kcm_1362.java) [현민](Day70/shm_1362.java) [택민](Day70/jtm_1362.java) 예은 [가희](Day70/kkh_1362.java) [성수](Day70/ass_1362.java) | 창민 현민 택민 예은 가희 성수             |
