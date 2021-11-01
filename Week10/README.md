@@ -38,13 +38,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 카이사르 암호](https://www.acmicpc.net/problem/5598) | [창민](Day68/kcm_5598.java) [현민](Day68/shm_5598.java) [택민](Day68/jtm_5598.java) [예은](Day68/lye_5598.py) [가희](Day68/kkh_5598.java) [성수](Day68/ass_5598.java) | [창민](Day68/kcm_5598.java) [현민](Day68/shm_5598.java) [택민](Day68/jtm_5598.java) 예은 [가희](Day68/kkh_5598.java) 성수             |
+| [<sub>![Bronze2]</sub> 카이사르 암호](https://www.acmicpc.net/problem/5598) | [창민](Day68/kcm_5598.java) [현민](Day68/shm_5598.java) [택민](Day68/jtm_5598.java) [예은](Day68/lye_5598.py) [가희](Day68/kkh_5598.java) [성수](Day68/ass_5598.java) | [창민](Day68/kcm_5598.java) [현민](Day68/shm_5598.java) [택민](Day68/jtm_5598.java) 예은 [가희](Day68/kkh_5598.java) [성수](Day68/ass_5598.java)             |
 
 ## [69일차](Day69)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) | [창민](Day69/kcm_1225.java) [현민](Day69/shm_1225.java) [택민](Day69/jtm_1225.java) 예은 [가희](Day69/kkh_1225.java) [성수](Day69/ass_1225.java) | 창민 [현민](Day69/shm_1225.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) | [창민](Day69/kcm_1225.java) [현민](Day69/shm_1225.java) [택민](Day69/jtm_1225.java) 예은 [가희](Day69/kkh_1225.java) [성수](Day69/ass_1225.java) | 창민 [현민](Day69/shm_1225.java) 택민 예은 가희 [성수](Day69/ass_1225.java)             |
 
 ## [70일차](Day70)
 
