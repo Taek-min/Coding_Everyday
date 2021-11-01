@@ -14,13 +14,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 [예은](Day64/lye_11170.py) [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 [예은](Day64/lye_11170.py) [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java)             |
+| [<sub>![Silver5]</sub> 0의 개수](https://www.acmicpc.net/problem/11170) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) [택민](Day64/jtm_11170.java) [예은](Day64/lye_11170.py) [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java) | [창민](Day64/shm_11170.java) [현민](Day64/shm_11170.java) 택민 [예은](Day64/lye_11170.py) [가희](Day64/kkh_11170.py) [성수](Day64/ass_11170.java)             |
 
 ## [65일차](Day65)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | [창민](Day65/kcm_4153.java) [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_4153.java) [성수](Day65/ass_4153.java) | [창민](Day65/kcm_fb_4153.java) [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_fb_4153.java) [성수](Day65/ass_4153.java)             |
+| [<sub>![Bronze3]</sub> 직각삼각형](https://www.acmicpc.net/problem/4153) | [창민](Day65/kcm_4153.java) [현민](Day65/shm_4153.java) [택민](Day65/jtm_4153.java) [예은](Day65/lye_4153.py) [가희](Day65/kkh_4153.java) [성수](Day65/ass_4153.java) | [창민](Day65/kcm_fb_4153.java) [현민](Day65/shm_4153.java) 택민 [예은](Day65/lye_4153.py) [가희](Day65/kkh_fb_4153.java) [성수](Day65/ass_4153.java)             |
 
 ## [66일차](Day66)
 
