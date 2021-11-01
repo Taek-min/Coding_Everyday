@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Main { //// List 잘쓰는 챙뮌이한테 나중에 배워야지 
 	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

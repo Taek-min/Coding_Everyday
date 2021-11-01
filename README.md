@@ -83,6 +83,7 @@
 [<sub>![Bronze2]</sub> 이상한 곱셈](https://www.acmicpc.net/problem/1225) |
 [<sub>![Bronze2]</sub> 펫](https://www.acmicpc.net/problem/1362) |
 [<sub>![Bronze1]</sub> 초6 수학](https://www.acmicpc.net/problem/2702) |
+[<sub>![Silver5]</sub> 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
 
 ## 👨‍💻 스터디원
 <table>

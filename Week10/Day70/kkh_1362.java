@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Main {//// 대단해 엄청나~ 
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
