@@ -11,6 +11,19 @@
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
 # 매일 백준 한문제
+## 밀린 사람
+* 택민
+  - [ ] 60일차 피드백 반영
+  - [ ] 61일차 문제 풀이
+  - [ ] 62일차 문제 풀이
+  - [ ] 63일차 문제 풀이
+  - [ ] 66일차 피드백 반영
+* 예은
+  - [ ] 61일차 문제 풀이
+* 성수
+  - [ ] 66일차 피드백 반영
+  - [ ] 71일차 문제 풀이
+
 ## ✏ 푼 문제들
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
 [<sub>![Bronze3]</sub> 핸드폰요금](https://www.acmicpc.net/problem/1267) |
