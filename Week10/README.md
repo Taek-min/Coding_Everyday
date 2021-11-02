@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) [택민](Day66/jtm_10874.java) [예은](Day66/lye_10874.py) [가희](Day66/kkh_10874.py) [성수](Day66/ass_10874.java) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) 택민 [예은](Day66/lye_10874_fb.py) [가희](Day66/kkh_10874.py) 성수             |
+| [<sub>![Bronze2]</sub> 이교수님의 시험](https://www.acmicpc.net/problem/10874) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) [택민](Day66/jtm_10874.java) [예은](Day66/lye_10874.py) [가희](Day66/kkh_10874.py) [성수](Day66/ass_10874.java) | [창민](Day66/kcm_10874.java) [현민](Day66/shm_10874.java) 택민 [예은](Day66/lye_10874_fb.py) [가희](Day66/kkh_10874.py) [성수](Day66/ass_fb_10874.java)             |
 
 ## [67일차](Day67)
 
