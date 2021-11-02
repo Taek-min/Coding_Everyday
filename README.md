@@ -185,6 +185,5 @@
 
 ### 📌 규칙
 * 2~3시간 이상 충분히 고민했는데도 풀리지 않는다면 반례나 답안 소스를 참고한다.
-* 너무 자주 밀리면 스터디에서 제외된다.
 
 <sub>thanks to [BOJ_Algorithm_Study](https://github.com/Eighteeen/BOJ_Algorithm_Study)</sub>
