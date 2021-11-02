@@ -1,4 +1,4 @@
-def GetGCD(a, b):
+def GetGCD(a, b): ## Oh very nice! 
 	if a % b == 0:
 		return b
 	else:

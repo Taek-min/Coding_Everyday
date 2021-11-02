@@ -6,7 +6,7 @@ public class Main{
 		Scanner sc = new Scanner(System.in);
 		int testcase = sc.nextInt();
 		sc.nextLine();
-		int gcd = 0, lcm = 0; //gcd == 최대 공약수, lcm == 최소 공배수
+		int gcd = 0, lcm = 0; //gcd == 최대 공약수, lcm == 최소 공배수 : 저랑 변수명이 같네요 
 
 		for(int i = 0; i < testcase; i++) {
 			int nums[] = Arrays.stream(sc.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
