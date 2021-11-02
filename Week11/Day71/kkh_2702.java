@@ -9,7 +9,7 @@ public class Main {
 		int flag = 0;
 		
 		for(int i = 0; i < T; i++) {
-			flag = 0;
+			flag = 0; 
 			int num1 = in.nextInt();
 			int num2 = in.nextInt();
 
@@ -27,4 +27,4 @@ public class Main {
 		}
 	}
 }
-//// 잘해잘해~
+//// 잘해잘해~ :2
