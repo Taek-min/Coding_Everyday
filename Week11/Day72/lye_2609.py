@@ -11,6 +11,6 @@ nums = list(map(int, input().split()))
 gcd = GetGCD(max(nums), min(nums))
 print(gcd)
 print(int(nums[0]*nums[1]/gcd))
-#### 짱!
+#### 짱! : 22 
 
 		

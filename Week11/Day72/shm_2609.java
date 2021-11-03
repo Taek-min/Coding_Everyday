@@ -12,7 +12,7 @@ public class Main {
 		}
 		Arrays.sort(num);
 		
-		for(int j = 1; j <= num[0]; j++) { //// 71일차 문제 처럼 역순으로 하면 간결해질거 같아요
+		for(int j = 1; j <= num[0]; j++) { //// 71일차 문제 처럼 역순으로 하면 간결해질거 같아요 : 최소공배수 구하는 과정이라 달라질건 없을 듯 합니당.
 			if(num[0] % j == 0) {
 				for(int k = 1; k <= num[1]; k++) {
 					if(num[1] % k == 0 && j == k) {

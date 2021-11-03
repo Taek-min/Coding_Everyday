@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main{
-	public static void main(String[] args){
+	public static void main(String[] args){//// 변수 생성 횟수를 최대한 줄여봅시당 굳굳 
 		Scanner sc = new Scanner(System.in);
 		int num1Chk;
 		int num2Chk;
