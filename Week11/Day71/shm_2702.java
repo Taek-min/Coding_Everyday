@@ -14,7 +14,7 @@ public class Main {
 			}
 			Arrays.sort(num);
 			
-			for(int j = 1; j <= num[0]; j++) { //// j = num[0] 시작하면 간결해져요
+			for(int j = 1; j <= num[0]; j++) { //// j = num[0] 시작하면 간결해져요  : for(int j = num[0]; 0 < j; j--)이렇게 역순으로 짜면 간결해질거같아용
 				if(num[0] % j == 0) {
 					for(int k = 1; k <= num[1]; k++) {
 						if(num[1] % k == 0 && j == k) {

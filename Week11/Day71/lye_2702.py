@@ -13,5 +13,5 @@ for i in range(0, caseCnt):
 	gcd = GetGCD(max(nums), min(nums))
 	print(int(nums[0]*nums[1]/gcd), gcd)
 
-	## 잘하십니다
+	## 잘하십니다 : 2
 		

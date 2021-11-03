@@ -6,7 +6,7 @@ public class Main{
 		int num1Chk;
 		int num2Chk;
 		int numChange;
-		int num1 = sc.nextInt();
+		int num1 = sc.nextInt(); //// 9번, 11번줄 10, 12번줄 같이 두는게 좋은거 같아요
 		num1Chk = num1;
 		int num2 = sc.nextInt();
 		num2Chk = num2;
