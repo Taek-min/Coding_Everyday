@@ -8,9 +8,9 @@ public class Main{
 		int num2Chk;
 		int numChange;
 		for(int i = 0 ; i < loop ; i++){
-			int num1 = sc.nextInt(); ////의도는 알겠는데 11, 13번줄 12, 14번줄 같이 두는게 보기 좋지않을까요
-			num1Chk = num1;
+			int num1 = sc.nextInt(); ////의도는 알겠는데 11, 13번줄 12, 14번줄 같이 두는게 보기 좋지않을까요	
 			int num2 = sc.nextInt();
+			num1Chk = num1;
 			num2Chk = num2;
 			while(true){
 				if(num2Chk==0){
