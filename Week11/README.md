@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 점수 계산](https://www.acmicpc.net/problem/2822) | 창민 현민 택민 [예은](Day73/lye_2822.py) 가희 [성수](Day73/ass_2822.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 점수 계산](https://www.acmicpc.net/problem/2822) | [창민](Day74/kcm_2822.java) 현민 택민 [예은](Day74/lye_2822.py) [가희](Day74/kkh_2822.java) [성수](Day74/ass_2822.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [75일차](Day75)
 
