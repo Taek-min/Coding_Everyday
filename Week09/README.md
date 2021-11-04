@@ -34,7 +34,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) 택민 [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java)             |
+| [<sub>![Bronze3]</sub> 공약수](https://www.acmicpc.net/problem/5618) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java) | [창민](Day60/kcm_5618.java) [현민](Day60/shm_5618.java) [택민](Day60/jtm_5618.java) [예은](Day60/lye_5618.py) [가희](Day60/kkh_5618.py) [성수](Day60/ass_5618.java)             |
 
 ## [61일차](Day61)
 
