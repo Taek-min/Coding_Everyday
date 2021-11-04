@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day73/kcm_3058.java) [현민](Day73/shm_3058.java) [택민](Day73/jtm_3058.java) [예은](Day73/lye_3058.py) [가희](Day73/kkh_fb_3058.java) [성수](Day73/ass_3058.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) | [창민](Day73/kcm_3058.java) [현민](Day73/shm_3058.java) [택민](Day73/jtm_3058.java) [예은](Day73/lye_3058.py) [가희](Day73/kkh_3058.java) [성수](Day73/ass_3058.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [74일차](Day74)
 

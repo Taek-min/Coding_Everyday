@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int loop = sc.nextInt();
-		int array[] = new int[7]; //// int array[]같이 C 스타일로 배열 선언하기보다는 int[] array처럼 선언하는게 국룰
+		int array[] = new int[7]; //// int array[]같이 C 스타일로 배열 선언하기보다는 int[] array처럼 선언하는게 국룰 // 이건 몰랐네..
 		
 		for (int i = 0; i < loop; i++) {
 			int sum = 0;
