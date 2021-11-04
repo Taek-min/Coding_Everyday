@@ -17,7 +17,7 @@ public class Main{
 					if(min > nums[k]) min = nums[k];
 					add += nums[k];
 				}
-				////이거 for문 끝나고 출력해줘도 되는거 아닌교?
+				////이거 for문 끝나고 출력해줘도 되는거 아닌교? :2
 				if(k==6) System.out.printf("%d %d\n",add, min);
 			}
 		}
