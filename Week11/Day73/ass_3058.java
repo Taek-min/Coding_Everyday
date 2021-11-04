@@ -1,5 +1,8 @@
 import java.util.*;
 
+//// for과 ( 사이에 띄어쓰기를 하나 한다던지,
+//// 맥락이 바뀔때마다 줄바꿈을 하는 국룰(자바 코딩 컨벤션 가이드)이 있습니다. 깔끔한 코드를 위해 되도록 준수하는걸 권장해요
+//// 국룰대로 바꾼 코드 예 => https://pastebin.com/AXYjLGEY
 public class Main{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
@@ -8,7 +11,7 @@ public class Main{
 		for(int i = 0 ; i < loop ; i++){
 			int min = 100;
 			int add = 0;
-			for(int k = 0 ; k < 7 ; k++){
+			for(int k = 0 ; k < 7 ; k++){ //// i, j, k 순으로 쓰는게 국룰
 				nums[k] = sc.nextInt();
 				if(nums[k]%2==0){
 					if(min > nums[k]) min = nums[k];
