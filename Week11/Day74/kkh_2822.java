@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) {////엄청 깔꼼해~ : 2 : 3
+	public static void main(String[] args) {////엄청 깔꼼해~ : 2 : 3 : 4
 		Scanner in = new Scanner(System.in);
 
 		Integer[] point = new Integer[8];

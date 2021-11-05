@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) {//// 다들 비슷하게 풀었네 : 2
+	public static void main(String[] args) {//// 다들 비슷하게 풀었네 : 2 : 3
 		Scanner sc = new Scanner(System.in);
 		int[] score = new int[8];
 		int[] min = new int[3];

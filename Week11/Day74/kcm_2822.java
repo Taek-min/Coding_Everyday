@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) { ////잘해~~ : 2
+	public static void main(String[] args) { ////잘해~~ : 2 : 3
 		Scanner in = new Scanner(System.in);
 		Integer nums[] = new Integer[8];
 		Integer num[] = new Integer[nums.length];
