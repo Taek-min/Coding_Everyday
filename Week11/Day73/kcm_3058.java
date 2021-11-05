@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //// 깔끔 :22정석이네요 :2 : 3 왜 나랑 같아 
+//// 굳
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

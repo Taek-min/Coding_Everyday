@@ -52,4 +52,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) 택민 [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java)             |
+| [<sub>![Bronze2]</sub> 하얀 칸](https://www.acmicpc.net/problem/1100) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) [택민](Day63/jtm_1100.java) [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java) | [창민](Day63/kcm_1100.java) [현민](Day63/shm_1100.java) [예은](Day63/lye_1100.py) [가희](Day63/kkh_1100.py) [성수](Day63/ass_1100.java)             |

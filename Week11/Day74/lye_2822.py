@@ -11,4 +11,4 @@ for n in range(5):
 top5.sort()
 print(sumTop)
 print(' '.join(map(str,top5)))
-## 역시 잘해 ~! :2
+## 역시 잘해 ~! :2 : 3
