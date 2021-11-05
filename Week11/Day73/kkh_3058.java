@@ -1,6 +1,6 @@
 import java.util.*;
 
-//// 깔끔 :22 정석이네요 :3
+//// 깔끔 :22 정석이네요 :3 : 4
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

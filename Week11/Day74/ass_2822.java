@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{
+public class Main{ //// 잘푸네 성수 
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		int total = 0;

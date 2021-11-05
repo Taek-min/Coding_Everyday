@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-class Main{   //// 함수 러버 굿 //다대내
+class Main{   //// 함수 러버 굿 //다대내 : 대박이야~ 
     public int findMinOfEven(int []testData){
       int min = 0;
       Arrays.sort(testData);
