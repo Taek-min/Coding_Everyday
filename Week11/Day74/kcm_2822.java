@@ -8,11 +8,13 @@ public class Main {
 		Integer num[] = new Integer[nums.length];
 		Integer highIndex[] = new Integer[5];
 		int sum = 0;
+
 		for(int i = 0; i < nums.length; i++) {
 			nums[i] = Integer.parseInt(in.nextLine());
 			num[i] = nums[i];
 		}
 		Arrays.sort(num);
+		
 		for(int j = 0; j < 5; j++) {
 			sum += num[num.length - (j + 1)];
 			highIndex[j] = Arrays.asList(nums).indexOf(num[num.length - (j + 1)]);
