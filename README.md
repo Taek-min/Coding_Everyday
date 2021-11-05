@@ -94,6 +94,8 @@
 [<sub>![Bronze3]</sub> 짝수를 찾아라](https://www.acmicpc.net/problem/3058) |
 [<sub>![Silver5]</sub> 점수 계산](https://www.acmicpc.net/problem/2822) |
 [<sub>![Silver5]</sub> 성적 통계](https://www.acmicpc.net/problem/5800) |
+[<sub>![Bronze3]</sub> 영수증](https://www.acmicpc.net/problem/5565) |
+
 
 ## 👨‍💻 스터디원
 <table>
