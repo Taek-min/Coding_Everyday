@@ -8,18 +8,19 @@ public class Main{
 		Scanner sc = new Scanner(System.in);
 		int loop = sc.nextInt();
 		int nums[] = new int [7];
-		for(int i = 0 ; i < loop ; i++){
+		
+		for (int i = 0; i < loop; i++){
 			int min = 100;
 			int add = 0;
-			for(int k = 0 ; k < 7 ; k++){ //// i, j, k 순으로 쓰는게 국룰
-				nums[k] = sc.nextInt();
-				if(nums[k]%2==0){
-					if(min > nums[k]) min = nums[k];
-					add += nums[k];
+			for (int j = 0; j < 7; j++){ //// i, j, k 순으로 쓰는게 국룰
+				nums[j] = sc.nextInt();
+				if (nums[j]%2==0){
+					if(min > nums[j]) min = nums[j];
+					add += nums[j];
 				}
 				////이거 for문 끝나고 출력해줘도 되는거 아닌교? :2 :3 : 4
-				if(k==6) System.out.printf("%d %d\n",add, min);
 			}
+			System.out.printf("%d %d\n",add, min);
 		}
 	}
 }
