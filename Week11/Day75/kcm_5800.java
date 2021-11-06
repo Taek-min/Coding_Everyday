@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 나이쑤 
 		Scanner in = new Scanner(System.in);
 		int classes = in.nextInt();
 		in.nextLine();

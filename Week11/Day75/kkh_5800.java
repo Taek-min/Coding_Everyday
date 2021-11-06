@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) { ////따라하지마세요
+	public static void main(String[] args) { ////따라하지마세요 : ㅋㅋ 
 		Scanner in = new Scanner(System.in);
 		int classes = in.nextInt();
 		in.nextLine();

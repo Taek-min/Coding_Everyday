@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) { //// 굳굳
+	public static void main(String[] args) { //// 굳굳 : 2
 		Scanner sc = new Scanner(System.in);
 		int group = sc.nextInt();
 		for (int i = 1; i <= group; i++) {
