@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 영수증](https://www.acmicpc.net/problem/5565) | [창민](Day76/kcm_5565.java) [현민](Day76/shm_5565.java) 택민 예은 가희 [성수](Day76/ass_5565.java) | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 영수증](https://www.acmicpc.net/problem/5565) | [창민](Day76/kcm_5565.java) [현민](Day76/shm_5565.java) 택민 예은 [성수](Day76/kkh_5565.java) [성수](Day76/ass_5565.java) | 창민 현민 택민 예은 가희 성수             |
 
 ## [77일차](Day77)
 
