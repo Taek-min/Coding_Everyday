@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) { //// 나이쑤 
+	public static void main(String[] args) { //// 나이쑤 :2 너가 따라한거야!!!(내꺼에 적은게 창민이가 맞나..?)
 		Scanner in = new Scanner(System.in);
 		int classes = in.nextInt();
 		in.nextLine();

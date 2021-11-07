@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) { ////굳 굳 굳 b
+	public static void main(String[] args) { ////굳 굳 굳 b :2
 		Scanner sc = new Scanner(System.in);
 		int testCase = sc.nextInt();
 		
