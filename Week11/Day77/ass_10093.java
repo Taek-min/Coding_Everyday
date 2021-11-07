@@ -18,6 +18,6 @@ public class Main{
             }
         }else if(a==b) {
 		    System.out.println(0);
-	    }
+        }
 	}
 }
