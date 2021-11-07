@@ -6,10 +6,10 @@ public class Main{
 		long a = sc.nextLong();
 		long b = sc.nextLong();
 		
-		if(a>b) {
+        if(a>b) {
             System.out.println(a-b-1);
             for(long i = b+1 ; i < a ; i++) {
-               System.out.printf("%d ",i);
+                System.out.printf("%d ",i);
             }
         }else if(b>a) {
             System.out.println(b-a-1);
