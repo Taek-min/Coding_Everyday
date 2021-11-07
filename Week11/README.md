@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 숫자](https://www.acmicpc.net/problem/10093) | [창민](Day77/kcm_10093.java) 현민 택민 예은 [가희](Day77/kkh_10093.java) 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 숫자](https://www.acmicpc.net/problem/10093) | [창민](Day77/kcm_10093.java) 현민 택민 예은 [가희](Day77/kkh_10093.java) [성수](Day77/ass_10093.java) | 창민 현민 택민 예은 가희 성수             |
