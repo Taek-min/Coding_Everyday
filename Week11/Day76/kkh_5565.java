@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { //// 다들 다 똑같이 풀었네
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int price = in.nextInt();
