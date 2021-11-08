@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 음청 잘해 ~ 
 		Scanner in = new Scanner(System.in);
 
 		long num[] = Arrays.stream(in.nextLine().split(" ")).mapToLong(Long::parseLong).toArray();

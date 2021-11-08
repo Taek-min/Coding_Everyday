@@ -1,0 +1,17 @@
+import java.util.*;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int handleNum = sc.nextInt();
+		int order = sc.nextInt();
+		sc.nextLine();
+		String[] Id = new String[handleNum];
+		
+		for(int i = 0; i < handleNum; i++) {
+			Id[i] = sc.nextLine();
+		}
+		Arrays.sort(Id);
+		System.out.println(Id[order - 1]);
+	}
+}
