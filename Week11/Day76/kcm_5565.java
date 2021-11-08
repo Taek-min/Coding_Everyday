@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) { // 꼴깜 
+	public static void main(String[] args) { // 꼴깜 : 2
 		Scanner in = new Scanner(System.in);
 		int totalMoney = in.nextInt();
 		

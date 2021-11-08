@@ -4,3 +4,4 @@ for i in range(handleCnt):
 	handleList.append(input())
 handleList.sort()
 print(handleList[findNum-1])
+## 짱

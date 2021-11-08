@@ -9,4 +9,4 @@ else:
 	
 for i in range(start+1, end):
 	print(i, end=' ')
-## 부침개 실패 ㅎㅇ #ㅎㅇ ㅎㅋ :2
+## 부침개 실패 ㅎㅇ #ㅎㅇ ㅎㅋ :2 : 3
