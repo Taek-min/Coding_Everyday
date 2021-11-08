@@ -10,11 +10,11 @@
 [Silver2]: https://user-images.githubusercontent.com/33937365/126247622-a83b30a9-6618-4593-b775-6f6730afd3f6.png
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
-## [일차](Day)
+## [78일차](Day78)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze1]</sub> 너의 핸들은](https://www.acmicpc.net/problem/15819) | 창민 현민 택민 [예은](Day78/lye_15819.py) 가희 성수 | 창민 현민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
