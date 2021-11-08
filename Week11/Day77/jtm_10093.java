@@ -8,11 +8,15 @@ public class Main {
 		
 		if(b > a) { 
 			System.out.println(b-a-1); 
-			for(long i = a + 1; i < b; i++) System.out.print(i + " "); 
+			for(long i = a + 1; i < b; i++){
+				System.out.print(i + " "); 
+			}
 		} 
 		else if(a > b) { 
 			System.out.println(a-b-1); 
-			for(long i = b + 1; i < a; i++) System.out.print(i + " "); 
+			for(long i = b + 1; i < a; i++){
+				System.out.print(i + " "); 
+			} 
 		} 
 		else System.out.print(0); 
 	}
