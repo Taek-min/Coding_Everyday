@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //나랑 또까터네~?
 		Scanner sc = new Scanner(System.in);
 		long[] num = new long[2];
 		

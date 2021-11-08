@@ -38,13 +38,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 성적 통계](https://www.acmicpc.net/problem/5800) | [창민](Day75/kcm_5800.java) [현민](Day75/shm_5800.java) [택민](Day75/jtm_5800.java) [예은](Day75/lye_5800.py) [가희](Day75/kkh_5800.java) [성수](Day75/ass_5800.java) | [창민](Day75/kcm_5800.java) [현민](Day75/shm_5800.java) 택민 [예은](Day75/lye_5800.py) 가희 성수             |
+| [<sub>![Silver5]</sub> 성적 통계](https://www.acmicpc.net/problem/5800) | [창민](Day75/kcm_5800.java) [현민](Day75/shm_5800.java) [택민](Day75/jtm_5800.java) [예은](Day75/lye_5800.py) [가희](Day75/kkh_5800.java) [성수](Day75/ass_5800.java) | [창민](Day75/kcm_5800.java) [현민](Day75/shm_5800.java) 택민 [예은](Day75/lye_5800.py) [가희](Day75/kkh_5800.java) 성수             |
 
 ## [76일차](Day76)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 영수증](https://www.acmicpc.net/problem/5565) | [창민](Day76/kcm_5565.java) [현민](Day76/shm_5565.java) 택민 [예은](Day76/lye_5565.py) [가희](Day76/kkh_5565.java) [성수](Day76/ass_5565.java) | 창민 [현민](Day76/shm_5565.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 영수증](https://www.acmicpc.net/problem/5565) | [창민](Day76/kcm_5565.java) [현민](Day76/shm_5565.java) 택민 [예은](Day76/lye_5565.py) [가희](Day76/kkh_5565.java) [성수](Day76/ass_5565.java) | 창민 [현민](Day76/shm_5565.java) 택민 예은 [가희](Day76/kkh_5565.java) 성수             |
 
 ## [77일차](Day77)
 

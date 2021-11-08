@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) { //// 너무 깔꼼하고 
+	public static void main(String[] args) { //// 너무 깔꼼하고 :2
 		Scanner in = new Scanner(System.in);
 		long nums[] = Arrays.stream(in.nextLine().split(" ")).mapToLong(Long::parseLong).toArray();
 		
