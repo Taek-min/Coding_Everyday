@@ -1,5 +1,5 @@
 import java.util.*;
-//// 다 똑같이 풀었네
+//// 다 똑같이 풀었네 :2
 public class Main {
 
 	public static void main(String[] args) {
