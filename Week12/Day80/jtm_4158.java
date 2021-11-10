@@ -1,15 +1,13 @@
-package algorithm;
-
 import java.util.*;
 import java.io.*;
 
-public class Main2{
+public class Main{
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n;
 		int m;
-		HashSet<Integer> set;
 		int cnt;
+		HashSet<Integer> set;
 		
 		while(true) {
 			StringTokenizer st = new StringTokenizer(br.readLine());
