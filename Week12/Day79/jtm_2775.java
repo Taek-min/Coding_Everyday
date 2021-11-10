@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { ////이걸 재귀함수로 풀엇네
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int test = sc.nextInt();

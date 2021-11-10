@@ -1,5 +1,5 @@
 import java.util.*;
-//// 굳
+//// 굳 :2
 public class Main{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);

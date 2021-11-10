@@ -12,4 +12,4 @@ for i in range(caseCnt):
 			floorSum += beforeRooms[k]
 			beforeRooms[k] = floorSum
 	print(beforeRooms[roomNum-1])	
-## 굳
+## 굳 :2
