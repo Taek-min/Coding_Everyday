@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { //따라하지 말라구~!!~!!
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int testCase = in.nextInt();
