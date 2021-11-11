@@ -100,6 +100,7 @@
 [<sub>![Bronze1]</sub> 너의 핸들은](https://www.acmicpc.net/problem/15819) |
 [<sub>![Bronze2]</sub> 부녀회장이 될테야](https://www.acmicpc.net/problem/2775) |
 [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) |
+[<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) |
 
 
 ## 👨‍💻 스터디원
