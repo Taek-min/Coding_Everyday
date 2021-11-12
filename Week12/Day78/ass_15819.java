@@ -6,7 +6,7 @@ public class Main {
 		int handle = sc.nextInt();
 		int handleIndex = sc.nextInt();      
 		String handlename[] = new String[handle];
-        sc.nextLine();
+		sc.nextLine();
 		for (int i = 0; i < handle; i++) {
 			handlename[i] = sc.nextLine();
 		}
