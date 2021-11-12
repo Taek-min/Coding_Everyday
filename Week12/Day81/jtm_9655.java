@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { //// 이지했습니다
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int stone = sc.nextInt();
