@@ -102,6 +102,7 @@
 [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) |
 [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) |
 [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) |
+[<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) |
 
 
 ## 👨‍💻 스터디원
