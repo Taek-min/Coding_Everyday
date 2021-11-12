@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | 창민 현민 택민 예은 가희 성수 | 창민 현민 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | 창민 현민 택민 예은 가희 [성수](Day83/ass_2857.java)| 창민 현민 택민 예은 가희 성수             |
 
 ## [84일차](Day84)
 
