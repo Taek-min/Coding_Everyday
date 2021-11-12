@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{ //// 어케 풀었어
+public class Main{ //// 어케 풀었어 : 진짜 ArrayList 너무 화나네..
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int n , m, cnt;

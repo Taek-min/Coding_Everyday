@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) | [창민](Day80/kcm_4158.java) 현민 [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) 성수 | [창민](Day80/kcm_4158.java) 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) | [창민](Day80/kcm_4158.java) 현민 [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) 성수 | [창민](Day80/kcm_4158.java) 현민 택민 예은 [가희](Day80/kkh_4158.java) 성수             |
 
 ## [81일차](Day81)
 
