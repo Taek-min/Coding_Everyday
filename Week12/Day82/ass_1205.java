@@ -7,7 +7,7 @@ public class Main{ ////굳굳굳 b
         int taesuPoint = sc.nextInt();
         int rankNum = sc.nextInt();
         int rankPoint[] = new int[N];
-        int taesuRank=1;
+        int taesuRank=1; //// 이런것들 띄어쓰기 taesuRank = 1; 이런식으로 해주면 가독성이 오를거같아요
         int cnt = 0;
        
 
@@ -30,7 +30,7 @@ public class Main{ ////굳굳굳 b
             cnt++;
         }
 
-        if(cnt==rankNum){
+        if(cnt==rankNum){  
             System.out.println("-1");
             return;
         }

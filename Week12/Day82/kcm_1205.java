@@ -36,3 +36,4 @@ public class Main {
 		System.out.println(rank);
 	}
 }
+//// 이제 진짜 코딩 잘하네
