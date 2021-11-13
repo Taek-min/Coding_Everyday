@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) 현민 [택민](Day82/jtm_1205.java) 예은 가희 [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) 현민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) 현민 [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) 현민 택민 예은 가희 성수             |
 
 ## [83일차](Day83)
 
