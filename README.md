@@ -103,7 +103,7 @@
 [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) |
 [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) |
 [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) |
-
+[<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) |
 
 ## 👨‍💻 스터디원
 <table>
