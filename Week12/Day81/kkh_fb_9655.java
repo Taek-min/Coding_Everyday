@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Main {//// 4번줄 지워주세요
-
 	public static void main(String[] args) { //// 따라하지마 
 		Scanner in = new Scanner(System.in);
 		
