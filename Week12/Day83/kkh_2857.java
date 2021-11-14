@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 잘해잘해
 		Scanner in = new Scanner(System.in);
 		String result = "";
 		for(int i = 0; i < 5; i++) {

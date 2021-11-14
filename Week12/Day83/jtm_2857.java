@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) {  ////굳굳
 		Scanner sc = new Scanner(System.in);
         String agent[] = new String[5];
         int cnt = 0;

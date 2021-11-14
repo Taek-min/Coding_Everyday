@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //// 깔끔하게 잘풀었다
         Scanner sc = new Scanner(System.in);
         String name[] = new String[5];
         boolean check = true;
