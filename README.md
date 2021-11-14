@@ -129,6 +129,13 @@
         강창민
       </a>
     <td align="center">
+      <a href="https://github.com/Seohyunmin42">
+        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
+        <br/>
+        서현민
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Taek-min">
         <img src="https://avatars.githubusercontent.com/u/79956027?v=4" width="100px;" alt=""/>
         <br/>
@@ -163,6 +170,11 @@
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ckdals6932">
       </a>
     <td align="center">
+      <a href="https://solved.ac/tjgusals42">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tjgusals42">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://solved.ac/jtm1124">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jtm1124">
       </a>
@@ -180,25 +192,6 @@
     <td align="center">
       <a href="https://solved.ac/saop1739">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=saop1739">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Seohyunmin42">
-        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
-        <br/>
-        서현민
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/tjgusals42">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tjgusals42">
       </a>
     </td>
   </tr>
