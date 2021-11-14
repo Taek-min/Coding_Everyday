@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		int N = in.nextInt(); //결제할 인원
-		int M = in.nextInt(); //
-		int K = in.nextInt(); //점원과의 거리
+		int N = in.nextInt(); 
+		int M = in.nextInt(); 
+		int K = in.nextInt(); 
 		int[][] A = new int[N][M];
 		int[] distance = new int[N];
 		
