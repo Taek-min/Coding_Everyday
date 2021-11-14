@@ -115,6 +115,7 @@
 [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) |
 [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) |
 [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) |
+[<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) |
 
 ## 👨‍💻 스터디원
 <table>
