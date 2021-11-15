@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_9655.java) [성수](Day81/ass_9655.java) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) 예은 [가희](Day81/kkh_fb_9655.java) 성수             |
+| [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_9655.java) [성수](Day81/ass_9655.java) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_fb_9655.java) 성수             |
 
 ## [82일차](Day82)
 
