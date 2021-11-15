@@ -24,6 +24,6 @@ public class Main {
         });
 
         System.out.println(name[num-1][0]);
-		System.out.println(name[0][0]);
+        System.out.println(name[0][0]);
     }
 }
