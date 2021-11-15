@@ -14,13 +14,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 너의 핸들은](https://www.acmicpc.net/problem/15819) | [창민](Day78/kcm_15819.java) [현민](Day78/shm_15819.java) [택민](Day78/jtm_15819.java) [예은](Day78/lye_15819.py) [가희](Day78/kkh_15819.java) [성수](Day78/ass_15819.java) | [창민](Day78/kcm_15819.java) [현민](Day78/shm_15819.java) [택민](Day78/jtm_15819.java) 예은 [가희](Day78/kkh_15819.java) [성수](Day78/ass_15819.java)             |
+| [<sub>![Bronze1]</sub> 너의 핸들은](https://www.acmicpc.net/problem/15819) | [창민](Day78/kcm_15819.java) [현민](Day78/shm_15819.java) [택민](Day78/jtm_15819.java) [예은](Day78/lye_15819.py) [가희](Day78/kkh_15819.java) [성수](Day78/ass_15819.java) | [창민](Day78/kcm_15819.java) [현민](Day78/shm_15819.java) [택민](Day78/jtm_15819.java) [예은](Day78/lye_15819.py) [가희](Day78/kkh_15819.java) [성수](Day78/ass_15819.java)             |
 
 ## [79일차](Day79)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [창민](Day79/kcm_2775.java) [현민](Day79/shm_2775.java) [택민](Day79/jtm_2775.java) [예은](Day79/lye_2775.py) [가희](Day79/kkh_2775.java) [성수](Day79/ass_2775.java) | [창민](Day79/kcm_2775.java) 현민 [택민](Day79/jtm_2775.java) 예은 [가희](Day79/kkh_2775.java) [성수](Day79/ass_2775.java)             |
+| [<sub>![Bronze2]</sub> 부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [창민](Day79/kcm_2775.java) [현민](Day79/shm_2775.java) [택민](Day79/jtm_2775.java) [예은](Day79/lye_2775.py) [가희](Day79/kkh_2775.java) [성수](Day79/ass_2775.java) | [창민](Day79/kcm_2775.java) 현민 [택민](Day79/jtm_2775.java) [예은](Day79/lye_2775.py) [가희](Day79/kkh_2775.java) [성수](Day79/ass_2775.java)             |
 
 ## [80일차](Day80)
 
