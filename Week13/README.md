@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) | 창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) | 창민 택민 [예은](Day85/lye_5635.py) 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
