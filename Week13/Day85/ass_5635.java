@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) { //성수 : 오버라이딩 재밋네요 하나 배웠어요!
+    public static void main(String[] args) { //성수 : 오버라이딩 재밋네요 하나 배웠어요! :2
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         String name[][] = new String[num][4];
