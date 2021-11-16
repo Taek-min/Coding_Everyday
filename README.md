@@ -114,6 +114,7 @@
 [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) |
 [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) |
 [<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) |
+[<sub>![Bronze3]</sub> Stand on Zanzibar](https://www.acmicpc.net/problem/11636) |
 
 ## 👨‍💻 스터디원
 <table>
