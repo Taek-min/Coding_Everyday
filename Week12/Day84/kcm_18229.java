@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { // 이야ㅏ~ for문 두개로 푸네? 잘하네~
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
 		int m = in.nextInt();
