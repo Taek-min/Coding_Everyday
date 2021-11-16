@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) [성수](Day84/ass_18229.java) | 창민 택민 예은 [가희](Day84/kkh_18229.java) 성수             |
+| [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) [성수](Day84/ass_18229.java) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) 성수             |
