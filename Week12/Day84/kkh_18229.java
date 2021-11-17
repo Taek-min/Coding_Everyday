@@ -9,7 +9,7 @@ public class Main {
 		int[][] A = new int[N][M];
 		int[] distance = new int[N];
 		
-		for(int i = 0; i < N; i++) {
+		for(int i = 0; i < N; i++) { 
 			for(int j = 0; j < M; j++) {
 				A[i][j] = in.nextInt();
 			}

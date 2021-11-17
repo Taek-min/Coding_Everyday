@@ -8,7 +8,7 @@ public class Main {
 			if(in.nextLine().contains("FBI")) {
 				result += (i + 1) + " ";
 			}
-		}
+		} 
 		
 		if(result.equals("")) {
 			System.out.println("HE GOT AWAY!");

@@ -8,7 +8,7 @@ public class Main {
 		
 		for(int i = 0; i < T; i++) {
 			int turtles = 1;
-			int newTurtles = 0;
+			int newTurtles = 0; 
 			while(true) {
 				int nextTurtles = in.nextInt();
 				if(nextTurtles == 0) {
