@@ -13,8 +13,8 @@ public class Main {
 			int turtle[] =  Arrays.stream(in.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
 			for(int j = 0; j < turtle.length; j++) {
-				if(turtle[j]  > temp * 2 && temp != 0) {
-					incomes += turtle[j] - (temp * 2);
+				if(turtle[j]  > tmp * 2 && tmp != 0) {
+					incomes += turtle[j] - (tmp * 2);
 				}
 				tmp = turtle[j];
 			}
