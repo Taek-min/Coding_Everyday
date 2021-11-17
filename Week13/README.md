@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) | [창민](Day85/kcm_5635.java) *[택민](Day85/jtm_5635.java)* [예은](Day85/lye_5635.py) [가희](Day85/kkh_5635.java) *[성수](Day85/ass_5635.java)* | 창민 [택민](Day85/jtm_5635.java) 예은 [가희](Day85/kkh_5635.java) 성수             |
+| [<sub>![Silver5]</sub> 생일](https://www.acmicpc.net/problem/5635) | [창민](Day85/kcm_5635.java) *[택민](Day85/jtm_5635.java)* [예은](Day85/lye_5635.py) [가희](Day85/kkh_5635.java) *[성수](Day85/ass_5635.java)* | [창민](Day85/kcm_5635.java) [택민](Day85/jtm_5635.java) 예은 [가희](Day85/kkh_5635.java) 성수             |
 
 ## [86일차](Day86)
 
@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | 창민 [택민](Day86/jtm_2522.java) [가희](Day86/kkh_2522.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | [창민](Day86/kcm_2522.java) [택민](Day86/jtm_2522.java) [가희](Day86/kkh_2522.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
