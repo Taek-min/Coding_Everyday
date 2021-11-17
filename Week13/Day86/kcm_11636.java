@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+//// 변수명까지 똑같냐고 왜
 public class Main {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

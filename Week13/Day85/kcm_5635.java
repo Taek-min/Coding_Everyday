@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) { //// 반성합니다 :잘해썽요~
+	public static void main(String[] args) { //// 반성합니다 :잘해썽요~ : 이런구현도 뭐 멋있어
 		Scanner in = new Scanner(System.in);
 		int old = 2011;
 		int oldIndex = 0;

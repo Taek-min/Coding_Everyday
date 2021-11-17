@@ -12,4 +12,4 @@ for i in range(memCnt):
 	
 print(nameList[dateList.index(max(dateList))])
 print(nameList[dateList.index(min(dateList))])
-## 잘해잘해~ :2 깔끔하다
+## 잘해잘해~ :2 깔끔하다 : 역시 잘해
