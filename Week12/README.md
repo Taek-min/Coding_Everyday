@@ -38,13 +38,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) 택민 예은 [가희](Day82/kkh_1205.java) 성수             |
+| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) 성수             |
 
 ## [83일차](Day83)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java) [예은](Day83/lye_2857.py) [가희](Day83/kkh_2857.java) [성수](Day83/ass_2857.java)| [창민](Day83/kcm_2857.java) 택민 예은 [가희](Day83/kkh_2857.java) 성수             |
+| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java) [예은](Day83/lye_2857.py) [가희](Day83/kkh_2857.java) [성수](Day83/ass_2857.java)| [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java)  예은 [가희](Day83/kkh_2857.java) 성수             |
 
 ## [84일차](Day84)
 
