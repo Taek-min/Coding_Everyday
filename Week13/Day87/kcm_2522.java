@@ -1,6 +1,6 @@
 import java.util.Scanner;
-
-public class Main {
+//헿 for 안에 for 두개쓰는게 싫었어 난 ,, 고생했네~~
+public class Main { 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int star = in.nextInt();

@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> Stand on Zanzibar](https://www.acmicpc.net/problem/11636) | [창민](Day86/kcm_11636.java) [택민](Day86/jtm_11636.java) [가희](Day86/kkh_11636.java) 성수 | [창민](Day86/kcm_11636.java) 택민 가희 성수             |
+| [<sub>![Bronze3]</sub> Stand on Zanzibar](https://www.acmicpc.net/problem/11636) | [창민](Day86/kcm_11636.java) [택민](Day86/jtm_11636.java) [가희](Day86/kkh_11636.java) 성수 | [창민](Day86/kcm_11636.java) 택민 [가희](Day86/kkh_11636.java) 성수             |
 
 ## [87일차](Day87)
 
@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) | 창민 택민 가희 성수 | 창민 택민 가희 성수             |
+| [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) | 창민 택민 [가희](Day89/kkh_2204.java) 성수 | 창민 택민 가희 성수             |
 
 ## [일차](Day)
 
