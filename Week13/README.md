@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | [창민](Day86/kcm_2522.java) [택민](Day86/jtm_2522.java) [가희](Day86/kkh_2522.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | [창민](Day87/kcm_2522.java) [택민](Day87/jtm_2522.java) [가희](Day87/kkh_2522.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
