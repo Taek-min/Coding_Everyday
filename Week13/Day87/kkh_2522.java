@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main { //// 왤케 잘해..
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int N = in.nextInt();
