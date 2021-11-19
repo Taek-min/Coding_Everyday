@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) | [창민](Day80/kcm_4158.java) [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) *[성수](Day80/ass_4158.java)* | [창민](Day80/kcm_4158.java) [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) 성수             |
+| [<sub>![Silver5]</sub> CD](https://www.acmicpc.net/problem/4158) | [창민](Day80/kcm_4158.java) [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) *[성수](Day80/ass_4158.java)* | [창민](Day80/kcm_4158.java) [택민](Day80/jtm_4158.java) 예은 [가희](Day80/kkh_4158.java) *[성수](Day80/ass_4158.java)*             |
 
 ## [81일차](Day81)
 
@@ -44,10 +44,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java) [예은](Day83/lye_2857.py) [가희](Day83/kkh_2857.java) [성수](Day83/ass_2857.java)| [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java)  예은 [가희](Day83/kkh_2857.java) 성수             |
+| [<sub>![Bronze2]</sub> FBI](https://www.acmicpc.net/problem/2857) | [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java) [예은](Day83/lye_2857.py) [가희](Day83/kkh_2857.java) [성수](Day83/ass_2857.java)| [창민](Day83/kcm_2857.java) [택민](Day83/jtm_2857.java)  예은 [가희](Day83/kkh_2857.java) [성수](Day83/ass_2857.java)             |
 
 ## [84일차](Day84)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) [성수](Day84/ass_18229.java) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) 성수             |
+| [<sub>![Bronze1]</sub> 내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) [성수](Day84/ass_18229.java) | [창민](Day84/kcm_18229.java) 택민 예은 [가희](Day84/kkh_18229.java) [성수](Day84/ass_18229.java)             |
