@@ -1,9 +1,9 @@
 import java.util.*;
 
 public class Main{ ////굳굳굳 b :2
-	public static void main(String[] args){
-		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt();
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int N = sc.nextInt();
         int taesuPoint = sc.nextInt();
         int rankNum = sc.nextInt();
         int rankPoint[] = new int[N];
