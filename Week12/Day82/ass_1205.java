@@ -34,5 +34,5 @@ public class Main{ ////굳굳굳 b :2
             return;
         }
         System.out.println(taesuRank);
-	}
+    }
 }
