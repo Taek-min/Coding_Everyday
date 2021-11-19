@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> Stand on Zanzibar](https://www.acmicpc.net/problem/11636) | [창민](Day86/kcm_11636.java) [택민](Day86/jtm_11636.java) [가희](Day86/kkh_11636.java) [성수](Day86/ass_11636.java) | [창민](Day86/kcm_11636.java) 택민 [가희](Day86/kkh_11636.java) 성수             |
+| [<sub>![Bronze3]</sub> Stand on Zanzibar](https://www.acmicpc.net/problem/11636) | [창민](Day86/kcm_11636.java) [택민](Day86/jtm_11636.java) [가희](Day86/kkh_11636.java) 성수) | [창민](Day86/kcm_11636.java) 택민 [가희](Day86/kkh_11636.java) 성수             |
 
 ## [87일차](Day87)
 
