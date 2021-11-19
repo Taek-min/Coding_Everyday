@@ -32,13 +32,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_9655.java) [성수](Day81/ass_9655.java) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_fb_9655.java) 성수             |
+| [<sub>![Silver5]</sub> 돌 게임](https://www.acmicpc.net/problem/9655) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_9655.java) [성수](Day81/ass_9655.java) | [창민](Day81/kcm_9655.java) [택민](Day81/jtm_9655.java) [예은](Day81/lye_9655.py) [가희](Day81/kkh_fb_9655.java) [성수](Day81/ass_9655.java)             |
 
 ## [82일차](Day82)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) 성수             |
+| [<sub>![Silver5]</sub> 등수 구하기](https://www.acmicpc.net/problem/1205) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java) | [창민](Day82/kcm_1205.java) [택민](Day82/jtm_1205.java) 예은 [가희](Day82/kkh_1205.java) [성수](Day82/ass_1205.java)             |
 
 ## [83일차](Day83)
 
