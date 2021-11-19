@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
+	public static void main(String[] args) { //// 생각 안난다면서 잘풀어~
 		Scanner in = new Scanner(System.in);
 		long[][] circl = new long[2][3];
 

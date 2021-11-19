@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | [창민](Day87/kcm_2522.java) [택민](Day87/jtm_2522.java) [가희](Day87/kkh_2522.java) [성수](Day87/ass_2522.java) | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) | [창민](Day87/kcm_2522.java) [택민](Day87/jtm_2522.java) [가희](Day87/kkh_2522.java) [성수](Day87/ass_2522.java) | [창민](Day87/kcm_2522.java) 택민 예은 가희 성수             |
 
 ## [88일차](Day88)
 
@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) | 창민 택민 [가희](Day89/kkh_2204.java) [성수](Day89/ass_2204.java) | 창민 택민 가희 성수             |
+| [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) | [창민](Day89/kcm_2204.java) 택민 [가희](Day89/kkh_2204.java) [성수](Day89/ass_2204.java) | 창민 택민 가희 성수             |
 
 ## [일차](Day)
 

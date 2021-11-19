@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { ////잘하네~
         Scanner sc = new Scanner(System.in);
         int target[][] = new int[2][3];
 
