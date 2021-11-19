@@ -7,10 +7,10 @@ public class Main{ ////굳굳굳 b :2
         int taesuPoint = sc.nextInt();
         int rankNum = sc.nextInt();
         int rankPoint[] = new int[N];
+        
         int taesuRank=1; //// 이런것들 띄어쓰기 taesuRank = 1; 이런식으로 해주면 가독성이 오를거같아요
         int cnt = 0;
        
-
         for (int i = 0; i < N; i++){
             rankPoint[i] = sc.nextInt();
         } 
