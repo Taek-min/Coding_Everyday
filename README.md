@@ -118,6 +118,7 @@
 [<sub>![Bronze3]</sub> 별찍기 - 12](https://www.acmicpc.net/problem/2522) |
 [<sub>![Bronze3]</sub> 백발백중하는 명사수](https://www.acmicpc.net/problem/22938) |
 [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |
+[<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) |
 
 ## 👨‍💻 스터디원
 <table>
