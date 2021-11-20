@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 public class Main {
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) throws Exception { //// 요즘 준내 잘푸네
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		while(true){
 			int word = Integer.parseInt(br.readLine());
