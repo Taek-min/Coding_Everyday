@@ -44,10 +44,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) | [창민](Day90/kcm_2145.java) 택민 가희 성수 | 창민 택민 가희 성수             |
+| [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) | [창민](Day90/kcm_2145.java) 택민 가희 성수 | [창민](Day90/kcm_2145.java) 택민 가희 성수             |
 
-## [91일차](Day)
+## [91일차](Day91)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 그대로 출력하기](https://www.acmicpc.net/problem/11718) | 창민 택민 가희 *[성수](Day91/ass_11718.java)* | 창민 택민 가희 성수             |
+| [<sub>![Bronze3]</sub> 그대로 출력하기](https://www.acmicpc.net/problem/11718) | *[창민](Day91/kcm_11718.java)* 택민 가희 *[성수](Day91/ass_11718.java)* | 창민 택민 가희 성수             |
