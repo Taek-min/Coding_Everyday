@@ -119,7 +119,7 @@
 [<sub>![Bronze3]</sub> 백발백중하는 명사수](https://www.acmicpc.net/problem/22938) |
 [<sub>![Silver5]</sub> 도비의 난독증 테스트](https://www.acmicpc.net/problem/2204) |
 [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) |
-[<sub>![Bronze3]</sub> 그대로 출력하기](https://www.acmicpc.net/problem/11718) |
+[<sub>![Bronze3]</sub> 그대로 출력하기]https://www.acmicpc.net/problem/11718 |
 [<sub>![Bronze3]</sub> 최소, 최대](https://www.acmicpc.net/problem/10818) |
 
 ## 👨‍💻 스터디원
