@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-[<sub>![Bronze3]</sub> 최소, 최대](https://www.acmicpc.net/problem/10818) | [창민](Day92/kcm_10818.java) 택민 예은 가희 [성수](Day92/ass_10818.java) | 창민 택민 예은 가희 성수             |
+[<sub>![Bronze3]</sub> 최소, 최대](https://www.acmicpc.net/problem/10818) | [창민](Day92/kcm_10818.java) [택민](Day92/jtm_10818.c) 예은 가희 [성수](Day92/ass_10818.java) | 창민 택민 예은 가희 성수             |
 
 ## [93일차](Day93)
 
