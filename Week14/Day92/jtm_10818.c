@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void size_number(int* nums, int input);
+void size_number(int* nums, int input); ////C 언어는 오랜만에 보네
 
 int main()
 {

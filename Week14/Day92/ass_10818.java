@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //// 정석 굳
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 		int nums[] = new int [num];
