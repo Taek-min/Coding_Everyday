@@ -10,17 +10,17 @@
 [Silver2]: https://user-images.githubusercontent.com/33937365/126247622-a83b30a9-6618-4593-b775-6f6730afd3f6.png
 [Silver1]: https://user-images.githubusercontent.com/33937365/126247625-8d82f8ab-6f95-4ef8-a243-be31f548596e.png
 
-## [92일차](Day)
+## [92일차](Day92)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
 [<sub>![Bronze3]</sub> 최소, 최대](https://www.acmicpc.net/problem/10818) | [창민](Day92/kcm_10818.java) 택민 예은 가희 [성수](Day92/ass_10818.java) | 창민 택민 예은 가희 성수             |
 
-## [일차](Day)
+## [93일차](Day93)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Unrated]</sub> 문제이름](문제링크) | 창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 지능형 기차](https://www.acmicpc.net/problem/2455) | 창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
