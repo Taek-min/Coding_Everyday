@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) | [창민](Day90/kcm_2145.java) 택민 가희 성수 | [창민](Day90/kcm_2145.java) 택민 가희 성수             |
+| [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) | [창민](Day90/kcm_2145.java) 택민 [가희](Day90/kkh_2145.java) 성수 | [창민](Day90/kcm_2145.java) 택민 가희 성수             |
 
 ## [91일차](Day91)
 
