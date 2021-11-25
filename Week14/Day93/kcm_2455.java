@@ -7,7 +7,7 @@ public class Main {
 		int passenger = 0;
 
 		for(int i = 0; i < 4; i++) {
-			int quit = in.nextInt();
+			int quit = in.nextInt(); //이거 바로 계산해도 되지롱 >_<
 			passenger -= quit;
 			int enter = in.nextInt();
 			passenger += enter;

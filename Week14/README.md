@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 지능형 기차](https://www.acmicpc.net/problem/2455) | [창민](Day93/kcm_2455.java) 택민 가희 성수 | 창민 택민 가희 성수             |
+| [<sub>![Bronze3]</sub> 지능형 기차](https://www.acmicpc.net/problem/2455) | [창민](Day93/kcm_2455.java) 택민 [가희](Day93/kkh_2455.java) 성수 | 창민 택민 가희 성수             |
 
 ## [94일차](Day94)
 
