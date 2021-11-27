@@ -121,8 +121,9 @@
 [<sub>![Bronze2]</sub> 숫자 놀이](https://www.acmicpc.net/problem/2145) |
 [<sub>![Bronze3]</sub> 그대로 출력하기](https://www.acmicpc.net/problem/11718) |
 [<sub>![Bronze3]</sub> 최소, 최대](https://www.acmicpc.net/problem/10818) |
-[<sub>![Bronze3]</sub> 지능형 기차](https://www.acmicpc.net/problem/2455)
-[<sub>![Bronze3]</sub> 다면체](https://www.acmicpc.net/problem/10569)
+[<sub>![Bronze3]</sub> 지능형 기차](https://www.acmicpc.net/problem/2455) |
+[<sub>![Bronze3]</sub> 다면체](https://www.acmicpc.net/problem/10569) |
+[<sub>![Bronze3]</sub> 별찍기 - 13](https://www.acmicpc.net/problem/2523) |
 
 ## 👨‍💻 스터디원
 <table>
