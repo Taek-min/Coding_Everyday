@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 다면체](https://www.acmicpc.net/problem/10569) | [창민](Day94/kcm_10569.java) 택민 [가희](Day94/kkh_10569.java) 성수 | 창민 택민 가희 성수             |
+| [<sub>![Bronze3]</sub> 다면체](https://www.acmicpc.net/problem/10569) | [창민](Day94/kcm_10569.java) 택민 [가희](Day94/kkh_10569.java) 성수 | 창민 택민 [가희](Day94/kkh_10569.java) 성수             |
 
 ## [95일차](Day95)
 
