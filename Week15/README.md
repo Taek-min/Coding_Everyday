@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |  창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |  창민 [택민](Day96/jtm_17356.java) 예은 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
