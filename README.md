@@ -125,6 +125,8 @@
 [<sub>![Bronze3]</sub> 다면체](https://www.acmicpc.net/problem/10569) |
 [<sub>![Bronze3]</sub> 별찍기 - 13](https://www.acmicpc.net/problem/2523) |
 [<sub>![Bronze3]</sub> 아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) |
+[<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |
+
 
 ## 👨‍💻 스터디원
 <table>
