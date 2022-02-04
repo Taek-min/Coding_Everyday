@@ -127,6 +127,7 @@
 [<sub>![Bronze3]</sub> 아이들은 사탕을 좋아해](https://www.acmicpc.net/problem/9550) |
 [<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |
 [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) |
+[<sub>![Silver1]</sub> 트리 순회](https://www.acmicpc.net/problem/1991) |
 
 ## 👨‍💻 스터디원
 <table>
