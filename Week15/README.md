@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | 창민 택민 [현민](Day96/shm_2935.java) 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | 창민 택민 [현민](Day96/shm_2935.java) 예은 [가희](Day96/kkh_2935.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [98일차](Day98)
 
