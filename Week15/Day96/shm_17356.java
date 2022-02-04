@@ -8,3 +8,4 @@ public class Main {
 		System.out.println(1 / (1 + Math.pow(10, (second - first) / 400)));
 	}
 }
+//깔꼼하네
