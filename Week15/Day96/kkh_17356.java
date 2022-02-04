@@ -10,3 +10,4 @@ public class Main {
 		System.out.println(1 / (1 + Math.pow(10, M)));
 	}
 }
+// 잘하네~?
