@@ -7,3 +7,4 @@ b = int(inputs[1])
 
 print(1/(1+pow(10, getM(a,b))))
 
+## 깔껌

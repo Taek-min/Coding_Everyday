@@ -14,19 +14,19 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |  [창민](Day96/kcm_17356.java) [택민](Day96/jtm_17356.java) [현민](Day96/shm_17356.java) [예은](Day96/lye_17356.py) [가희](Day96/kkh_17356.java) 성수 | 창민 [택민](Day96/jtm_17356.java) 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 욱 제](https://www.acmicpc.net/problem/17356) |  [창민](Day96/kcm_17356.java) [택민](Day96/jtm_17356.java) [현민](Day96/shm_17356.java) [예은](Day96/lye_17356.py) [가희](Day96/kkh_17356.java) 성수 | [창민](Day96/kcm_17356.java) [택민](Day96/jtm_17356.java) 예은 가희 성수             |
 
 ## [97일차](Day97)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | 창민 [택민](Day97/jtm_2935.java) [현민](Day97/shm_2935.java) [예은](Day97/lye_2935.py) [가희](Day97/kkh_2935.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | [창민](Day97/kcm_2935.java) [택민](Day97/jtm_2935.java) [현민](Day97/shm_2935.java) [예은](Day97/lye_2935.py) [가희](Day97/kkh_2935.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [98일차](Day98)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | 창민 현민 [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | [창민](Day98/kcm_2877.java) 현민 [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [99일차](Day99)
 
