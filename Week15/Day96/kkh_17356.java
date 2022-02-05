@@ -11,4 +11,4 @@ public class Main {
 	}
 }
 // 잘하네~?
-// clean
+// clean : 2

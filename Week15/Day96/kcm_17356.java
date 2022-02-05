@@ -11,4 +11,4 @@ public class Main {
 		System.out.println(win);
 	}
 }
-//깔꼼하네 : 2
+//깔꼼하네 : 2 : 3

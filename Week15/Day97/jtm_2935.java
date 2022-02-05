@@ -15,4 +15,4 @@ public class Main {
 		}
 	}
 }
-// 굳
+// 굳 : 2

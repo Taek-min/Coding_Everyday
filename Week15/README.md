@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | [창민](Day98/kcm_2877.java) 현민 [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | [창민](Day98/kcm_2877.java) [현민](Day98/shm_2877.java) [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [99일차](Day99)
 

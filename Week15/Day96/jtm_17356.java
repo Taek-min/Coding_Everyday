@@ -11,4 +11,4 @@ public class Main {
 		System.out.printf("%.6f", 1 / (1+Math.pow(10, M)));
 	}
 }
-//깔꼼하네 :2
+//깔꼼하네 :2 : 3

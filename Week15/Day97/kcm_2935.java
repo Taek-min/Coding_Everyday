@@ -16,5 +16,5 @@ public class Main {
 			System.out.println(A.add(B));
 		}
 	}
-
 }
+// Good man 
