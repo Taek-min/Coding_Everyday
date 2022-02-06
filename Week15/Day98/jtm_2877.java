@@ -26,3 +26,4 @@ public class Main {
 	}
 }
 //매우 스마트해요
+// 잘 풀었어
