@@ -29,5 +29,5 @@ public class Main {
 		System.out.println(sum);
 	}
 }
-// 베리 스마트해요
+// 베리 스마트해요 : 2
 // 택민이꺼랑 비슷한데 한번에 넣어버렸네~? 잘했다!!!

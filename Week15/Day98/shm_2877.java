@@ -26,5 +26,5 @@ public class Main {
 		System.out.println(result.toString());
 	}
 }
-// 다들 잘 푸는구만~
-// 택민이꺼랑 같네~? 잘했네~~~
+// 다들 잘 푸는구만~ : 2
+// 택민이꺼랑 같네~? 잘했네~~~ 
