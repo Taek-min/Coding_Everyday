@@ -129,6 +129,7 @@
 [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) |
 [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) |
 [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) |
+[<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) |
 
 ## 👨‍💻 스터디원
 <table>
