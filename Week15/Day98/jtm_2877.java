@@ -25,3 +25,4 @@ public class Main {
 		System.out.println(result.toString());
 	}
 }
+//매우 스마트해요

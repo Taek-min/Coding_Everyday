@@ -29,3 +29,4 @@ public class Main {
 		System.out.println(sum);
 	}
 }
+// 베리 스마트해요
