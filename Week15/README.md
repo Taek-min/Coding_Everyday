@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | [창민](Day97/kcm_2935.java) [택민](Day97/jtm_2935.java) [현민](Day97/shm_2935.java) [예은](Day97/lye_2935.py) [가희](Day97/kkh_2935.java) 성수 | [창민](Day97/kcm_2935.java) 택민 [현민](Day97/shm_2935.java) 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 소음](https://www.acmicpc.net/problem/2935) | [창민](Day97/kcm_2935.java) [택민](Day97/jtm_2935.java) [현민](Day97/shm_2935.java) [예은](Day97/lye_2935.py) [가희](Day97/kkh_2935.java) 성수 | [창민](Day97/kcm_2935.java) [택민](Day97/jtm_2935.java) [현민](Day97/shm_2935.java) 예은 가희 성수             |
 
 ## [98일차](Day98)
 
@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) | [창민](Day99/kcm_2442.java) 택민 [현민](Day99/shm_2442.java) 예은 가희 성수 | 창민 택민 현민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) | [창민](Day99/kcm_2442.java) [택민](Day99/jtm_2442.java) [현민](Day99/shm_2442.java) 예은 가희 성수 | 창민 택민 현민 예은 가희 성수             |
 
 ## [100일차](Day100)
 
