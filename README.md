@@ -142,7 +142,7 @@
       </a>
     <td align="center">
       <a href="https://github.com/Seohyunmin42">
-        <img src="https://i.pinimg.com/originals/b6/83/9a/b6839ad8e148c1c4e0f316b07f268f69.jpg" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/79955395?v=4" width="100px;" alt=""/>
         <br/>
         서현민
       </a>
