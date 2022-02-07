@@ -17,4 +17,4 @@ public class Main {
 	}
 }
 
-// 굿굿굿
+// 굿굿굿 :2

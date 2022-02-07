@@ -17,4 +17,4 @@ public class Main{
 	}
 }
 
-//// 깔끔
+//// 깔끔 :2

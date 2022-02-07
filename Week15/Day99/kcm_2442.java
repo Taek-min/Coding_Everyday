@@ -19,3 +19,4 @@ public class Main {
 		}
 	}
 }
+//내가 원하던 if문이야 ㅜ 잘했네~!

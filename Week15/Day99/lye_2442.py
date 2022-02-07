@@ -7,4 +7,4 @@ for i in range(1, line+1):
 		print('*', end='')
 	print()
 
-## 깔끔
+## 깔끔 :2
