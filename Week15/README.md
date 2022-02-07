@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) 예은 [가희](Day100/kkh_1964.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) 예은(Day100/lye_1964.py) [가희](Day100/kkh_1964.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [101일차](Day101)
 
