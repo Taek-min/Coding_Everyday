@@ -17,3 +17,5 @@ public class Main {
 		}
 	}
 }
+
+// 잘풀었네용
