@@ -26,25 +26,25 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | [창민](Day98/kcm_2877.java) *[현민](Day98/shm_2877.java)* [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | [창민](Day98/kcm_2877.java) [택민](Day98/jtm_2877.java) 예은 가희 성수             |
+| [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) | [창민](Day98/kcm_2877.java) *[현민](Day98/shm_2877.java)* [택민](Day98/jtm_2877.java) 예은 [가희](Day98/kkh_2877.java) 성수 | [창민](Day98/kcm_2877.java) [택민](Day98/jtm_2877.java) [현민](Day98/shm_2877.java) 예은 가희 성수             |
 
 ## [99일차](Day99)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) | [창민](Day99/kcm_2442.java) [택민](Day99/jtm_2442.java) [현민](Day99/shm_2442.java) [예은](Day99/lye_2442.py) [가희](Day99/kkh_2442.java) 성수 | [창민](Day99/kcm_2442.java) 택민 현민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) | [창민](Day99/kcm_2442.java) [택민](Day99/jtm_2442.java) [현민](Day99/shm_2442.java) [예은](Day99/lye_2442.py) [가희](Day99/kkh_2442.java) 성수 | [창민](Day99/kcm_2442.java) 택민 [현민](Day99/shm_2442.java) 예은 가희 성수             |
 
 ## [100일차](Day100)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) [현민](Day100/shm_1964.java) | 창민 택민 예은 가희 현민             |
 
 ## [101일차](Day101)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) 택민 예은 가희 [현민](Day101/shm_2839.java) | 창민 택민 예은 가희 현민             |
 
 ## [102일차](Day102)
 

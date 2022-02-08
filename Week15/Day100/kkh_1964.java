@@ -21,4 +21,4 @@ public class Main {
       System.out.println(point % 45678);
    }
 }
-// 잘하셧네요
+// 잘하셧네요 : 2

@@ -14,3 +14,4 @@ public class kcm_1964 {
 		
 	}
 }
+// good
