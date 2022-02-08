@@ -14,3 +14,4 @@ public class Main {
 		System.out.println(total % 45678);
 	}
 }
+// 잘했네~
