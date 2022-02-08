@@ -1,20 +1,16 @@
 import java.util.Scanner;
 
-public class Main {
+public class kcm_1964 {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int num = in.nextInt();
-		long dot = 5;
+		long dot = 1;
 		
-		if(num == 1) {
-			System.out.println(dot);
+		for(int i = 1; i <= num; i++) {
+			dot += 4 + 3 * (i - 1);
 		}
-		else {
-			for(int i = 2; i <= num; i++) {
-				dot += 4 + 3 * (i - 1);
-			}
-			System.out.println(dot % 45678);
-		}
+		System.out.println(dot % 45678);
+		
 	}
 }
