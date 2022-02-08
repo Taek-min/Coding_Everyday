@@ -14,3 +14,5 @@ public class Main {
 		System.out.println(term % 45678);
 	}
 }
+
+// 깔끔하게 풀었네
