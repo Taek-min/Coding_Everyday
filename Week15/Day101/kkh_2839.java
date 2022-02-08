@@ -16,10 +16,10 @@ public class Main {
 			}
 		}
 			
-		if(N != 0) {
-			System.out.println("-1");
-		} else {
+		if(N == 0) {
 			System.out.println(cnt);
+		} else {
+			System.out.println("-1");
 		}
 	}
 }
