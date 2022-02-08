@@ -130,6 +130,7 @@
 [<sub>![Silver1]</sub> 4와 7](https://www.acmicpc.net/problem/2877) |
 [<sub>![Bronze3]</sub> 별찍기 - 5](https://www.acmicpc.net/problem/2442) |
 [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) |
+[<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) |
 
 ## 👨‍💻 스터디원
 <table>
