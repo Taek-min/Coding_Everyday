@@ -24,4 +24,4 @@ public class Main {
 		System.out.println(total);
 	}
 }
-// 잘풀었네~ :2
+// 잘풀었네~ :2 : 3
