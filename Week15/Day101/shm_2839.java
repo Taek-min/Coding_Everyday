@@ -24,3 +24,4 @@ public class Main {
 		System.out.println(total);
 	}
 }
+// 잘풀었네~

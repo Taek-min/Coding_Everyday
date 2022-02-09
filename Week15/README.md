@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) [현민](Day100/shm_1964.java) | 창민 택민 예은 가희 [현민](Day100/shm_1964.java)             |
+| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) [현민](Day100/shm_1964.java) | [창민](Day100/kcm_1964.java) 택민 예은 가희 [현민](Day100/shm_1964.java)             |
 
 ## [101일차](Day101)
 
@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | 창민 택민 예은 가희 [현민](Day102/shm_1085.java) | 창민 택민 예은 가희 현민            |
+| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [창민](Day102/kcm_1085.java) 택민 예은 가희 [현민](Day102/shm_1085.java) | 창민 택민 예은 가희 현민            |

@@ -6,7 +6,7 @@ public class kcm_1964 {
 		Scanner in = new Scanner(System.in);
 		int num = in.nextInt();
 		long dot = 1;
-		
+
 		for(int i = 1; i <= num; i++) {
 			dot += 4 + 3 * (i - 1);
 		}
