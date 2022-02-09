@@ -38,13 +38,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) [현민](Day100/shm_1964.java) | [창민](Day100/kcm_1964.java) 택민 예은 가희 [현민](Day100/shm_1964.java)             |
+| [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) [예은](Day100/lye_1964.py) [가희](Day100/kkh_1964.java) [현민](Day100/shm_1964.java) | [창민](Day100/kcm_1964.java) [택민](Day100/jtm_1964.java) 예은 가희 [현민](Day100/shm_1964.java)             |
 
 ## [101일차](Day101)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) 택민 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | 창민 택민 예은 가희 현민             |
 
 ## [102일차](Day102)
 
