@@ -20,7 +20,7 @@ public class Main{
 		    if(N < 0){
 		        System.out.println(-1);
 		        break;
-        }
-    }
+        } //이거..
+    } // 좀 그렇다..
 	}
 }
