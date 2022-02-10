@@ -126,6 +126,7 @@
 [<sub>![Bronze3]</sub> 오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964) |
 [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) |
 [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) |
+[<sub>![Silver4]</sub> 카드2](https://www.acmicpc.net/problem/2164) |
 
 ## 👨‍💻 스터디원
 <table>
