@@ -14,4 +14,4 @@ public class Main {
 		System.out.println(diff1 < diff2 ? diff1 : diff2);
 	}
 }
-//멋있어요 잘풀었네요
+//멋있어요 잘풀었네요 :2
