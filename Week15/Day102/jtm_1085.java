@@ -11,4 +11,4 @@ public class Main {
 		System.out.println(Math.min(Math.min(w-x, x),Math.min(h-y, y)));
 	}
 }
-//훌륭해요 
+//훌륭해요 :2
