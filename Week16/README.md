@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 카드2](https://www.acmicpc.net/problem/2164) | 창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Silver4]</sub> 카드2](https://www.acmicpc.net/problem/2164) | 창민 택민 예은 가희 [현민](Day103/shm_2164.java) | 창민 택민 예은 가희 현민             |
 
 ## [일차](Day)
 

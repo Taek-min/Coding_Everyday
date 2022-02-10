@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | 창민 택민 예은 가희 [현민](Day101/shm_2839.java)             |
 
 ## [102일차](Day102)
 
