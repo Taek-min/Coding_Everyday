@@ -18,5 +18,5 @@ public class Main {
 		System.out.println(queue.poll());
 	}
 }
-// 큐써서 푼 모습 멋있어
-// 새로 하나 배워가네요 굿
+// 큐써서 푼 모습 멋있어 : 22
+// 새로 하나 배워가네요 굿 : 22

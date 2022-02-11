@@ -22,3 +22,4 @@ public class Main {
 	}
 }
 // 거듭제곱으로 풀었네 bb
+// 굳 굳 
