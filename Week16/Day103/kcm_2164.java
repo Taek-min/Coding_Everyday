@@ -23,3 +23,4 @@ public class kcm_2164 {
 		}	
 	}
 }
+// 거듭제곱으로 풀었네 bb

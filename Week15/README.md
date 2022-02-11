@@ -44,10 +44,10 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | [창민](Day101/kcm_2839.java) 택민 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java)             |
+| [<sub>![Bronze1]</sub> 설탕 배달](https://www.acmicpc.net/problem/2839) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java) | [창민](Day101/kcm_2839.java) [택민](Day101/jtm_2839.java) 예은 [가희](Day101/kkh_2839.java) [현민](Day101/shm_2839.java)             |
 
 ## [102일차](Day102)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [창민](Day102/kcm_1085.java) [택민](Day102/jtm_1085.java) 예은 [가희](Day102/kkh_1085.java) [현민](Day102/shm_1085.java) | 창민 택민 예은 가희 현민            |
+| [<sub>![Bronze3]</sub> 직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [창민](Day102/kcm_1085.java) [택민](Day102/jtm_1085.java) 예은 [가희](Day102/kkh_1085.java) [현민](Day102/shm_1085.java) | 창민 [택민](Day102/jtm_1085.java) 예은 가희 현민            |
