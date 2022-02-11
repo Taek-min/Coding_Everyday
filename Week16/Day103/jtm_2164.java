@@ -22,3 +22,4 @@ public class Main{
        System.out.println(linkedlist.get(0));
    }
 }
+// 굳굳 나도 첨에 이렇게 풀다가 못했는데 배워갑니다

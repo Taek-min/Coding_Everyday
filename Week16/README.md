@@ -20,7 +20,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | 창민 [택민](Day104/jtm_9237.java) 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | [창민](Day104/kcm_9237.java) [택민](Day104/jtm_9237.java) 예은 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
