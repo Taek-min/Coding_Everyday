@@ -7,7 +7,7 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		int amount = in.nextInt();
 		in.nextLine();
-		int nums[] = Arrays.stream(in.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+		int nums[] = Arrays.stream(in.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray(); //이거 좋네 오랜만에 본다
 		Arrays.sort(nums);
 		int max = nums[0] + 1;
 		

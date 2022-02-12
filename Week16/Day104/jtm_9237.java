@@ -20,4 +20,4 @@ public class Main {
         System.out.println(result);
     }
 }
-//good
+//good : 2

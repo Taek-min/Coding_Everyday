@@ -23,4 +23,4 @@ public class Day8 {
 		System.out.println(min + 1);
     }
 }
-/// 토큰 좀 치네
+/// 토큰 좀 치네 : 왜 따라해 물론 내가 늦었긴 하지만 
