@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
