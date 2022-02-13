@@ -129,6 +129,7 @@
 [<sub>![Silver4]</sub> 카드2](https://www.acmicpc.net/problem/2164) |
 [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) |
 [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) |
+[<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) |
 
 ## 👨‍💻 스터디원
 <table>
