@@ -20,25 +20,25 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | [창민](Day104/kcm_9237.java) [택민](Day104/jtm_9237.java) 예은 [가희](Day104/kkh_9237.java) [현민](Day104/shm_9237.java) | 창민 택민 예은 가희 [현민](Day104/shm_9237.java)             |
+| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | [창민](Day104/kcm_9237.java) [택민](Day104/jtm_9237.java) 예은 [가희](Day104/kkh_9237.java) [현민](Day104/shm_9237.java) | [창민](Day104/kcm_9237.java) 택민 예은 가희 [현민](Day104/shm_9237.java)             |
 
 ## [105일차](Day105)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | 창민 택민 예은 가희 [현민](Day105/shm_5063.java)             |
+| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | [창민](Day105/kcm_5063.java) 택민 예은 가희 [현민](Day105/shm_5063.java)             |
 
 ## [106일차](Day106)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | 창민 택민 예은 가희 [현민](Day106/shm_10773.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | [창민](Day106/kcm_10773.java) 택민 예은 가희 [현민](Day106/shm_10773.java) | 창민 택민 예은 가희 현민             |
 
 ## [107일차](Day107)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | 창민 택민 예은 가희 [현민](Day107/shm_1592.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | [창민](Day107/kcm_1592.java) 택민 예은 가희 [현민](Day107/shm_1592.java) | 창민 택민 예은 가희 현민             |
 
 ## [일차](Day)
 
