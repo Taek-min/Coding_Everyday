@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | 창민 택민 예은 가희 [현민](Day105/shm_5063.java)             |
 
 ## [106일차](Day106)
 
@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | 창민 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | 창민 택민 예은 가희 [현민](Day107/shm_1592.java) | 창민 택민 예은 가희 현민             |
 
 ## [일차](Day)
 
