@@ -130,6 +130,7 @@
 [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) |
 [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) |
 [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) |
+[<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) |
 
 ## 👨‍💻 스터디원
 <table>
