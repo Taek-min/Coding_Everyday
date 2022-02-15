@@ -25,3 +25,4 @@ public class Main {
 		System.out.println(sum);
 	}
 }
+//잘풀었눼용

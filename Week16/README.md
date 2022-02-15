@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | [창민](Day106/kcm_10773.java) [택민](Day106/jtm_10773.java) 예은 가희 [현민](Day106/shm_10773.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | [창민](Day106/kcm_10773.java) [택민](Day106/jtm_10773.java) 예은 가희 [현민](Day106/shm_10773.java) | [창민](Day106/kcm_10773.java) 택민 예은 가희 현민             |
 
 ## [107일차](Day107)
 
@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 전투 드로이드 가격](https://www.acmicpc.net/problem/5361) | 창민 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 전투 드로이드 가격](https://www.acmicpc.net/problem/5361) | [창민](Day108/kcm_5361.java) 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
