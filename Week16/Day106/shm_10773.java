@@ -22,4 +22,4 @@ public class Main {
 		System.out.println(sum);
 	}
 }
-// 좋았따~ 스택사용
+// 좋았따~ 스택사용 : 22

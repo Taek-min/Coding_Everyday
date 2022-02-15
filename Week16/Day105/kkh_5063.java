@@ -22,3 +22,4 @@ public class Main {
 	}
 }
 // 너무 쉽다 그지~
+// good

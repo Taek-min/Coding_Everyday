@@ -25,3 +25,4 @@ public class Main {
 		System.out.println(IntStream.of(nums).sum());
 	}
 }
+// 너무 잘하고
