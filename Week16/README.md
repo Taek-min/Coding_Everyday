@@ -40,11 +40,11 @@
 | -------------------- | ---- | ---------------- |
 | [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | [창민](Day107/kcm_1592.java) [택민](Day107/jtm_1592.java) 예은 가희 [현민](Day107/shm_1592.java) | 창민 택민 예은 가희 현민             |
 
-## [일차](Day)
+## [108일차](Day108)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 전투 드로이드 가격](https://www.acmicpc.net/problem/5361) | [창민](Day108/kcm_5361.java) 택민 예은 가희 성수 | 창민 택민 예은 가희 성수             |
+| [<sub>![Bronze3]</sub> 전투 드로이드 가격](https://www.acmicpc.net/problem/5361) | [창민](Day108/kcm_5361.java) [택민](Day108/jtm_5361.java) 예은 가희 성수 | 창민 택민 예은 가희 성수             |
 
 ## [일차](Day)
 
