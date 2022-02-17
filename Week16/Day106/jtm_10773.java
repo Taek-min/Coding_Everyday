@@ -21,3 +21,4 @@ public class Main {
 			System.out.println(sum);
 	}
 }
+//스택좋아요 
