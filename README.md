@@ -132,6 +132,7 @@
 [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) |
 [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) |
 [<sub>![Bronze3]</sub> 전투 드로이드 가격](https://www.acmicpc.net/problem/5361) |
+[<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) |
 
 ## 👨‍💻 스터디원
 <table>
