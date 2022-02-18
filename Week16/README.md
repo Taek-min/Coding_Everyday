@@ -38,7 +38,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | [창민](Day107/kcm_1592.java) [택민](Day107/jtm_1592.java) 예은 가희 [현민](Day107/shm_1592.java) | 창민 택민 예은 가희 [현민](Day107/shm_1592.java)             |
+| [<sub>![Bronze2]</sub> 영식이와 친구들](https://www.acmicpc.net/problem/1592) | [창민](Day107/kcm_1592.java) [택민](Day107/jtm_1592.java) 예은 가희 [현민](Day107/shm_1592.java) | [창민](Day107/kcm_1592.java) 택민 예은 가희 [현민](Day107/shm_1592.java)             |
 
 ## [108일차](Day108)
 
@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) | 창민 택민 예은 가희 [현민](Day109/shm_2292.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) | [창민](Day109/kcm_2292.java) 택민 예은 가희 [현민](Day109/shm_2292.java) | 창민 택민 예은 가희 현민             |

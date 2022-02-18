@@ -17,3 +17,4 @@ public class Main {
 		}
 	}
 }
+// 배열 사용 욜루
