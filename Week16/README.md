@@ -20,13 +20,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | [창민](Day104/kcm_9237.java) [택민](Day104/jtm_9237.java) 예은 [가희](Day104/kkh_9237.java) [현민](Day104/shm_9237.java) | [창민](Day104/kcm_9237.java) 택민 예은 가희 [현민](Day104/shm_9237.java)             |
+| [<sub>![Silver5]</sub> 이장님 초대](https://www.acmicpc.net/problem/9237) | [창민](Day104/kcm_9237.java) [택민](Day104/jtm_9237.java) 예은 [가희](Day104/kkh_9237.java) [현민](Day104/shm_9237.java) | [창민](Day104/kcm_9237.java) 택민 예은 [가희](Day104/kkh_9237.java) [현민](Day104/shm_9237.java)             |
 
 ## [105일차](Day105)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) [택민](Day105/jtm_5063.java) 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | [창민](Day105/kcm_5063.java) 택민 예은 가희 [현민](Day105/shm_5063.java)             |
+| [<sub>![Bronze3]</sub> TGN](https://www.acmicpc.net/problem/5063) | [창민](Day105/kcm_5063.java) [택민](Day105/jtm_5063.java) 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java) | [창민](Day105/kcm_5063.java) 택민 예은 [가희](Day105/kkh_5063.java) [현민](Day105/shm_5063.java)             |
 
 ## [106일차](Day106)
 
