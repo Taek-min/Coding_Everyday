@@ -50,4 +50,4 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) | [창민](Day109/kcm_2292.java) 택민 예은 가희 [현민](Day109/shm_2292.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) | [창민](Day109/kcm_2292.java) 택민 예은 [가희](Day109/kkh_2292.java) [현민](Day109/shm_2292.java) | 창민 택민 예은 가희 현민             |
