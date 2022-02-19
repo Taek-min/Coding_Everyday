@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | [창민](Day106/kcm_10773.java) [택민](Day106/jtm_10773.java) 예은 가희 [현민](Day106/shm_10773.java) | [창민](Day106/kcm_10773.java) 택민 예은 가희 [현민](Day106/shm_10773.java)             |
+| [<sub>![Silver4]</sub> 제로](https://www.acmicpc.net/problem/10773) | [창민](Day106/kcm_10773.java) [택민](Day106/jtm_10773.java) 예은 [가희](Day106/kkh_10773.java) [현민](Day106/shm_10773.java) | [창민](Day106/kcm_10773.java) 택민 예은 [가희](Day106/kkh_10773.java) [현민](Day106/shm_10773.java)             |
 
 ## [107일차](Day107)
 
