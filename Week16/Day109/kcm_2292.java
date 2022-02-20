@@ -19,3 +19,4 @@ public class Main {
 		System.out.println(count);
 	}
 }
+// 멋져 
