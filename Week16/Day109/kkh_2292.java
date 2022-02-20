@@ -15,3 +15,4 @@ public class Main {
 		System.out.println(move + 1);
 	}
 }
+// 잘풀었네
