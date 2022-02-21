@@ -23,3 +23,4 @@ public class Main {
 		}
 	}
 }
+// for문 살짞 아쉽네용
