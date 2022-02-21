@@ -135,7 +135,7 @@
 [<sub>![Bronze2]</sub> 벌집](https://www.acmicpc.net/problem/2292) |
 [<sub>![Bronze3]</sub> 홀수](https://www.acmicpc.net/problem/2576) |
 [<sub>![Bronze3]</sub> 별 찍기 - 6](https://www.acmicpc.net/problem/2443) |
-
+[<sub>![Bronze2]</sub> 거울, 오! 거울](https://www.acmicpc.net/problem/4740) |
 
 ## 👨‍💻 스터디원
 <table>
