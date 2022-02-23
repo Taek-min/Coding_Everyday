@@ -14,13 +14,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 문제이름](https://www.acmicpc.net/problem/2576) | [창민](Day110/kcm_2576.java) 택민 예은 [가희](Day110/kkh_2576.java) [현민](Day110/shm_2576.java) | [창민](Day110/kcm_2576.java) 택민 예은 가희 [현민](Day110/shm_2576.java)             |
+| [<sub>![Bronze3]</sub> 문제이름](https://www.acmicpc.net/problem/2576) | [창민](Day110/kcm_2576.java) [택민](Day110/jtm_2576.java) 예은 [가희](Day110/kkh_2576.java) [현민](Day110/shm_2576.java) | [창민](Day110/kcm_2576.java) 택민 예은 가희 [현민](Day110/shm_2576.java)             |
 
 ## [111일차](Day111)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 별 찍기 - 6](https://www.acmicpc.net/problem/2443) | [창민](Day111/kcm_2443.java) 택민 예은 [가희](Day111/kkh_2443.java) [현민](Day111/shm_2443.java) | 창민 택민 예은 [가희](Day111/kkh_2443.java) [현민](DAy111/shm_2443.java)             |
+| [<sub>![Bronze3]</sub> 별 찍기 - 6](https://www.acmicpc.net/problem/2443) | [창민](Day111/kcm_2443.java) [택민](Day111/jtm_2443.java) 예은 [가희](Day111/kkh_2443.java) [현민](Day111/shm_2443.java) | 창민 택민 예은 [가희](Day111/kkh_2443.java) [현민](DAy111/shm_2443.java)             |
 
 ## [112일차](Day112)
 
