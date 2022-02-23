@@ -26,7 +26,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze2]</sub> 거울, 오! 거울](https://www.acmicpc.net/problem/4740) | [창민](Day112/kcm_4740.java) [택민](Day112/jtm_4740.java) 예은 [가희](Day112/kkh_4740.java) [현민](Day112/shm_4740.java) | [창민](Day112/kcm_4740.java) 택민 예은 가희 성수             |
+| [<sub>![Bronze2]</sub> 거울, 오! 거울](https://www.acmicpc.net/problem/4740) | [창민](Day112/kcm_4740.java) [택민](Day112/jtm_4740.java) 예은 [가희](Day112/kkh_4740.java) [현민](Day112/shm_4740.java) | [창민](Day112/kcm_4740.java) 택민 예은 [가희](Day112/kkh_4740.java) 성수             |
 
 ## [113일차](Day113)
 
