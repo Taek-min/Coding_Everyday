@@ -137,6 +137,7 @@
 [<sub>![Bronze3]</sub> 별 찍기 - 6](https://www.acmicpc.net/problem/2443) |
 [<sub>![Bronze2]</sub> 거울, 오! 거울](https://www.acmicpc.net/problem/4740) |
 [<sub>![Bronze3]</sub> ACM 호텔](https://www.acmicpc.net/problem/10250) |
+[<sub>![Bronze3]</sub> 초콜릿 자르기](https://www.acmicpc.net/problem/2163) |
 
 ## 👨‍💻 스터디원
 <table>
