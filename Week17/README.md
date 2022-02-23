@@ -14,7 +14,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 문제이름](https://www.acmicpc.net/problem/2576) | [창민](Day110/kcm_2576.java) [택민](Day110/jtm_2576.java) 예은 [가희](Day110/kkh_2576.java) [현민](Day110/shm_2576.java) | [창민](Day110/kcm_2576.java) 택민 예은 가희 [현민](Day110/shm_2576.java)             |
+| [<sub>![Bronze3]</sub> 홀수](https://www.acmicpc.net/problem/2576) | [창민](Day110/kcm_2576.java) [택민](Day110/jtm_2576.java) 예은 [가희](Day110/kkh_2576.java) [현민](Day110/shm_2576.java) | [창민](Day110/kcm_2576.java) 택민 예은 [가희](Day110/kkh_2576.java) [현민](Day110/shm_2576.java)             |
 
 ## [111일차](Day111)
 
