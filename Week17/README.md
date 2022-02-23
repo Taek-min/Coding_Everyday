@@ -32,13 +32,13 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> ACM 호텔](https://www.acmicpc.net/problem/10250) | 창민 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze3]</sub> ACM 호텔](https://www.acmicpc.net/problem/10250) | 창민 [택민](Day113/jtm_10250.java) 예은 가희 현민 | 창민 택민 예은 가희 현민             |
 
 ## [114일차](Day114)
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> 초콜릿 자르기](https://www.acmicpc.net/problem/2163) | 창민 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze3]</sub> 초콜릿 자르기](https://www.acmicpc.net/problem/2163) | 창민 택민(Day114/jtm_2163.java) 예은 가희 현민 | 창민 택민 예은 가희 현민             |
 
 ## [일차](Day)
 
