@@ -12,5 +12,5 @@ public class Main {
 			System.out.println(sb.reverse());		
 		}
 	}
-	//  다 똒같네 ?
+	//  다 똒같네 ? : 22 
 	

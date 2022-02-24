@@ -12,4 +12,4 @@ public class Main {
 			System.out.println(sb.reverse().toString());
 		}
 	} 
-}
+}//이~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~야
