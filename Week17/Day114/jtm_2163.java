@@ -8,3 +8,4 @@ public class Main {
 		System.out.println(N*M-1);
 	}
 }
+// 쉽다 쉬워

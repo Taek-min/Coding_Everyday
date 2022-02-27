@@ -32,7 +32,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze3]</sub> ACM 호텔](https://www.acmicpc.net/problem/10250) | [창민](Day113/kcm_10250.java) [택민](Day113/jtm_10250.java) 예은 [가희](Day113/kkh_10250.java) [현민](Day113/shm_10250.java) | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze3]</sub> ACM 호텔](https://www.acmicpc.net/problem/10250) | [창민](Day113/kcm_10250.java) [택민](Day113/jtm_10250.java) 예은 [가희](Day113/kkh_10250.java) [현민](Day113/shm_10250.java) | [창민](Day113/kcm_10250.java) 택민 예은 가희 현민             |
 
 ## [114일차](Day114)
 
@@ -44,7 +44,7 @@
 
 | 문제                 | 답안 | 피드백 반영 답안 |
 | -------------------- | ---- | ---------------- |
-| [<sub>![Bronze1]</sub> 가희야 거기서 자는 거 아니야](https://www.acmicpc.net/problem/21771) | 창민 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
+| [<sub>![Bronze1]</sub> 가희야 거기서 자는 거 아니야](https://www.acmicpc.net/problem/21771) | [창민](Day115/kcm_21771.java) 택민 예은 가희 현민 | 창민 택민 예은 가희 현민             |
 
 ## [116일차](Day116)
 
